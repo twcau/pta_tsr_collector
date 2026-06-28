@@ -1,0 +1,9 @@
+﻿metric,value,notes
+Total discovered PDFs,388,Rows in pta_tsr_source_pdfs.csv
+Processed PDFs,372,Source PDFs successfully processed
+Missing PDFs,16,"PTA API listed the item, but the URL could not be downloaded"
+Failed PDFs,0,Script or extraction failure
+Total TSR occurrences,8781,Rows in pta_tsr_occurrences.csv
+Total TSR masters,395,Rows in pta_tsr_masters.csv
+First notice date,2018-09-01 00:00:00,Earliest processed notice date
+Last notice date,2026-06-28 00:00:00,Latest processed notice date
