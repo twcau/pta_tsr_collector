@@ -1,15 +1,15 @@
-<!--omit from toc--># PTA TSR Collector
+# PTA TSR Collector
 
 A Python-based collection and analysis pipeline for extracting **Temporary Speed Restriction (TSR)** data from Public Transport Authority of Western Australia (PTA) Weekly Notices.
 
 The project discovers PTA Weekly Notice PDFs, downloads them, extracts the **Current Temporary Speed Restrictions / Current Speed Restrictions** table from each notice, stores the results in a resumable SQLite database, assigns recurring restrictions to master TSR records, and exports analysis-ready CSV files.
 
-> [!NOTE] Project status
-> Early operational / exploratory. The collector has successfully discovered a non-zero corpus of PTA Weekly Notice PDFs via the PTA DNN Document Viewer API and has begun processing real historical PDF notices into a CSV file. Expect further tuning as historical PDF layout edge cases are found.
+> [!NOTE]
+>
+> **Project status**: Early operational / exploratory. The collector has successfully discovered a non-zero corpus of PTA Weekly Notice PDFs via the PTA DNN Document Viewer API and has begun processing real historical PDF notices into a CSV file. Expect further tuning as historical PDF layout edge cases are found
 
 ## Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Why this project exists](#why-this-project-exists)
 - [What the collector does](#what-the-collector-does)
 - [What is unique about this project](#what-is-unique-about-this-project)
