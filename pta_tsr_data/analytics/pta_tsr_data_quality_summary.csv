@@ -1,0 +1,8 @@
+﻿metric,value,notes
+Processed PDFs,370,Source PDFs successfully processed
+Missing PDFs,16,PTA API listed item but URL unavailable
+Failed PDFs,2,Extraction/download failures
+Accepted TSR rows,5927,Validated rows in tsr_occurrence
+Manual-review rows,409,Rows excluded pending manual review
+Parser artefact rows skipped,78,Blank or low-content parser artefacts skipped before review
+Current active TSR rows,15,Accepted rows in latest processed notice

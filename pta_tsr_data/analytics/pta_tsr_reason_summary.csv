@@ -1,0 +1,364 @@
+﻿reason_group,reason_raw,restriction_occurrences,distinct_tsr_count
+Turnout / points,Turnout design,201,10
+Turnout / points,Turnout defects &,190,12
+Track geometry,Track Geometry,155,16
+Signals / train control,5-Aug-21 Signals,145,4
+Turnout / points,17-Sep-21 Turnout,145,2
+Noise mitigation,28-Sep-21 Noise Mitigation,142,5
+Turnout / points,03-Jun-21 Turnout,124,2
+Turnout / points,27-Mar-20 Turnout,121,5
+Track geometry,19-Mar-24 Track Geometry,110,2
+Turnout / points,18-Sep-24 Turnout,110,3
+Track geometry,29-Oct-21 Track Geometry,91,5
+Turnout / points,21-Apr-20 Turnout,90,3
+Noise mitigation,24-Sep-24 Noise Mitigation,86,3
+Turnout / points,Turnout design issues,84,10
+Level crossing / pedestrian crossing,15-Feb-21 Pedestrian Crossing Issue,82,3
+Track condition,Track Project,81,12
+Structures / bridge,8-Jul-22 Structural Integrity,76,2
+Signals / train control,Signalling Issues,75,6
+Rail surface defect,15-Oct-24 Rail Surface Defect,72,1
+Level crossing / pedestrian crossing,01-Sep-11 Pedestrian Crossing Issue,71,1
+Noise mitigation,Noise Mitigation,70,4
+Rail surface defect,3-Mar-25 Rail Surface Defect,69,2
+Turnout / points,Turnout defects,67,11
+Rail surface defect,4-Sep-24 Rail Surface Defect,66,3
+Structures / bridge,27-Oct-22 Structural Integrity,66,2
+Track geometry,23-Jan-23 Track Geometry,66,2
+Rail internal defect,13-Jun-24 Rail Internal Defect,64,2
+Track condition,Rail defects,64,12
+Turnout / points,18-Jun-24 Turnout,62,1
+Turnout / points,30-Jan-24 Turnout,59,2
+Turnout / points,15-Oct-24 Turnout,58,1
+Other / review required,27-Mar-20 Permanent TSR,57,5
+Rail internal defect,27- Feb-25 Rail Internal Defect,57,2
+Turnout / points,31-Jan-22 Turnout,56,2
+Turnout / points,25-Oct-22 Points Fault,55,2
+New rail / weld,31-Mar-25 New Rail,52,1
+Other / review required,22-Apr-22 Miscellaneous,49,2
+Track geometry,29-Nov-23 Track Geometry,45,2
+Turnout / points,11-Jul-24 Turnout,45,1
+Turnout / points,3-Sep-24 Turnout,45,3
+Level crossing / pedestrian crossing,01-Sep-11 Pedestrian Crossing,42,1
+Structures / bridge,03-Sep-24 Structural Integrity,42,1
+Track condition,Rail Defects,41,7
+Rail surface defect,5-Sep-25 Rail Surface Defect,40,3
+Level crossing / pedestrian crossing,Pedestrian Crossing Review,38,2
+Signals / train control,Signalling,36,3
+Track geometry,28-Feb-25 Track Alignment,36,1
+Noise mitigation,Excessive Noise,35,4
+Track condition,Track Defects,35,5
+Structures / bridge,8-Jul-22 Structural integrity,34,1
+Level crossing / pedestrian crossing,01-Sep-11 Pedestrian Crossing Issue Indefinite 26.000km,33,1
+Rail internal defect,Rail Internal Defect,33,9
+Rail surface defect,11-Aug-24 Rail Surface Defect,33,1
+Rail internal defect,7-Aug-24 Rail Internal Defect,32,1
+Rail surface defect,27-Jun-25 Rail Surface Defect,32,4
+Level crossing / pedestrian crossing,Sept 2011 Pedestrian Indefinite Robbs Jetty Crossing Review,31,1
+Rail surface defect,21-Nov-25 Rail Surface Defect,31,2
+Turnout / points,Turnout defects & turnout design issues,30,3
+Platform / station,25-Mar-25 Platform Gap,28,1
+Rail surface defect,17-Oct-24 Rail Surface Defect,27,1
+Track condition,Track Defect,27,5
+Track geometry,20-Mar-23 Track Geometry,27,1
+Structures / bridge,13-Jun-24 Structural integrity,26,1
+Turnout / points,22-Feb-24 Points Fault,26,1
+Other / review required,Loch St Ped Xing Indefinite Up Main issues,24,1
+Structures / bridge,3-Sep-24 Structural integrity,24,2
+Track geometry,7-Jul-22 Track Geometry,24,1
+Level crossing / pedestrian crossing,01-Sep-11 Pedestrian Crossing Indefinite 26.000km,23,1
+Rail surface defect,28-Jul-22 Rail Surface Defect,23,1
+Rail surface defect,15-Sep-25 Rail Surface Defect,22,2
+Structures / bridge,03-Sep-24 Structural Integrity TBD,22,1
+Rail internal defect,03-Feb-26 Ultrasonic Defect,21,4
+Rail surface defect,15-Nov-25 Rail Surface Defect,21,2
+Signals / train control,05-Aug-21 Signals,21,2
+Track condition,Rail wear/ flanging,21,4
+Track geometry,22-Apr-22 Track Geometry,21,3
+Track geometry,29-Apr-23 Track Geometry,21,1
+Track geometry,8-May-23 Track Geometry,21,1
+Other / review required,Jul-22,20,2
+Rail surface defect,12-Aug-25 Rail Surface Defect,20,3
+Rail surface defect,9-Aug-24 Rail Surface Defect,20,1
+Rail surface defect,3-Sep-24 Rail Surface Defect,19,2
+Track condition,Track Project Works,19,2
+Track geometry,4-Jun-23 Track Geometry,19,1
+Track geometry,1-Nov-23 Track Geometry,18,2
+Track geometry,"Track Geometry ,",18,1
+Rail surface defect,28-Jul-22 Rail Surface defects,17,1
+Track geometry,Geometry Defects,17,3
+Turnout / points,17-Sep-21 Turnouts,17,1
+Turnout / points,Points Defect,17,2
+Level crossing / pedestrian crossing,Sept 2011 Pedestrian Indefinite Robbs Jetty B-Directional Crossing Review,15,1
+Structures / bridge,27-Jun-25 Structural Integrity TBD,15,2
+Track geometry,23-Oct-23 Track Geometry,15,3
+Track geometry,Track geometry,15,1
+Turnout / points,08-Feb-24 Points Fault,15,3
+Turnout / points,15-Oct-24 Points Fault,14,1
+Level crossing / pedestrian crossing,Sept 2011 Pedestrian Indefinite Robbs Jetty Directional Crossing Review,13,1
+Other / review required,09-Jan,13,2
+Other / review required,Jetty Review 2011,13,1
+Track condition,Track defects,13,3
+Track geometry,09-Jan-24 Track Geometry,13,3
+Turnout / points,3-Sep-24 Turnout 01/02/2026,13,1
+Turnout / points,Turnout Defects,13,3
+Track condition,7-Mar-25 Track Defect,12,2
+Turnout / points,27- Feb- 26 Turnout,12,2
+Turnout / points,28-Jul-25 Turnout 01/03/2026,12,1
+Noise mitigation,Excessive Noise &,11,1
+Track geometry,6-Nov-23 Track Geometry,11,1
+Turnout / points,5-Aug-21 Turnout,11,1
+Level crossing / pedestrian crossing,Sep-11 Indefinite Robbs Jetty Directional Crossing Review,10,1
+Noise mitigation,27-Jul-20 Noise Mitigation,10,1
+Noise mitigation,Noise Mitigation Indefinite Lawley Main 21,10,1
+Other / review required,1-Aug-20 Indefinite Main design issues,10,1
+Other / review required,21-Apr-20 Indefinite Down Main issues,10,1
+Other / review required,21-Apr-20 Indefinite Main issues,10,1
+Other / review required,23-Jul-22 TBC event,10,1
+Other / review required,5-Apr-20 Indefinite Main issues,10,1
+Other / review required,Contaminated,10,5
+Other / review required,Indefinite Main,10,1
+Other / review required,Indefinite Main 20 design issues,10,1
+Other / review required,Indefinite Main 21 design issues,10,1
+Other / review required,"design non- Indefinite, Guildford Down Main 21",10,1
+Signals / train control,5-Aug-21 Signalling Indefinite Mundijong Directional,10,1
+Structures / bridge,8-Jul-22 TBC Park integrity,10,1
+Structures / bridge,Jul-22 TBC Park integrity,10,1
+Track condition,Apr-22 Track Defect,10,1
+Track geometry,Sep-22 Track Geometry,10,1
+Track geometry,Track Geometry TBC Main 20,10,1
+Turnout / points,19-Oct-23 Points Fault End of November,10,2
+Ballast / formation,19-Dec-25 Ballast/Formation,9,2
+Ballast / formation,29-Oct-21 Ballast / Formation of Work,9,1
+Other / review required,Loch St Ped Xing Indefinite Main issues,9,1
+Other / review required,September 2011,9,1
+Other / review required,September 2011 Indefinite Robbs Jetty Review,9,1
+Rail internal defect,21-Nov-25 Ultrasonic Defect,9,3
+Structures / bridge,13-Jun-24 Structural Integrity,9,1
+Structures / bridge,21-Mar-24 Structural Integrity,9,2
+Structures / bridge,21-Mar-24 Structural Integrity TBD by Civil,9,3
+Track condition,18-Jun-25 Track Defect,9,1
+Turnout / points,01 Aug2020 Turnout defects Indefinite Down Main & turnout design,9,1
+Turnout / points,11-Jan-24 Points Fault,9,4
+Turnout / points,28-Jul-25 Turnout,9,2
+Rail internal defect,7-Mar-25 Rail Internal Defect,8,1
+Rail internal defect,Rail ultrasonic defect,8,2
+Level crossing / pedestrian crossing,Pedestrian,7,1
+Level crossing / pedestrian crossing,Sept 2011 Pedestrian Crossing Indefinite Robbs Jetty Review,7,1
+Other / review required,03-Jun-21 Permanent TSR,7,1
+Other / review required,28-Jun-24 Miscellaneous,7,2
+Other / review required,Jetty Review,7,1
+Rail internal defect,Internal Rail Defects,7,1
+Rail internal defect,Rail Internal,7,5
+Rail internal defect,Rail Internal &,7,1
+Rail surface defect,20-Nov-24 Rail Surface Defect,7,1
+Structures / bridge,Stirling Down Main Vincent St Bridge 2019,7,1
+Track condition,Contaminated TBC Mundijong Armadale Bi-Directional Railhead,7,1
+Track condition,Rail defects 26.140km Up Main 2019,7,1
+Track condition,Rail defects Maddington 19.000km Up Main 2019,7,1
+Track condition,Sleeper Co,7,1
+Track geometry,4-Aug-23 Track Geometry,7,1
+Turnout / points,14-Feb-24 Points Fault,7,1
+Turnout / points,Points,7,2
+Turnout / points,Points points in yard 2019,7,1
+Ballast / formation,Facilities - City West TBC Up Main Platform deformation,6,1
+Level crossing / pedestrian crossing,Pedestrian Crossing,6,2
+Other / review required,23-Jan-23 N/A,6,1
+Other / review required,Due to Loch St Ped Indefinite Xing issues,6,1
+Rail surface defect,Rail Surface Defect,6,2
+Structures / bridge,27-Oct-22 Structural Integrity TBD by Civil,6,1
+Track condition,19th Rail Defect July,6,2
+Track condition,Sleeper Condition on 27th July,6,2
+Turnout / points,19-Oct-23 Points Fault,6,3
+Turnout / points,3-Sep-24 Turnout 19/03/2025,6,2
+Turnout / points,3-Sep-24 Turnout 26/10/2024,6,1
+Turnout / points,April 2020 Turnout de sign iss ues,6,2
+Ballast / formation,11-Feb-26 Earthworks Compromised,5,1
+Ballast / formation,9-Sep-22 Ballast / Formation,5,1
+Level crossing / pedestrian crossing,Sep-11 Pedestrian Crossing Issue,5,1
+Level crossing / pedestrian crossing,Sept 2011 Pedestrian Crossing Indefinite Robbs Jetty B-Directional Review,5,1
+New rail / weld,22-Sep-25 New Rail,5,1
+New rail / weld,29- May-25 Weld Defect,5,1
+Other / review required,23-Jul-22 Extreme weather event,5,1
+Rail internal defect,09-Nov-25 Rail Internal Defect,5,1
+Rail internal defect,21-Feb-25 Rail Internal Defect,5,1
+Track condition,30th Rail Defect June,5,1
+Track condition,Track condition,5,1
+Track geometry,29-Oct-22 Track Geometry,5,1
+Track geometry,Track Geometry Pending,5,1
+Level crossing / pedestrian crossing,estrian Crossing,4,2
+Other / review required,21 A pril 2020 Tur nout design issues,4,1
+Platform / station,Facilities - City TBC Up Main West Platform,4,1
+Track condition,1114A pts multiple rail defects,4,1
+Track condition,6-Mar-25 Heat Kick,4,1
+Track condition,Rail Defect,4,1
+Track condition,Rail defect 14.460km Down 2019,4,1
+Track condition,Track Defects Pending,4,1
+Track geometry,08-Feb-24 Track Geometry,4,1
+Track geometry,3-Oct-23 Track Geometry,4,2
+Turnout / points,08-Jan-24 Points Fault,4,1
+Turnout / points,16-Jan-24 Points Fault March 2024,4,1
+Turnout / points,16-Jan-24 Turnout 06/02/2024,4,1
+Turnout / points,27- Feb- 26 Turnout 05/04/2026,4,1
+Turnout / points,Turnouts,4,2
+Ballast / formation,17-Oct-23 Ballast / Formation,3,1
+Level crossing / pedestrian crossing,01-Sep-11 Pedestrian Crossing Issue Indefinite Beyond Service 40.7470km,3,1
+Noise mitigation,Excessive Noise & Rail,3,1
+Other / review required,09-Jan-24 TBD Damage,3,1
+Other / review required,22-Apr-22 Miscellaneous of Work,3,1
+Other / review required,August 2020,3,2
+Other / review required,per Condition on 27 th July 20,3,1
+Platform / station,10-Dec-25 Platform Gap,3,1
+Rail internal defect,25-Jan-24 Rail Internal Defect,3,1
+Rail internal defect,31-Mar-23 Rail Internal Defect,3,1
+Rail internal defect,5-Feb-25 Rail Internal Defect,3,2
+Rail internal defect,Rail Internal Defects,3,2
+Rail surface defect,Rail Surface,3,1
+Signals / train control,5-Jul-23 Signals,3,1
+Structures / bridge,16-Apr-24 Structural Integrity TBD by Civil,3,1
+Structures / bridge,27-Oct-22 Structural Integrity TBC by Civil,3,2
+Structures / bridge,27-Oct-22 Structural Integrity TBD by Civil Curve Wear & RCF,3,1
+Track condition,6 Rail defects Novembe,3,1
+Track condition,Rail defect 3,3,1
+Track condition,Rail defect Gosnells 18.170km Down September,3,1
+Track condition,Rail defects TBA Success Hill 9.040km,3,1
+Track geometry,2-Sep-24 Track Geometry,3,1
+Track geometry,4-Jun-2025 Track Geometry,3,1
+Turnout / points,08-Feb-24 Points Fault TBD by Civil,3,1
+Turnout / points,16-Jan-24 Turnout,3,2
+Turnout / points,16-Jan-24 Turnout 19/04/2024,3,1
+Turnout / points,28-Jul-25 Turnout 07/10/2025,3,1
+Turnout / points,Points Defect Feb 2021,3,1
+Works / project,22-Apr-22 RRP Scope Work of Work,3,1
+Ballast / formation,04-Oct-25 Ballast/ Formation,2,1
+Ballast / formation,Disturbed TBC Formation,2,1
+Level crossing / pedestrian crossing,September Pedestrian Indefinite Robbs Jetty 2011 Crossing,2,1
+New rail / weld,29-Jul-25 New Rail,2,1
+New rail / weld,Re-Rail March 18,2,2
+Noise mitigation,27 J uly 2020 E xcessive Noise,2,1
+Noise mitigation,Excessive TBA Lawley Down Main Noise,2,1
+Other / review required,02-Jul-24 Miscellaneous,2,1
+Other / review required,02-Jul-24 Miscellaneous 3,2,1
+Other / review required,05 A pril 2020 Tur nout design issues,2,1
+Other / review required,1 Au gust 2020,2,1
+Other / review required,1 Au gust 2020 turn out design issues,2,1
+Other / review required,10-Feb-25 Miscellaneous,2,2
+Other / review required,12 J une 2020 2,2,1
+Other / review required,15 J une 2020 Gau ge Corner Cracking,2,1
+Other / review required,17-Oct-23,2,1
+Other / review required,7 M arch 2020,2,1
+Other / review required,December 25th 2018,2,1
+Other / review required,July 2020 Excessi ve Nois e,2,1
+Other / review required,June 2020 Gauge Cor ner Cra cking,2,1
+Other / review required,March 2020,2,1
+Other / review required,epte mber 2011,2,1
+Other / review required,tember 2011,2,1
+Rail internal defect,13-Mar-25 Rail Internal Defect,2,1
+Rail internal defect,14-Mar-25 Rail Internal Defect,2,1
+Rail internal defect,20-Mar-24 Rail Internal Defect TBD by Civil,2,1
+Rail surface defect,11-Nov-24 Rail Surface Defect,2,2
+Rail surface defect,28-Jun-24 Rail Surface Defect,2,2
+Rail surface defect,3-Dec-24 Rail Surface Defect,2,1
+Rail surface defect,5-Aug-24 Rail Surface Defect,2,1
+Rail surface defect,7-Aug-24 Rail Surface Defect,2,2
+Structures / bridge,21-Mar-2024 Structural Integrity,2,1
+Structures / bridge,27-Oct-2022 Structural Integrity,2,1
+Structures / bridge,27-Oct-22 Structural Integrity Civil,2,1
+Track condition,8 J uly 2020 Track Defects,2,1
+Track condition,9 Ju ne 2020 Rail Defects 2,2,1
+Track condition,Heat buckle / Rail Stress,2,1
+Track condition,July 2020 Track Defects,2,1
+Track condition,June 2020 Rail D efects 2,2,1
+Track geometry,25-Jun-23 Track Geometry,2,1
+Track geometry,4-May-23 Track Geometry,2,1
+Track geometry,6-Jun-25 Track Geometry,2,1
+Turnout / points,& turnout design 2020 (Raise to,2,2
+Turnout / points,06-Apr-24 Turnout,2,1
+Turnout / points,16-Jan-24 Turnout 18/04/2024,2,1
+Turnout / points,19-Oct-23 Points Fault 01/0282024,2,1
+Turnout / points,25 J une 2020 Points Defect 2,2,1
+Turnout / points,28-Jul-25 Turnout 10/10/2025,2,1
+Turnout / points,August 2020 turnout de sign iss ues,2,1
+Turnout / points,FAL Project Points,2,1
+Turnout / points,June 2020 Points Defect 2,2,1
+Turnout / points,Points Defect February 2021,2,1
+Turnout / points,Turnout defects & Turnout design issues,2,2
+Works / project,Project Work TBC Down Main,2,1
+Works / project,Project Work TBC Up Main,2,1
+Ballast / formation,12-Sep-25 Ballast Formation,1,1
+Ballast / formation,17-Oct-23 Ballast / Formation TBC Public Transport Authority  WEEKLY NOTICE No. 45 4,1,1
+Ballast / formation,17-Oct-23 Ballast / Formation TBC Public Transport Authority  WEEKLY NOTICE No. 46 4,1,1
+Ballast / formation,17-Oct-23 Ballast / Formation TBC Public Transport Authority  WEEKLY NOTICE No. 47 4,1,1
+Ballast / formation,5-Sep-25 Ballast Formation,1,1
+Level crossing / pedestrian crossing,Robbs Jetty Crossing Review,1,1
+Level crossing / pedestrian crossing,Sept 2011 Pedestrian Crossing Indefinite Robbs Jetty Directional Review,1,1
+Level crossing / pedestrian crossing,September 2011 Crossing TBA Robbs Jetty,1,1
+New rail / weld,10-Jun-25 New Rail,1,1
+New rail / weld,17-Jul-25 New Rail,1,1
+New rail / weld,26-Aug-25 New Rail,1,1
+New rail / weld,3-Feb-26 New Rail,1,1
+New rail / weld,9-Sep-25 New Rail,1,1
+Other / review required,03-Jul-24 Miscellaneous,1,1
+Other / review required,04-Oct-25 Bog Hole,1,1
+Other / review required,22-Apr-22 Miscellaneous 3,1,1
+Other / review required,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 1 4,1,1
+Other / review required,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 48 4,1,1
+Other / review required,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 49 4,1,1
+Other / review required,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 50 4,1,1
+Other / review required,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 51 4,1,1
+Other / review required,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 52 4,1,1
+Other / review required,Cracking 2020,1,1
+Other / review required,Due to Loch St Indefinite Up Main Ped Xing issues,1,1
+Other / review required,Due to Loch St Ped Indefinite Main Xing issues,1,1
+Other / review required,Exce ssive N oise,1,1
+Other / review required,GCC 31 July 2020 Main,1,1
+Other / review required,Gauge Corner Cracking 2020,1,1
+Other / review required,Indefinite Robbs Jetty 2011 Review,1,1
+Other / review required,January 2020 Signa lling Iss ues,1,1
+Other / review required,March 2020 Turno ut defe cts &,1,1
+Other / review required,Poi nts Def ect 2020,1,1
+Other / review required,Turn out def ects,1,1
+Other / review required,per Condition on A,1,1
+Other / review required,ptember 2011,1,1
+Rail internal defect,02-Feb-24 Rail Internal Defect,1,1
+Rail internal defect,04-Jun-24 Rail Internal Defect,1,1
+Rail internal defect,20-Mar-24 Rail Internal Defect,1,1
+Rail surface defect,11-Mar-25 Rail Surface Defect,1,1
+Rail surface defect,28-Jul-22 Rail Surface Defects,1,1
+Rail surface defect,6-Aug-24 Rail Surface Defect,1,1
+Rail surface defect,7- Aug-2024 Rail Surface Defect,1,1
+Structures / bridge,21-Mar-22 Structural Integrity,1,1
+Structures / bridge,27-Oct-22 Structural Integrity TBC Public Transport Authority  WEEKLY NOTICE No. 10 4,1,1
+Track condition,03-Jun-24 Track Defect Identified,1,1
+Track condition,07-Nov-25 Track Condition,1,1
+Track condition,17-Jun-25 Track Defect,1,1
+Track condition,19-Mar-26 Heat Kick,1,1
+Track condition,25-Mar-25 Track Defect,1,1
+Track condition,Contaminated Railhead,1,1
+Track condition,Rail Defect at 856A,1,1
+Track condition,Rail defects 2019 12.760km Up Main,1,1
+Track condition,Rail defects Challis Main 2019,1,1
+Track condition,Rail defects Maddington Main 2019,1,1
+Track condition,Track Stress,1,1
+Track condition,multiple rail,1,1
+Track geometry,13-Oct-23 Track Geometry,1,1
+Track geometry,27-Aug-24 Track Geometry,1,1
+Track geometry,29-Oct-2 Track Geometry,1,1
+Track geometry,7-Mar-25 Track Alignment,1,1
+Track geometry,Geometry,1,1
+Turnout / points,& turnout design,1,1
+Turnout / points,) Turnout defects,1,1
+Turnout / points,) Turnout defects Mid-August,1,1
+Turnout / points,01-Aug-25 Wing Rail,1,1
+Turnout / points,03-June-21 Turnout,1,1
+Turnout / points,06-May-24 Turnout,1,1
+Turnout / points,09-Apr-24 Turnout,1,1
+Turnout / points,14-Feb-24 Points Fault 0904/2024,1,1
+Turnout / points,16-Jan-24 Points Fault,1,1
+Turnout / points,16-Jan-24 Turnout 01/04/2024,1,1
+Turnout / points,16-Jan-24 Turnout 15/03/2024,1,1
+Turnout / points,19-Feb-24 New Turnout,1,1
+Turnout / points,26-Jan-24 Points Fault,1,1
+Turnout / points,27-Mar-25 Turnout,1,1
+Turnout / points,31-May-24 Turnout,1,1
+Turnout / points,August 2020 turnout design issues,1,1

@@ -7,22 +7,32 @@ The project discovers PTA Weekly Notice PDFs, downloads them, extracts the **Cur
 > [!TIP]
 >
 > **Eventual project goal**
-> A PowerBI view that includes a map overlay of Perth's rail network, to see repeat hotspots for speed restrictions and maintenance issues.
+> A Power BI view that includes a map overlay of Perth's rail network, to see repeat hotspots for speed restrictions and maintenance issues.
 
-> [!NOTE]
+> [!WARNING]
 >
-> **Project status**: Early operational / exploratory. The collector has successfully discovered a non-zero corpus of PTA Weekly Notice PDFs via the PTA DNN Document Viewer API, and has begun processing real historical PDF notices into a CSV file. Further tuning of the data extracted to ensure consistent and clean information is underway, before making a PowerBI view available to start exploring the data set.
+> **Project still under active development; data set and analysis not yet complete, comprehensive and validated**
+> Version 2.4.2 introduces a repair-first extraction pipeline, parser artefact filtering, multi-strategy extraction, manual review support, and hard quality gates before analytics export.
+>
+> The collector can be treated as an authoritative pipeline for the PTA TSR dataset, but any new extraction run should still be reviewed with the generated data-quality and rejection diagnostics before relying on it for conclusions.
+>
+> Any new full run should be validated with the post-full-run checklist before Power BI is refreshed.
 
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Why this project exists](#why-this-project-exists)
 - [What the collector does](#what-the-collector-does)
+- [What changed in v2.4.2](#what-changed-in-v242)
 - [What is unique about this project](#what-is-unique-about-this-project)
   - [PTA document browser support](#pta-document-browser-support)
   - [Mixed historical folder structures](#mixed-historical-folder-structures)
   - [Mixed historical filename formats](#mixed-historical-filename-formats)
   - [Mixed historical table layouts](#mixed-historical-table-layouts)
   - [Location and distance splitting](#location-and-distance-splitting)
+  - [Repair-first extraction](#repair-first-extraction)
+  - [Parser artefact handling](#parser-artefact-handling)
+  - [Line and direction inference](#line-and-direction-inference)
   - [TSR master matching](#tsr-master-matching)
 - [Repository contents](#repository-contents)
 - [Requirements](#requirements)
@@ -43,11 +53,27 @@ The project discovers PTA Weekly Notice PDFs, downloads them, extracts the **Cur
   - [Full discovery, processing and export run](#full-discovery-processing-and-export-run)
   - [Export CSVs again](#export-csvs-again)
   - [Show current status](#show-current-status)
-  - [Create diagnostics ZIP](#create-diagnostics-zip)
+  - [Create diagnostics folder](#create-diagnostics-folder)
 - [Output files](#output-files)
   - [`pta_tsr_occurrences.csv`](#pta_tsr_occurrencescsv)
   - [`pta_tsr_masters.csv`](#pta_tsr_masterscsv)
   - [`pta_tsr_source_pdfs.csv`](#pta_tsr_source_pdfscsv)
+- [Manual review workflow](#manual-review-workflow)
+  - [When manual review is needed](#when-manual-review-is-needed)
+  - [Files generated for manual review](#files-generated-for-manual-review)
+  - [How to edit the manual review CSV](#how-to-edit-the-manual-review-csv)
+  - [How to reprocess reviewed rows](#how-to-reprocess-reviewed-rows)
+  - [What not to manually review](#what-not-to-manually-review)
+- [Quality gates and data assurance](#quality-gates-and-data-assurance)
+- [Post-full-run validation checklist](#post-full-run-validation-checklist)
+  - [1. Confirm overall collector status](#1-confirm-overall-collector-status)
+  - [2. Check rejection categories](#2-check-rejection-categories)
+  - [3. Check recent processed PDF extraction counts](#3-check-recent-processed-pdf-extraction-counts)
+  - [4. Check parser artefacts separately](#4-check-parser-artefacts-separately)
+  - [5. Generate compact rejection diagnostics](#5-generate-compact-rejection-diagnostics)
+  - [6. Inspect key analytics outputs before Power BI refresh](#6-inspect-key-analytics-outputs-before-power-bi-refresh)
+  - [7. Decide whether manual review is needed](#7-decide-whether-manual-review-is-needed)
+  - [8. Only refresh Power BI after validation passes](#8-only-refresh-power-bi-after-validation-passes)
 - [Processing statuses](#processing-statuses)
 - [Known real-world data issues](#known-real-world-data-issues)
 - [Data model overview](#data-model-overview)
@@ -104,6 +130,23 @@ At a high level, the collector:
 - Assigns every row a sequential occurrence ID.
 - Groups repeated weekly appearances of the same TSR under a master TSR ID.
 - Exports CSV files for spreadsheet, database, or BI analysis.
+
+## What changed in v2.4.2
+
+Version 2.4.2 is a significant reliability and workflow update.
+
+Major changes:
+
+- **Repair-first extraction**: rows are repaired and normalised before being rejected.
+- **Parser artefact filtering**: blank rows and low-content fragments are counted separately instead of being treated as rejected TSRs.
+- **Multiple extraction strategies**: table-line, table-text and text-line fallback extraction are scored and selected per page.
+- **Speed text normalisation**: variants such as `80km’h`, `80kmh`, `80kph`, `80 km/h` and `80 km / h` are normalised to `80km/h`.
+- **Chainage parsing improvements**: decimal ranges such as `2.465 to 2.780` are accepted even when the source omits `km` after each number.
+- **Named-location acceptance**: historical rows such as `Fremantle - Robbs Jetty Section` are accepted when speed and reason are otherwise valid.
+- **Line and direction inference**: common Perth network locations are mapped to inferred line names, line keys and directions where possible.
+- **Manual review workflow**: reviewable unresolved rows are exported to a user-editable CSV with an associated `.txt` instruction file.
+- **Review reprocessing**: reviewed rows can be applied with `apply-review` and then included in exported analytics.
+- **Hard quality gates**: analytics export is blocked when the current dataset is clearly unsafe to use, such as when the latest processed notice has zero accepted rows.
 
 ## What is unique about this project
 
@@ -206,6 +249,52 @@ distance_km
 ```
 
 This makes it easier to analyse restrictions by line, direction, section, or location.
+
+### Repair-first extraction
+
+Earlier versions were too quick to quarantine rows. Version 2.4.2 attempts to recover valid TSR rows before rejection.
+
+The extraction pipeline is:
+
+```text
+PDF page
+  -> identify likely TSR section
+  -> attempt multiple extraction strategies
+  -> score extraction strategies
+  -> skip blank parser artefacts
+  -> normalise OCR/text issues
+  -> recover speed, location, date, reason and cancellation fields
+  -> infer line, direction, chainage and reason group
+  -> accept valid rows
+  -> quarantine only meaningful unresolved rows
+```
+
+### Parser artefact handling
+
+PDF table extraction can detect row boundaries without successfully extracting text from cells. That can create rows such as:
+
+```json
+["", "", "", "", "", ""]
+```
+
+Version 2.4.2 treats these as parser artefacts. Parser artefacts are not accepted rows, not rejected TSR rows, and not manual review rows. Parser artefact counts are tracked separately through `artifact_row_count`, `tsr_artifact_row`, `pta_tsr_source_pdfs.csv`, and `pta_tsr_data_quality_summary.csv`.
+
+### Line and direction inference
+
+The collector attempts to infer useful line and direction fields from line codes, corridor names and location text.
+
+Examples:
+
+```text
+Leederville - Stirling ... Down Main -> Joondalup Line / Down
+Joondalup - Edgewater ... Down Main  -> Joondalup Line / Down
+Fremantle - Shenton Park ... Up Main -> Fremantle Line / Up
+Glen Iris to Cockburn ... Up & Down  -> Mandurah Line / Bidirectional
+Kwinana to Wellard ... Down Main     -> Mandurah Line / Down
+Nowergup Yard                        -> Joondalup Line / Yard
+```
+
+Where inference is not possible, the collector uses review-visible values such as `UNCLASSIFIED`, `Unclassified`, or `Unknown` rather than leaving key analytical fields blank.
 
 ### TSR master matching
 
@@ -376,7 +465,7 @@ py .\pta_tsr_collector.py export
 py .\pta_tsr_collector.py status
 ```
 
-### Create diagnostics ZIP
+### Create diagnostics folder
 
 ```powershell
 py .\pta_tsr_collector.py diagnostics
@@ -462,6 +551,299 @@ tsr_table_count
 tsr_row_count
 last_error
 ```
+
+
+## Manual review workflow
+
+### When manual review is needed
+
+Manual review is needed when the collector finds a row with enough content to possibly be a TSR, but not enough certainty to accept automatically.
+
+Examples include:
+
+- missing, contradictory or shifted fields;
+- a reason field that looks like a shifted cancellation token;
+- a row that contains speed/date information but lacks enough location or reason context;
+- an extraction result that may be valid but needs user confirmation.
+
+Manual review is not intended for blank parser artefacts.
+
+### Files generated for manual review
+
+Run:
+
+```powershell
+py .\pta_tsr_collector.py export-review-template
+```
+
+The script creates:
+
+```text
+pta_tsr_data\review\manual_rejection_review_template.csv
+pta_tsr_data\review\manual_rejection_review_template.txt
+```
+
+The `.txt` instruction file explains how to edit the CSV and how to reprocess reviewed rows after user action.
+
+### How to edit the manual review CSV
+
+For each row:
+
+- Read `cell_preview` and `raw_row_json`.
+- If the row is a valid TSR, set `accept_row` to `1` and fill in the corrected fields.
+- If the row is not a valid TSR and should be ignored in future, set `accept_row` to `0`.
+- If unsure, leave `accept_row` blank and optionally add `review_notes`.
+
+Required fields when `accept_row=1`:
+
+```text
+corrected_location
+corrected_max_speed
+corrected_reason
+```
+
+Recommended fields when available:
+
+```text
+corrected_distance_km
+corrected_stn_no
+corrected_date_imposed
+corrected_date_cancelled
+corrected_line_key
+corrected_line_name
+corrected_location_direction
+```
+
+### How to reprocess reviewed rows
+
+After editing and saving the CSV, run:
+
+```powershell
+py .\pta_tsr_collector.py apply-review --review-file .\pta_tsr_data\review\manual_rejection_review_template.csv
+py .\pta_tsr_collector.py export
+```
+
+Rows with `accept_row=1` are inserted into `tsr_occurrence` and included in exported CSVs. Rows with `accept_row=0` are marked as `ignored` and excluded from future review templates. Rows with blank `accept_row` remain unresolved.
+
+### What not to manually review
+
+Do not manually review parser artefacts such as:
+
+```json
+["", "", "", "", "", ""]
+```
+
+Do not manually review standalone fragments unless there is enough surrounding context to reconstruct a complete TSR row, such as:
+
+```text
+Direction
+Up Main
+Down Main
+40.874km to
+40.747km Up
+```
+
+Version 2.4.2 is designed to exclude these from the manual review template and count them separately as parser artefacts.
+
+## Quality gates and data assurance
+
+Version 2.4.2 refuses to export analytics when the data appears unsafe.
+
+Blocking conditions include:
+
+- no accepted TSR rows exist;
+- the latest processed notice has zero accepted TSR rows;
+- accepted rows are missing required normalised fields such as line, direction, affected area or reason group.
+
+If export is refused, run:
+
+```powershell
+py .\pta_tsr_collector.py status
+py .\pta_tsr_collector.py rejection-diagnostics
+```
+
+Then review:
+
+```text
+pta_tsr_data\logs\pta_tsr_collector.log
+pta_tsr_data\exports\pta_tsr_source_pdfs.csv
+pta_tsr_data\diagnostics\rejection_review_compact_YYYYMMDD_HHMMSS\01_rejection_summary.csv
+pta_tsr_data\diagnostics\rejection_review_compact_YYYYMMDD_HHMMSS\02_rejection_samples.csv
+```
+
+A high parser artefact count is not automatically a data error, but it is a signal that a layout-specific extractor path may need further tuning.
+
+## Post-full-run validation checklist
+
+Run this checklist after a full historical backfill or after a major extractor update before refreshing Power BI or committing generated analytics files.
+
+### 1. Confirm overall collector status
+
+```powershell
+py .\pta_tsr_collector.py status
+```
+
+Review these values:
+
+```text
+processed
+failed
+missing
+TSR masters
+TSR occurrences
+Manual review rows
+Parser artefacts skipped
+Latest processed notice
+Latest accepted TSR rows
+```
+
+Interpretation:
+
+- `TSR occurrences` should increase as PDFs are processed. If processed PDFs increase but accepted occurrences stop increasing, the extractor may be failing a layout.
+- `Latest accepted TSR rows` should normally be greater than zero when the latest Weekly Notice contains current TSRs.
+- `Manual review rows` should be plausible and should not be dominated by blank or near-blank extraction debris.
+- `Parser artefacts skipped` can be non-zero. Artefacts are extraction debris, not rejected TSRs, but a sudden spike in recent notices should be investigated.
+
+### 2. Check rejection categories
+
+Use this command to confirm that rejected rows are genuine manual-review rows rather than parser artefacts:
+
+```powershell
+py -c "import sqlite3; c=sqlite3.connect('pta_tsr_data/pta_tsr.sqlite3'); c.row_factory=sqlite3.Row; [print(f'{r[0]} | {r[1]}: {r[2]}') for r in c.execute('select rejection_category, reject_reason, count(*) from tsr_rejected_row group by rejection_category, reject_reason order by count(*) desc')]"
+```
+
+Expected pattern:
+
+```text
+manual_review_required | missing_or_invalid_speed: <count>
+manual_review_required | missing_location_or_speed: <count>
+manual_review_required | invalid_reason_or_shifted_columns: <count>
+```
+
+Interpretation of rejection categories:
+
+- `manual_review_required` means the row has enough content to potentially be a TSR but was not safe enough to accept automatically.
+- `parser_artifact` should generally not appear in `tsr_rejected_row`. Parser artefacts should be counted separately via `artifact_row_count` and `tsr_artifact_row`.
+
+Interpretation of common rejection reasons:
+
+- `missing_or_invalid_speed` means the row did not contain a speed that could be confidently normalised, or the speed appeared in an unresolved layout pattern.
+- `missing_location_or_speed` means a required location or speed field was still missing after repair attempts.
+- `invalid_reason_or_shifted_columns` means the reason field looked like a shifted value, such as a cancellation token, direction fragment, date fragment, STN value, or other non-reason text.
+
+### 3. Check recent processed PDF extraction counts
+
+Use a parameterised SQLite query to avoid PowerShell/Python/SQL quoting problems:
+
+```powershell
+py -c "import sqlite3; c=sqlite3.connect('pta_tsr_data/pta_tsr.sqlite3'); c.row_factory=sqlite3.Row; [print(f'{r[0]}: accepted={r[1]}, rejected={r[2]}, artefacts={r[3]}') for r in c.execute('select notice_date, tsr_row_count, rejected_row_count, artifact_row_count from source_pdf where status=? order by notice_date desc limit 20', ('processed',))]"
+```
+
+Do not use this broken form:
+
+```powershell
+where status=''processed''
+```
+
+Inside a Python single-quoted string, `''processed''` is interpreted as adjacent Python string literals and becomes `status=processed`, which SQLite treats as a column name rather than the text value `'processed'`.
+
+Interpretation:
+
+- Recent notices should usually have non-zero `accepted` counts if the source PDF contains current TSRs.
+- `rejected` should be reviewed if it spikes on a recent notice.
+- `artefacts` should normally be low for recent notices. High artefact counts can indicate that the extractor selected a poor page/table strategy.
+
+### 4. Check parser artefacts separately
+
+```powershell
+py -c "import sqlite3; c=sqlite3.connect('pta_tsr_data/pta_tsr.sqlite3'); c.row_factory=sqlite3.Row; [print(f'{r[0]}: {r[1]}') for r in c.execute('select notice_date, artifact_row_count from source_pdf where artifact_row_count > 0 order by notice_date desc limit 20')]"
+```
+
+Interpretation:
+
+- Historical artefacts are expected in some older layouts.
+- Recent/current artefact spikes should be investigated before refreshing Power BI.
+- Artefacts are not manual review rows unless the extractor preserved enough content to classify the row as `manual_review_required`.
+
+### 5. Generate compact rejection diagnostics
+
+```powershell
+py .\pta_tsr_collector.py rejection-diagnostics
+```
+
+This creates a timestamped folder under:
+
+```text
+pta_tsr_data\diagnostics\rejection_review_compact_YYYYMMDD_HHMMSS\
+```
+
+Review these files:
+
+```text
+01_rejection_summary.csv
+02_rejection_samples.csv
+03_manual_review_template.csv
+03_manual_review_template.txt
+README.txt
+```
+
+Use the three CSV files for Copilot review if further extractor tuning is needed. The `.txt` file explains local user action for the review template.
+
+### 6. Inspect key analytics outputs before Power BI refresh
+
+After a successful export, inspect:
+
+```text
+pta_tsr_data\analytics\pta_tsr_active_current.csv
+pta_tsr_data\analytics\pta_tsr_active_by_line.csv
+pta_tsr_data\analytics\pta_tsr_active_by_cause.csv
+pta_tsr_data\analytics\pta_tsr_data_quality_summary.csv
+```
+
+Minimum checks:
+
+- `pta_tsr_active_current.csv` should have a plausible number of rows for the latest processed Weekly Notice.
+- `line_key`, `line_name`, `location_direction`, `affected_area` and `reason_group` should be populated.
+- `pta_tsr_active_by_line.csv` should not collapse into a single blank line row.
+- `pta_tsr_active_by_cause.csv` should not collapse into a single blank reason row.
+- `pta_tsr_data_quality_summary.csv` should show accepted rows, manual-review rows and parser artefacts separately.
+
+### 7. Decide whether manual review is needed
+
+If `manual_review_required` rows remain and the rows matter for analysis, export or use the generated manual review template:
+
+```powershell
+py .\pta_tsr_collector.py export-review-template
+```
+
+Edit:
+
+```text
+pta_tsr_data\review\manual_rejection_review_template.csv
+```
+
+Read the associated instruction file before editing:
+
+```text
+pta_tsr_data\review\manual_rejection_review_template.txt
+```
+
+After editing the CSV, apply corrections and regenerate exports:
+
+```powershell
+py .\pta_tsr_collector.py apply-review --review-file .\pta_tsr_data\review\manual_rejection_review_template.csv
+py .\pta_tsr_collector.py export
+```
+
+### 8. Only refresh Power BI after validation passes
+
+Refresh Power BI only after:
+
+- `export` succeeds without a quality-gate error;
+- latest accepted TSR rows are plausible;
+- active-current rows are populated with line and reason fields;
+- rejection and artefact counts have been reviewed;
+- manual corrections, if any, have been applied and exports regenerated.
 
 ## Processing statuses
 

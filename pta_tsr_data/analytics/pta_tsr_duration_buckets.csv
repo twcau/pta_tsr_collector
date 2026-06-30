@@ -1,0 +1,600 @@
+﻿tsr_master_id,line_key,line_name,location_direction,affected_area,latest_reason_raw,reason_group,first_seen_notice_date,last_seen_notice_date,weeks_seen,is_active,resolved_date,duration_bucket
+3009,JTM,Joondalup Line,Unknown,JTMUP 19.150km - 20.150km,17-Sep-21 Turnout,Turnout / points,2023-11-12,2026-03-08,116,0,2026-03-08,2-5 years
+3688,JTM,Joondalup Line,Unknown,JTMUP 8.689km - 8.989km,19-Mar-24 Track Geometry,Track geometry,2024-07-07,2026-06-28,96,1,,1-2 years
+2084,FTM,Fremantle Line,Unknown,FTMDN 6.9500km to 7.1700km,8-Jul-22 Structural Integrity,Structures / bridge,2022-12-24,2023-11-05,92,0,2023-11-05,1-2 years
+3685,JTM,Joondalup Line,Unknown,JTMDN 19.150km - 20.150km,03-Jun-21 Turnout,Turnout / points,2024-07-07,2026-06-28,92,1,,1-2 years
+632,JTMUP,Joondalup Line,Up,Up Main issues Joondalup JTMDN 25.960km to 25.848km,Turnout design,Turnout / points,2020-12-19,2022-10-01,77,0,2022-10-01,1-2 years
+4016,JTM,Joondalup Line,Unknown,JTMUP 40.429km - 40.660km,15-Oct-24 Rail Surface Defect,Rail surface defect,2024-11-24,2026-04-19,72,0,2026-04-19,1-2 years
+2172,UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Restriction Cancelled Beyond Service 21.012km - 26.000km N/A,01-Sep-11 Pedestrian Crossing Issue,Level crossing / pedestrian crossing,2023-01-28,2025-03-23,71,0,2025-03-23,1-2 years
+4377,MTM,Midland Line,Unknown,MTMUP 0.660km - 0.950km,3-Mar-25 Rail Surface Defect,Rail surface defect,2025-03-09,2026-06-14,67,0,2026-06-14,1-2 years
+3645,MTM,Midland Line,Unknown,MTMUP 8.100km - 8.200km,18-Jun-24 Turnout,Turnout / points,2024-06-23,2026-06-28,62,1,,1-2 years
+4273,MTM,Midland Line,Unknown,MTMDN 0.660km - 0.800km,24-Sep-24 Noise Mitigation,Noise mitigation,2025-02-09,2026-04-05,61,0,2026-04-05,1-2 years
+4474,FTM,Fremantle Line,Unknown,FTMUP 6.950km - 7.170km,13-Jun-24 Rail Internal Defect,Rail internal defect,2025-04-06,2026-06-28,61,1,,1-2 years
+3001,MTM,Midland Line,Unknown,MTMDN 7.900km - 8.150km,27-Mar-20 Turnout,Turnout / points,2023-11-12,2025-03-02,58,0,2025-03-02,1-2 years
+3924,JTM,Joondalup Line,Unknown,JTMDN 25.848km - 25.960km,18-Sep-24 Turnout,Turnout / points,2024-09-22,2025-12-21,58,0,2025-12-21,1-2 years
+4349,JTM,Joondalup Line,Unknown,JTMUP 40.660km - 40.420km,15-Oct-24 Turnout,Turnout / points,2025-03-02,2026-04-19,58,0,2026-04-19,1-2 years
+1874,ATM,Armadale Line,Unknown,ATMUP 16.8200km to 17.0000km,29-Oct-21 Track Geometry,Track geometry,2022-10-08,2023-11-05,56,0,2023-11-05,1-2 years
+3002,MTM,Midland Line,Unknown,MTMUP 0.717km - 1.625km,28-Sep-21 Noise Mitigation,Noise mitigation,2023-11-12,2025-01-05,55,0,2025-01-05,1-2 years
+3736,UNCLASSIFIED,Unclassified,Unknown,Beyond Service 40.747km - 40.874km,5-Aug-21 Signals,Signals / train control,2024-07-28,2026-02-01,55,0,2026-02-01,1-2 years
+4766,TTM,Thornlie Line,Unknown,TTMUP 01.450km - 02.550km,31-Mar-25 New Rail,New rail / weld,2025-06-29,2026-06-28,52,1,,6-12 months
+3011,UNCLASSIFIED,Unclassified,Unknown,Beyond Service 40.747km -,5-Aug-21 Signals,Signals / train control,2023-11-12,2025-10-05,50,0,2025-10-05,6-12 months
+3272,MTM,Midland Line,Unknown,MTMUP 8.100km - 8.200km,30-Jan-24 Turnout,Turnout / points,2024-02-04,2025-02-23,50,0,2025-02-23,6-12 months
+2073,MTM,Midland Line,Unknown,MTMDN 7.900km to 8.150km,27-Mar-20 Turnout,Turnout / points,2022-12-24,2023-11-05,46,0,2023-11-05,6-12 months
+2074,JTM,Joondalup Line,Unknown,JTMUP 25.848km to 25.960km,21-Apr-20 Turnout,Turnout / points,2022-12-24,2023-11-05,46,0,2023-11-05,6-12 months
+2075,FTM,Fremantle Line,Unknown,FTMUP 9.5800KM to 9.5800km,15-Feb-21 Pedestrian Crossing Issue,Level crossing / pedestrian crossing,2022-12-24,2023-11-05,46,0,2023-11-05,6-12 months
+2079,MTM,Midland Line,Unknown,MTMUP 0.7170km to 1.6250km,28-Sep-21 Noise Mitigation,Noise mitigation,2022-12-24,2023-11-05,46,0,2023-11-05,6-12 months
+2081,MTM,Midland Line,Unknown,MTMUP 8.1000km to 8.2000km,31-Jan-22 Turnout,Turnout / points,2022-12-24,2023-11-05,46,0,2023-11-05,6-12 months
+2082,ATM,Armadale Line,Unknown,ATMUP 19.2940km to 19.5070km,22-Apr-22 Miscellaneous,Other / review required,2022-12-24,2023-11-05,46,0,2023-11-05,6-12 months
+2089,JTM,Joondalup Line,Unknown,JTMDN 32.6200km to 32.7500km,25-Oct-22 Points Fault,Turnout / points,2022-12-24,2023-11-05,46,0,2023-11-05,6-12 months
+2090,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.6700km N/A,27-Oct-22 Structural Integrity,Structures / bridge,2022-12-24,2024-06-16,46,0,2024-06-16,6-12 months
+615,JTMDN,Joondalup Line,Down,Lawley Rail Internal Defect Whitfords 19.150 to 20.150km Down Main,Turnout defects &,Turnout / points,2020-12-05,2021-10-30,45,0,2021-10-30,6-12 months
+3709,UNCLASSIFIED,Unclassified,Unknown,JTXBI 53.947km - 54.112km,11-Jul-24 Turnout,Turnout / points,2024-07-14,2025-07-20,45,0,2025-07-20,6-12 months
+764,MTMDN,Midland Line,Down,Down Main design issues Bassendean MTMUP 8.200km to 8.100km,Turnout design,Turnout / points,2021-04-06,2022-10-01,44,0,2022-10-01,6-12 months
+3007,JTM,Joondalup Line,Unknown,JTMDM 25.848km - 25.960km,21-Apr-20 Turnout,Turnout / points,2023-11-12,2024-09-15,42,0,2024-09-15,6-12 months
+4454,UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Cancelled Beyond Service 21.012km- 26.000km N/A,01-Sep-11 Pedestrian Crossing,Level crossing / pedestrian crossing,2025-04-06,2026-04-26,42,0,2026-04-26,6-12 months
+4476,FTM,Fremantle Line,Unknown,FTMDN 6.800km - 7.1700km,03-Sep-24 Structural Integrity,Structures / bridge,2025-04-06,2026-06-28,42,1,,6-12 months
+2190,MTM,Midland Line,Unknown,MTMDN 11.9300km to 12.3150km,23-Jan-23 Track Geometry,Track geometry,2023-01-28,2023-11-05,40,0,2023-11-05,6-12 months
+3074,MTM,Midland Line,Unknown,MTMDN 0.660km - 1.300km,29-Nov-23 Track Geometry,Track geometry,2023-12-03,2024-08-25,38,0,2024-08-25,6-12 months
+3858,FTM,Fremantle Line,Unknown,FTMUP 0.160km - 0.800km,4-Sep-24 Rail Surface Defect,Rail surface defect,2024-09-08,2025-06-22,37,0,2025-06-22,6-12 months
+149,FTM,Fremantle Line,Unknown,Fremantle - Robbs Jetty,Pedestrian Crossing Review,Level crossing / pedestrian crossing,2019-11-16,2020-08-01,36,0,2020-08-01,6-12 months
+4357,JTM,Joondalup Line,Unknown,JTMUP 40.537km - 40.430km,27- Feb-25 Rail Internal Defect,Rail internal defect,2025-03-02,2025-11-23,36,0,2025-11-23,6-12 months
+4392,FTM,Fremantle Line,Unknown,FTM 0.000km - 0.000km,28-Feb-25 Track Alignment,Track geometry,2025-03-16,2025-12-14,36,0,2025-12-14,6-12 months
+2290,ATM,Armadale Line,Unknown,ATMBI 40.7470km to 40.8740km,5-Aug-21 Signals,Signals / train control,2023-03-11,2023-11-05,35,0,2023-11-05,6-12 months
+3619,FTM,Fremantle Line,Unknown,FTMUP 6.950km - 7.170km,13-Jun-24 Structural integrity,Structures / bridge,2024-06-16,2025-03-23,35,0,2025-03-23,6-12 months
+5004,MTM,Midland Line,Unknown,MTMDN 9.182km - 9.650km,5-Sep-25 Rail Surface Defect,Rail surface defect,2025-09-14,2026-05-10,35,0,2026-05-10,6-12 months
+1273,UNCLASSIFIED,Unclassified,Up,Up Main design issues Mount MTMDN 0.800 to 1.300km,Noise Mitigation,Noise mitigation,2021-11-06,2022-10-01,34,0,2022-10-01,6-12 months
+3039,FTM,Fremantle Line,Unknown,40.8740km FTMUP 9.5800KM - 9.5800km 40.8740km FTMUP 9.5800KM - 9.5800km,15-Feb-21 Pedestrian Crossing Issue,Level crossing / pedestrian crossing,2023-11-26,2024-07-21,34,0,2024-07-21,6-12 months
+4421,MTM,Midland Line,Unknown,MTMDN 13.591km - 13.695km,3-Sep-24 Turnout,Turnout / points,2025-03-23,2026-02-08,34,0,2026-02-08,6-12 months
+1305,UNCLASSIFIED,Unclassified,Up,Up Main Dalziel St ATMUP 16.820km to 17.000km,Track Geometry,Track geometry,2021-11-13,2022-10-01,33,0,2022-10-01,6-12 months
+2078,MTM,Midland Line,Unknown,MTMDN 0.8000km to 1.3000km,28-Sep-21 Noise Mitigation,Noise mitigation,2022-12-24,2023-08-04,33,0,2023-08-04,6-12 months
+2993,UNCLASSIFIED,Unclassified,Unknown,Beyond Service 21.012km - N/A,01-Sep-11 Pedestrian Crossing Issue Indefinite 26.000km,Level crossing / pedestrian crossing,2023-11-12,2024-06-30,33,0,2024-06-30,6-12 months
+3805,MTM,Midland Line,Unknown,MTMUP 13.620km - 13.400km,11-Aug-24 Rail Surface Defect,Rail surface defect,2024-08-18,2025-05-04,33,0,2025-05-04,6-12 months
+3030,JTM,Joondalup Line,Unknown,JTMDN 19.1500km - 20.1500km 2 1 - 0 6 - 0 24,03-Jun-21 Turnout,Turnout / points,2023-11-19,2024-06-30,32,0,2024-06-30,6-12 months
+3840,FTM,Fremantle Line,Unknown,FTMDN 14.935km - 15.035km,7-Aug-24 Rail Internal Defect,Rail internal defect,2024-09-01,2025-05-11,32,0,2025-05-11,6-12 months
+628,FTM,Fremantle Line,Unknown,Railway Speed Imposed Restriction Cancelled Fremantle - Section,Sept 2011 Pedestrian Indefinite Robbs Jetty Crossing Review,Level crossing / pedestrian crossing,2020-12-19,2021-10-30,31,0,2021-10-30,6-12 months
+633,JTMDN,Joondalup Line,Down,issues Joondalup 25.848km to 25.960km Down,Turnout design,Turnout / points,2020-12-19,2021-10-30,31,0,2021-10-30,6-12 months
+1230,UNCLASSIFIED,Unclassified,Down,Lawley Down Main Mount MTMUP 0.717km to 1.625km,Noise Mitigation,Noise mitigation,2021-10-09,2022-10-01,29,0,2022-10-01,6-12 months
+2403,JTM,Joondalup Line,Unknown,JTMUP 19.1500KM to 20.1500km,17-Sep-21 Turnout,Turnout / points,2023-04-23,2023-11-05,29,0,2023-11-05,6-12 months
+5094,MTM,Midland Line,Unknown,MTMDN 7.900km - 8.150km,27-Mar-20 Permanent TSR,Other / review required,2025-10-12,2026-04-26,29,0,2026-04-26,6-12 months
+687,UNCLASSIFIED,Unclassified,Unknown,Main design issues Claisebrook 0.850km to 0.950km,Track Geometry,Track geometry,2021-01-23,2021-09-11,28,0,2021-09-11,6-12 months
+1276,JTMDN,Joondalup Line,Down,Down Main design issues Whitfords JTMUP 20.150km to 19.150km,Turnout defects &,Turnout / points,2021-11-06,2022-10-01,28,0,2022-10-01,6-12 months
+1400,UNCLASSIFIED,Unclassified,Up,Up Main East MTMDN 11.930km to 12.315km,"Track Geometry ,",Track geometry,2022-01-29,2022-10-01,28,0,2022-10-01,6-12 months
+4473,RTM,Mandurah Line,Unknown,RTMUP 37.000km - 37.300km,25-Mar-25 Platform Gap,Platform / station,2025-04-06,2025-10-12,28,0,2025-10-12,6-12 months
+2357,MTM,Midland Line,Unknown,MTMUP 12.0000km TO 12.1000km,20-Mar-23 Track Geometry,Track geometry,2023-04-01,2023-10-01,27,0,2023-10-01,6-12 months
+4007,MTM,Midland Line,Unknown,MTMDN 9.540km - 9.671km,17-Oct-24 Rail Surface Defect,Rail surface defect,2024-11-24,2025-05-25,27,0,2025-05-25,6-12 months
+5385,JTM,Joondalup Line,Unknown,JTMDN 25.630km - 25.960km,18-Sep-24 Turnout,Turnout / points,2025-12-28,2026-06-28,27,1,,6-12 months
+629,FTM,Fremantle Line,Unknown,Robbs Jetty Crossing Review Mundijong 40.874km to 40.747km,Signalling Issues,Signals / train control,2020-12-19,2021-08-14,26,0,2021-08-14,3-6 months
+630,MTMUP,Midland Line,Up,to Byford Up Direction Bassendean 7.900km to 8.150km,Turnout defects &,Turnout / points,2020-12-19,2021-08-14,26,0,2021-08-14,3-6 months
+3004,MTM,Midland Line,Unknown,MTMDN 11.9300km - 12.3150km,23-Jan-23 Track Geometry,Track geometry,2023-11-12,2024-05-12,26,0,2024-05-12,3-6 months
+3360,MTM,Midland Line,Unknown,MTMDN 13.594km - 13.695km,22-Feb-24 Points Fault,Turnout / points,2024-03-03,2024-09-01,26,0,2024-09-01,3-6 months
+5289,FTM,Fremantle Line,Unknown,FTMUP 14.510km - 14.670km,21-Nov-25 Rail Surface Defect,Rail surface defect,2025-11-30,2026-06-28,26,1,,3-6 months
+202,UNCLASSIFIED,Unclassified,Unknown,Mundijong to Byford,Signalling Issues,Signals / train control,2020-02-01,2020-08-01,25,0,2020-08-01,3-6 months
+1275,JTMUP,Joondalup Line,Up,Up Main issues Whitfords JTMDN 19.150 to 20.150km,Turnout defects &,Turnout / points,2021-11-06,2022-10-01,25,0,2022-10-01,3-6 months
+1277,UNCLASSIFIED,Unclassified,Bidirectional,Mundijong Bi-Directional Claisebrook FTMUP 0.160km to 0.950km,Track Geometry,Track geometry,2021-11-06,2022-10-01,25,0,2022-10-01,3-6 months
+3925,JTM,Joondalup Line,Unknown,JTMUP 25.848km - 25.960km,18-Sep-24 Turnout,Turnout / points,2024-09-22,2025-06-22,25,0,2025-06-22,3-6 months
+1464,UNCLASSIFIED,Unclassified,Down,Down Main issues Karrakatta FTMUP 9.580km 7,Loch St Ped Xing Indefinite Up Main issues,Other / review required,2022-02-26,2022-10-01,24,0,2022-10-01,3-6 months
+1469,ATMUP,Armadale Line,Up,Lawley Up Main Armadale - ATMBI 40.747km to 40.874km,Signalling,Signals / train control,2022-02-26,2022-10-01,24,0,2022-10-01,3-6 months
+2083,RTM,Mandurah Line,Unknown,RTMDN 21.0800km to 21.2550km,7-Jul-22 Track Geometry,Track geometry,2022-12-24,2023-06-04,24,0,2023-06-04,3-6 months
+2432,ATM,Armadale Line,Unknown,ATMDN 23.0500km to 23.4000km,28-Jul-22 Rail Surface Defect,Rail surface defect,2023-04-30,2023-10-01,23,0,2023-10-01,3-6 months
+3859,FTM,Fremantle Line,Unknown,FTMDN 0.580km - 1.025km,4-Sep-24 Rail Surface Defect,Rail surface defect,2024-09-08,2025-03-16,23,0,2025-03-16,3-6 months
+4767,UNCLASSIFIED,Unclassified,Unknown,Beyond Service 21.012km- N/A,01-Sep-11 Pedestrian Crossing Indefinite 26.000km,Level crossing / pedestrian crossing,2025-07-06,2026-06-28,23,1,,3-6 months
+5365,FTM,Fremantle Line,Unknown,FTMDN 6.800km - 7.1700km,03-Sep-24 Structural Integrity TBD,Structures / bridge,2025-12-21,2026-05-17,22,0,2026-05-17,3-6 months
+233,RTM,Mandurah Line,Unknown,Kwinana to Wellard,Rail Defects,Track condition,2020-02-29,2020-08-01,21,0,2020-08-01,3-6 months
+2475,MTM,Midland Line,Unknown,MTMDN 3.5000km TO 5.1000km,29-Apr-23 Track Geometry,Track geometry,2023-05-14,2023-10-01,21,0,2023-10-01,3-6 months
+2518,MTM,Midland Line,Unknown,MTMUP 3.5000km TO 5.1000km,8-May-23 Track Geometry,Track geometry,2023-05-28,2023-10-15,21,0,2023-10-15,3-6 months
+5050,MTM,Midland Line,Unknown,MTMUP 9.548km - 9.360km,15-Sep-25 Rail Surface Defect,Rail surface defect,2025-09-28,2026-02-15,21,0,2026-02-15,3-6 months
+5278,JTM,Joondalup Line,Unknown,JTMUP 40.537km - 40.430km,27- Feb-25 Rail Internal Defect,Rail internal defect,2025-11-30,2026-04-19,21,0,2026-04-19,3-6 months
+984,UNCLASSIFIED,Unclassified,Up,Up Main Abernethy ATMBI 36.734km to 36.834km,Track Project,Track condition,2021-07-10,2022-04-16,20,0,2022-04-16,3-6 months
+1268,FTMBI,Fremantle Line,Bidirectional,Robbs Jetty B-Directional Crossing Review Bassendean MTMDN 7.900km to 8.150km,Turnout defects &,Turnout / points,2021-11-06,2022-10-01,20,0,2022-10-01,3-6 months
+2997,FTM,Fremantle Line,Unknown,FTMUP 0.160km - 0.670km,27-Oct-22 Structural Integrity,Structures / bridge,2023-11-12,2024-08-11,20,0,2024-08-11,3-6 months
+3255,UNCLASSIFIED,Unclassified,Unknown,ARMUP 16.820km - 17.000km,29-Oct-21 Track Geometry,Track geometry,2024-01-28,2024-10-13,20,0,2024-10-13,3-6 months
+3798,FTM,Fremantle Line,Unknown,FTMDN 8.862km - 8.310km,9-Aug-24 Rail Surface Defect,Rail surface defect,2024-08-18,2025-02-02,20,0,2025-02-02,3-6 months
+638,JTM,Joondalup Line,Unknown,Main issues Whitfords JTMDN 19.150 to 20.150km,Turnout defects &,Turnout / points,2020-12-19,2022-02-19,19,0,2022-02-19,3-6 months
+2620,RTM,Mandurah Line,Unknown,RTMDN 20.7700km to 21.2550km,4-Jun-23 Track Geometry,Track geometry,2023-07-02,2023-11-05,19,0,2023-11-05,3-6 months
+4835,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.800km,27-Jun-25 Rail Surface Defect,Rail surface defect,2025-07-20,2025-11-23,19,0,2025-11-23,3-6 months
+2087,ATM,Armadale Line,Unknown,ATMDN 23.0500km to 23.4000km,28-Jul-22 Rail Surface Defects,Rail surface defect,2022-12-24,2023-04-23,18,0,2023-04-23,3-6 months
+2995,FTM,Fremantle Line,Unknown,FTMDN 6.9500km - 7.1700km,8-Jul-22 Structural Integrity,Structures / bridge,2023-11-12,2024-01-07,18,0,2024-01-07,3-6 months
+4001,FTM,Fremantle Line,Unknown,FTMDN 6.800KM - 7.170km,3-Sep-24 Structural integrity,Structures / bridge,2024-11-24,2025-03-23,18,0,2025-03-23,3-6 months
+2077,JTM,Joondalup Line,Unknown,JTMUP 19.1500KM to 20.1500km,17-Sep-21 Turnouts,Turnout / points,2022-12-24,2023-04-15,17,0,2023-04-15,3-6 months
+3366,UNCLASSIFIED,Unclassified,Unknown,ARMUP 19.294km - 19.507km,22-Apr-22 Track Geometry,Track geometry,2024-03-03,2024-10-13,17,0,2024-10-13,3-6 months
+3000,FTM,Fremantle Line,Unknown,18/02/2024 FTMUP 19.4800km - 20.0200km,1-Nov-23 Track Geometry,Track geometry,2023-11-12,2024-02-25,16,0,2024-02-25,3-6 months
+153,ATM,Armadale Line,Unknown,Oats St,Track geometry,Track geometry,2019-11-16,2020-02-22,15,0,2020-02-22,3-6 months
+514,MTMUP,Midland Line,Up,Main design issues Bassendean 8.200km to 8.100km Up,Turnout design issues,Turnout / points,2020-09-12,2021-09-11,15,0,2021-09-11,3-6 months
+515,JTM,Joondalup Line,Unknown,Main Joondalup 25.848km to 25.960km,Turnout design issues,Turnout / points,2020-09-12,2021-09-11,15,0,2021-09-11,3-6 months
+774,FTMUP,Fremantle Line,Up,Fremantle Up Main Karrakatta 9.580km Fremantle Up,Track Project,Track condition,2021-04-06,2021-08-14,15,0,2021-08-14,3-6 months
+1267,FTM,Fremantle Line,Unknown,Railway Speed Imposed Restriction Cancelled Fremantle - FTMBI 21.012km to 26.000km,Sept 2011 Pedestrian Indefinite Robbs Jetty B-Directional Crossing Review,Level crossing / pedestrian crossing,2021-11-06,2022-10-01,15,0,2022-10-01,3-6 months
+1637,ATMDN,Armadale Line,Down,Down Main Gosnells ATMUP 19.294km to 19.507,Track Defect,Track condition,2022-05-21,2022-10-01,15,0,2022-10-01,3-6 months
+3865,MTM,Midland Line,Unknown,MTMDN 2.200km - 2.700km,3-Sep-24 Rail Surface Defect,Rail surface defect,2024-09-08,2025-01-19,15,0,2025-01-19,3-6 months
+189,ATM,Armadale Line,Unknown,Kelmscott to Sherwood,Rail defects,Track condition,2020-01-11,2020-04-11,14,0,2020-04-11,3-6 months
+1287,FTM,Fremantle Line,Unknown,Robbs Jetty Directional Crossing Review Bassendean MTMDN 7.900km to 8.150km,Turnout defects &,Turnout / points,2021-11-13,2022-05-21,14,0,2022-05-21,3-6 months
+1401,RTM,Mandurah Line,Unknown,compliance Cockburn RTMDN 20.880km to 21.250km,Track Defects,Track condition,2022-01-29,2022-05-21,14,0,2022-05-21,3-6 months
+1652,RTM,Mandurah Line,Unknown,compliance Cockburn RTMDN 20.616km to 21.250km,Track Defects,Track condition,2022-05-28,2022-10-01,14,0,2022-10-01,3-6 months
+3431,JTM,Joondalup Line,Unknown,JTMUP 8.689km - 8.890km,19-Mar-24 Track Geometry,Track geometry,2024-03-24,2024-06-30,14,0,2024-06-30,3-6 months
+4015,JTM,Joondalup Line,Unknown,JTMUP 40.660km - 40.420km,15-Oct-24 Points Fault,Turnout / points,2024-11-24,2025-02-23,14,0,2025-02-23,3-6 months
+5448,FTM,Fremantle Line,Unknown,FTMUP 19.440km - 19.793km,15-Nov-25 Rail Surface Defect,Rail surface defect,2026-01-11,2026-04-12,14,0,2026-04-12,3-6 months
+1,FTM,Fremantle Line,Unknown,Fremantle - Robbs Pedestrian Crossing September Section,Jetty Review 2011,Other / review required,2018-09-01,2018-11-24,13,0,2018-11-24,1-3 months
+1014,UNCLASSIFIED,Unclassified,Up,Up Main Abernethy ATMBI 36.734km to 36.834km,Track Project Works,Track condition,2021-07-24,2022-04-09,13,0,2022-04-09,1-3 months
+1286,FTM,Fremantle Line,Unknown,Railway m Speed Restriction Cancelled Fremantle - FTMBI 21.012km to 26.000km B-,Sept 2011 Pedestrian Indefinite Robbs Jetty Directional Crossing Review,Level crossing / pedestrian crossing,2021-11-13,2022-05-21,13,0,2022-05-21,1-3 months
+3962,MTM,Midland Line,Unknown,MTMDN 0.660km - 1.200km,24-Sep-24 Noise Mitigation,Noise mitigation,2024-10-06,2025-02-02,13,0,2025-02-02,1-3 months
+4456,MTM,Midland Line,Unknown,MTMDN 7.900km - 8.150km,27-Mar-20 Permanent TSR,Other / review required,2025-04-06,2025-06-29,13,0,2025-06-29,1-3 months
+5173,MTM,Midland Line,Unknown,MTMDN 13.591km - 13.695km,3-Sep-24 Turnout 01/02/2026,Turnout / points,2025-11-02,2026-01-25,13,0,2026-01-25,1-3 months
+519,UNCLASSIFIED,Unclassified,Up,Up Main issues North 18.800 to 18.920km,Turnout defects,Turnout / points,2020-09-12,2021-04-17,12,0,2021-04-17,1-3 months
+821,UNCLASSIFIED,Unclassified,Up,Up Main issues Mount 0.800 to 1.300km,Excessive Noise,Noise mitigation,2021-04-24,2021-07-17,12,0,2021-07-17,1-3 months
+1024,FTMUP,Fremantle Line,Up,Robbs Jetty Crossing Review Mundijong to 40.874km to 40.747km Up,Signalling Issues,Signals / train control,2021-07-31,2021-10-30,12,0,2021-10-30,1-3 months
+1025,MTMDN,Midland Line,Down,Byford Direction Bassendean 7.900km to 8.150km Down Main,Turnout defects &,Turnout / points,2021-07-31,2021-10-30,12,0,2021-10-30,1-3 months
+1031,JTMUP,Joondalup Line,Up,design issues Whitfords 20.150km to 19.150km Up Main,Turnout defects &,Turnout / points,2021-07-31,2021-10-30,12,0,2021-10-30,1-3 months
+1042,MTMBI,Midland Line,Bidirectional,Mundijong Armadale Bi-Directional Railhead Guildford 10.250km to 10.350km Midland,Geometry Defects,Track geometry,2021-07-31,2021-10-30,12,0,2021-10-30,1-3 months
+1462,JTMUP,Joondalup Line,Up,Up Main 20 issues Joondalup JTMDN 25.960km to 25.848km,Turnout design,Turnout / points,2022-02-26,2022-04-09,12,0,2022-04-09,1-3 months
+3056,ATM,Armadale Line,Unknown,ATMUP 16.8200km - 17.000km,29-Oct-21 Track Geometry,Track geometry,2023-11-26,2025-06-29,12,0,2025-06-29,1-3 months
+4374,MTM,Midland Line,Unknown,MTMDN 7.900km - 8.150km,27-Mar-20 Turnout,Turnout / points,2025-03-09,2026-06-28,12,1,,1-3 months
+4817,MTM,Midland Line,Unknown,40.874km MTMDN 7.900km - 8.150km 40.874km MTMDN 7.900km - 8.150km,27-Mar-20 Permanent TSR,Other / review required,2025-07-20,2025-10-05,12,0,2025-10-05,1-3 months
+5213,CTM,City / Central Area,Unknown,CTMDN 1.872km - 1.872km,28-Jul-25 Turnout 01/03/2026,Turnout / points,2025-11-09,2026-01-25,12,0,2026-01-25,1-3 months
+5526,UNCLASSIFIED,Unclassified,Unknown,Beyond Service 40.747km - 40.874km,05-Aug-21 Signals,Signals / train control,2026-02-08,2026-04-26,12,0,2026-04-26,1-3 months
+5546,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.281 km,27-Jun-25 Structural Integrity TBD,Structures / bridge,2026-02-08,2026-04-26,12,0,2026-04-26,1-3 months
+5731,MTM,Midland Line,Unknown,MTMDN 0.580km - 0.800km,24-Sep-24 Noise Mitigation,Noise mitigation,2026-04-12,2026-06-28,12,1,,1-3 months
+291,RTM,Mandurah Line,Unknown,Warnbro to Rockingham,Rail wear/ flanging,Track condition,2020-04-11,2020-06-27,11,0,2020-06-27,1-3 months
+335,JTM,Joondalup Line,Unknown,Whitfords,Turnout defects & turnout design issues,Turnout / points,2020-05-09,2020-08-01,11,0,2020-08-01,1-3 months
+336,JTM,Joondalup Line,Unknown,Whitfords,Turnout defects & turnout design issues,Turnout / points,2020-05-09,2020-08-01,11,0,2020-08-01,1-3 months
+338,MTM,Midland Line,Unknown,Bassendean,Turnout design issues,Turnout / points,2020-05-09,2020-08-01,11,0,2020-08-01,1-3 months
+339,JTM,Joondalup Line,Unknown,Joondalup,Turnout design issues,Turnout / points,2020-05-09,2020-08-01,11,0,2020-08-01,1-3 months
+340,JTM,Joondalup Line,Unknown,Joondalup,Turnout design issues,Turnout / points,2020-05-09,2020-08-01,11,0,2020-08-01,1-3 months
+457,ATMDN,Armadale Line,Down,12.725km to 12.955km Beckenham Down Main Armadale Line 12.725km to 12.955km Beckenham Down Main Armadale Line,Points Defect,Turnout / points,2020-08-08,2020-11-28,11,0,2020-11-28,1-3 months
+461,UNCLASSIFIED,Unclassified,Down,0.900 to 1.300km Down Mount Lawley 0.900 to 1.300km Down Mount Lawley,Excessive Noise,Noise mitigation,2020-08-08,2020-11-28,11,0,2020-11-28,1-3 months
+609,MTM,Midland Line,Unknown,issues Bassendean 8.200km to 8.100km,Turnout design,Turnout / points,2020-12-05,2021-02-27,11,0,2021-02-27,1-3 months
+1009,UNCLASSIFIED,Unclassified,Down,issues Mount 0.620 to 1.300km Down Main,Excessive Noise &,Noise mitigation,2021-07-24,2021-10-30,11,0,2021-10-30,1-3 months
+1161,JTM,Joondalup Line,Unknown,Rd Directional Works Warwick JTMDN 13.350km to 13.460km,Track Geometry,Track geometry,2021-09-11,2022-02-19,11,0,2022-02-19,1-3 months
+2076,ATM,Armadale Line,Unknown,ATMBI 40.7470km to 40.8740km,5-Aug-21 Turnout,Turnout / points,2022-12-24,2023-03-04,11,0,2023-03-04,1-3 months
+3028,MTM,Midland Line,Unknown,MTMDN 9.5600km - 9.6800km,6-Nov-23 Track Geometry,Track geometry,2023-11-19,2024-01-28,11,0,2024-01-28,1-3 months
+4971,FTM,Fremantle Line,Unknown,FTMDN 19.039km - 19.750km,12-Aug-25 Rail Surface Defect,Rail surface defect,2025-08-31,2025-11-09,11,0,2025-11-09,1-3 months
+215,RTM,Mandurah Line,Unknown,Glen Iris to Cockburn,Rail Defects,Track condition,2020-02-15,2020-04-18,10,0,2020-04-18,1-3 months
+347,MTM,Midland Line,Unknown,Bassendean,Turnout defects & turnout design issues,Turnout / points,2020-05-16,2020-08-01,10,0,2020-08-01,1-3 months
+516,JTMUP,Joondalup Line,Up,Up Main Joondalup 25.848km to 25.960km,Turnout design issues,Turnout / points,2020-09-12,2021-07-24,10,0,2021-07-24,1-3 months
+1071,JTM,Joondalup Line,Unknown,Main issues Joondalup JTMUP 25.848km to 25.960km,Turnout design,Turnout / points,2021-08-14,2022-02-19,10,0,2022-02-19,1-3 months
+1177,RTMDN,Mandurah Line,Down,Down Main Rockingham RTMUP 43.067km to 42.065km,Turnout Defects,Turnout / points,2021-09-18,2021-11-27,10,0,2021-11-27,1-3 months
+1281,ATMBI,Armadale Line,Bidirectional,Lawley Main Armadale - ATMBI 40.747km to 40.874km Bi-,Signalling,Signals / train control,2021-11-06,2022-02-19,10,0,2022-02-19,1-3 months
+1862,FTM,Fremantle Line,Unknown,Fremantle - FTMBI 21.012km to 26.000km B- Pedestrian,Sep-11 Indefinite Robbs Jetty Directional Crossing Review,Level crossing / pedestrian crossing,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1863,MTMDN,Midland Line,Down,MTMDN 7.900km to 8.150km Down 27-Mar- Turnout defects & Bassendean,Indefinite Main 20 design issues,Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1864,MTMUP,Midland Line,Up,MTMUP 8.200km to 8.100km Up Turnout design Bassendean,5-Apr-20 Indefinite Main issues,Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1865,JTMUP,Joondalup Line,Up,JTMUP 25.848km to 25.960km Up Turnout design Joondalup,21-Apr-20 Indefinite Main issues,Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1866,JTM,Joondalup Line,Unknown,JTMDN 25.960km to 25.848km Turnout design Joondalup,21-Apr-20 Indefinite Down Main issues,Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1867,FTMUP,Fremantle Line,Up,FTMUP 9.580km Up 15-Feb- Loch St Ped Xing Karrakatta,Indefinite Main,Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1868,JTMDN,Joondalup Line,Down,JTMDN 19.150 to 20.150km Down Turnout defects & Whitfords,1-Aug-20 Indefinite Main design issues,Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1869,JTMUP,Joondalup Line,Up,JTMUP 20.150km to 19.150km Up 17-Sep- Turnout defects & Whitfords,Indefinite Main 21 design issues,Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1870,UNCLASSIFIED,Unclassified,Down,Mount MTMDN 0.800 to 1.300km Down,27-Jul-20 Noise Mitigation,Noise mitigation,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1871,UNCLASSIFIED,Unclassified,Up,Mount MTMUP 0.717km to 1.625km Up 28-Sep-,Noise Mitigation Indefinite Lawley Main 21,Noise mitigation,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1872,ATMBI,Armadale Line,Bidirectional,Armadale - ATMBI 40.747km to 40.874km Bi-,5-Aug-21 Signalling Indefinite Mundijong Directional,Signals / train control,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1873,FTMUP,Fremantle Line,Up,FTMUP 0.160km to 0.950km Up 31-Dec- Claisebrook,Track Geometry TBC Main 20,Track geometry,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1875,UNCLASSIFIED,Unclassified,Unknown,East MTMDN 11.930km to 12.315km 18-Dec-,"design non- Indefinite, Guildford Down Main 21",Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1876,RTM,Mandurah Line,Unknown,Cockburn Geometry defect RTMDN 21.080 km to 21.250km,Jul-22,Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1877,ATM,Armadale Line,Unknown,Central 1114A points Gosnells ATMUP 19.294km to 19.507,Apr-22 Track Defect,Track condition,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1878,FTM,Fremantle Line,Unknown,Shenton Structural FTMUP 6.950km to 7.170 km,8-Jul-22 TBC Park integrity,Structures / bridge,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1879,FTM,Fremantle Line,Unknown,Shenton Structural FTMDN 6.950km to 7.170 km,Jul-22 TBC Park integrity,Structures / bridge,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1880,ATM,Armadale Line,Unknown,Extreme weather Mundijong ATMBI 34.800 km to 34.900 km,23-Jul-22 TBC event,Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1881,ATM,Armadale Line,Unknown,Rail Surface Kelmscott ATMDN 23.050 km to 23.400 km,Jul-22,Other / review required,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+1882,UNCLASSIFIED,Unclassified,Unknown,22 Defect Welshpool ATMUP 9.540km to 9.440km,Sep-22 Track Geometry,Track geometry,2022-10-08,2022-12-17,10,0,2022-12-17,1-3 months
+3003,MTM,Midland Line,Unknown,MTMUP 8.1000km - 8.2000km,31-Jan-22 Turnout,Turnout / points,2023-11-12,2024-01-14,10,0,2024-01-14,1-3 months
+4009,MTM,Midland Line,Unknown,MTMDN 13.594km - 13.695km,3-Sep-24 Turnout,Turnout / points,2024-11-24,2025-01-26,10,0,2025-01-26,1-3 months
+4369,FTM,Fremantle Line,Unknown,FTMUP 18.667km - 19.958km,7-Mar-25 Track Defect,Track condition,2025-03-09,2025-06-22,10,0,2025-06-22,1-3 months
+5286,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.281 km,27-Jun-25 Rail Surface Defect,Rail surface defect,2025-11-30,2026-02-01,10,0,2026-02-01,1-3 months
+5576,CTM,City / Central Area,Unknown,CTMUP 0.948km - 1.069km,03-Feb-26 Ultrasonic Defect,Rail internal defect,2026-02-22,2026-04-26,10,0,2026-04-26,1-3 months
+5778,JTM,Joondalup Line,Unknown,JTMUP 19.220km - 19.328km,27- Feb- 26 Turnout,Turnout / points,2026-04-26,2026-06-28,10,1,,1-3 months
+16,FTM,Fremantle Line,Unknown,Fremantle - Robbs Jetty,September 2011,Other / review required,2018-12-01,2019-01-25,9,0,2019-01-25,1-3 months
+243,JTM,Joondalup Line,Unknown,Whitfords,Rail defects,Track condition,2020-03-07,2020-05-02,9,0,2020-05-02,1-3 months
+244,JTM,Joondalup Line,Unknown,Whitfords,Rail defects,Track condition,2020-03-07,2020-05-02,9,0,2020-05-02,1-3 months
+512,FTM,Fremantle Line,Unknown,Fremantle - Pedestrian Crossing Section,September 2011 Indefinite Robbs Jetty Review,Other / review required,2020-09-12,2020-11-07,9,0,2020-11-07,1-3 months
+513,UNCLASSIFIED,Unclassified,Up,Mundijong to 40.874km to 40.747km Up,Signalling Issues,Signals / train control,2020-09-12,2020-11-07,9,0,2020-11-07,1-3 months
+635,TTM,Thornlie Line,Unknown,Thornlie Line North 18.800 to 18.920km,Turnout defects,Turnout / points,2020-12-19,2021-02-27,9,0,2021-02-27,1-3 months
+637,JTMDN,Joondalup Line,Down,Down Main Whitfords 19.150 to 20.150km,01 Aug2020 Turnout defects Indefinite Down Main & turnout design,Turnout / points,2020-12-19,2021-02-27,9,0,2021-02-27,1-3 months
+684,UNCLASSIFIED,Unclassified,Up,Up Main design issues City 0.990km to 1.150km,Turnout defects,Turnout / points,2021-01-23,2021-04-17,9,0,2021-04-17,1-3 months
+685,UNCLASSIFIED,Unclassified,Down,Down Main City 0.875km to 1.650km,Turnout defects,Turnout / points,2021-01-23,2021-04-17,9,0,2021-04-17,1-3 months
+1291,UNCLASSIFIED,Unclassified,Down,Down Main issues Karrakatta FTMUP 9.580km Up,Loch St Ped Xing Indefinite Main issues,Other / review required,2021-11-13,2022-02-19,9,0,2022-02-19,1-3 months
+1297,FTMUP,Fremantle Line,Up,Mundijong Directional Claisebrook FTMUP 0.160km to 0.950km Up,Track Geometry,Track geometry,2021-11-13,2022-02-19,9,0,2022-02-19,1-3 months
+2998,FTM,Fremantle Line,Unknown,FTMUP 1.4500km - 1.9300km,19-Oct-23 Points Fault End of November,Turnout / points,2023-11-12,2024-01-07,9,0,2024-01-07,1-3 months
+2999,FTM,Fremantle Line,Unknown,FTMBI 19.2200km - 19.4500km,23-Oct-23 Track Geometry,Track geometry,2023-11-12,2024-01-07,9,0,2024-01-07,1-3 months
+3010,JTM,Joondalup Line,Unknown,JTMDN 32.6200km - 32.7500km,25-Oct-22 Points Fault,Turnout / points,2023-11-12,2024-01-07,9,0,2024-01-07,1-3 months
+3365,UNCLASSIFIED,Unclassified,Unknown,RRP Scope ATMUP 16.8200km - 17.0000km,29-Oct-21 Ballast / Formation of Work,Ballast / formation,2024-03-03,2024-05-05,9,0,2024-05-05,1-3 months
+4347,MTM,Midland Line,Unknown,MTMUP 8.100km - 8.200km,30-Jan-24 Turnout,Turnout / points,2025-03-02,2025-04-27,9,0,2025-04-27,1-3 months
+4741,FTM,Fremantle Line,Unknown,FTMDN 19.750km - 19.390km,18-Jun-25 Track Defect,Track condition,2025-06-22,2025-08-17,9,0,2025-08-17,1-3 months
+5785,UNCLASSIFIED,Unclassified,Unknown,Beyond Service 40.747km -,05-Aug-21 Signals,Signals / train control,2026-05-03,2026-06-28,9,1,,1-3 months
+152,JTM,Joondalup Line,Unknown,Whitfords,Rail defects,Track condition,2019-11-16,2020-01-04,8,0,2020-01-04,1-3 months
+3285,FTM,Fremantle Line,Unknown,FTMUP 14.8800km - 15.2780km,09-Jan-24 Track Geometry,Track geometry,2024-02-11,2024-04-14,8,0,2024-04-14,1-3 months
+3364,JTM,Joondalup Line,Unknown,JTMUP 0.8350km - 0.9070km,08-Feb-24 Points Fault,Turnout / points,2024-03-03,2024-04-28,8,0,2024-04-28,1-3 months
+3617,UNCLASSIFIED,Unclassified,Unknown,Damage FTMDN 6.950km - 7.170km,21-Mar-24 Structural Integrity,Structures / bridge,2024-06-16,2024-08-04,8,0,2024-08-04,1-3 months
+4366,FTM,Fremantle Line,Unknown,FTMUP 20.767km - 21.150km,7-Mar-25 Rail Internal Defect,Rail internal defect,2025-03-09,2025-06-01,8,0,2025-06-01,1-3 months
+4906,CTM,City / Central Area,Unknown,CTMDN 1.872km - 1.872km,28-Jul-25 Turnout,Turnout / points,2025-08-10,2025-11-02,8,0,2025-11-02,1-3 months
+5237,FTM,Fremantle Line,Unknown,FTMDN 19.039km - 19.750km,12-Aug-25 Rail Surface Defect,Rail surface defect,2025-11-16,2026-01-04,8,0,2026-01-04,1-3 months
+31,FTM,Fremantle Line,Unknown,Fremantle - Robbs Section,Pedestrian,Level crossing / pedestrian crossing,2019-03-30,2019-05-25,7,0,2019-05-25,1-3 months
+32,JTM,Joondalup Line,Unknown,2.4 Leederville- Stirling 65 to 2.780 2.4 Leederville- Stirling 65 to 2.780,Sleeper Co,Track condition,2019-03-30,2019-05-25,7,0,2019-05-25,1-3 months
+90,FTM,Fremantle Line,Unknown,Fremantle - Robbs Pedestrian Crossing TBA Section,Jetty Review,Other / review required,2019-08-24,2019-10-05,7,0,2019-10-05,1-3 months
+91,JTM,Joondalup Line,Unknown,Leederville 2.465 to 2.780 Sleeper Condition on 17th October,Stirling Down Main Vincent St Bridge 2019,Structures / bridge,2019-08-24,2019-10-05,7,0,2019-10-05,1-3 months
+92,JTM,Joondalup Line,Yard,Across 37 & 38 2nd October Nowergup Yard,Points points in yard 2019,Turnout / points,2019-08-24,2019-10-05,7,0,2019-10-05,1-3 months
+94,ATM,Armadale Line,Unknown,Gosnells to 19.300 to 6th November,Rail defects Maddington 19.000km Up Main 2019,Track condition,2019-08-24,2019-10-05,7,0,2019-10-05,1-3 months
+95,ATM,Armadale Line,Unknown,25.975 to 27th August Kelmscott to Challis 25.975 to 27th August Kelmscott to Challis,Rail defects 26.140km Up Main 2019,Track condition,2019-08-24,2019-10-05,7,0,2019-10-05,1-3 months
+188,JTM,Joondalup Line,Unknown,Whitfords,Rail defects,Track condition,2020-01-11,2020-02-22,7,0,2020-02-22,1-3 months
+225,MTM,Midland Line,Unknown,Bassendean,Internal Rail Defects,Rail internal defect,2020-02-22,2020-04-04,7,0,2020-04-04,1-3 months
+245,JTM,Joondalup Line,Unknown,Joondalup to Edgewater,Track defects,Track condition,2020-03-07,2020-04-18,7,0,2020-04-18,1-3 months
+713,FTMDN,Fremantle Line,Down,Fremantle Down Main Mount 0.800 to 1.300km,Excessive Noise,Noise mitigation,2021-02-06,2021-04-17,7,0,2021-04-17,1-3 months
+870,UNCLASSIFIED,Unclassified,Up,Up Main design issues Claisebrook 0.990km to 1.150km,Track Geometry,Track geometry,2021-05-15,2021-07-03,7,0,2021-07-03,1-3 months
+871,UNCLASSIFIED,Unclassified,Down,City Down Main Claisebrook 0.875km to 1.650km,Track Geometry,Track geometry,2021-05-15,2021-07-03,7,0,2021-07-03,1-3 months
+874,UNCLASSIFIED,Unclassified,Unknown,Main Works Denny Ave 24.560km to 25.140km,Track Project,Track condition,2021-05-15,2021-07-03,7,0,2021-07-03,1-3 months
+875,ATMUP,Armadale Line,Up,Armadale Up Main Works Denny Ave 24.560km to 25.540km,Track Project,Track condition,2021-05-15,2021-07-03,7,0,2021-07-03,1-3 months
+876,ATMDN,Armadale Line,Down,Armadale Down Main Works Abernethy 36.734km to 36.834km,Track Project,Track condition,2021-05-15,2021-07-03,7,0,2021-07-03,1-3 months
+1003,FTM,Fremantle Line,Unknown,Railway (km) Speed Imposed Restriction Cancelled Fremantle - Section,Sept 2011 Pedestrian Crossing Indefinite Robbs Jetty Review,Level crossing / pedestrian crossing,2021-07-24,2021-09-11,7,0,2021-09-11,1-3 months
+1008,JTMDN,Joondalup Line,Down,Down Main Joondalup 25.960km to 25.848km Up,Turnout design issues,Turnout / points,2021-07-24,2021-09-11,7,0,2021-09-11,1-3 months
+1019,ATMUP,Armadale Line,Up,Armadale Line Up Main Claisebrook 0.735km to 0.275km,Rail Internal &,Rail internal defect,2021-07-24,2021-09-04,7,0,2021-09-04,1-3 months
+1157,ATMBI,Armadale Line,Bidirectional,Rd Armadale Bi-di Line Works Cockburn 21.142km to 21.242km,Rail Internal Defect,Rail internal defect,2021-09-11,2021-10-30,7,0,2021-10-30,1-3 months
+1158,ATMDN,Armadale Line,Down,Mandurah Down Main Armadale 29.350km to 29.710km,Contaminated TBC Mundijong Armadale Bi-Directional Railhead,Track condition,2021-09-11,2021-10-30,7,0,2021-10-30,1-3 months
+2809,MDM,Mandurah Line,Unknown,MDMDN 0.6600km to 1.3000km,4-Aug-23 Track Geometry,Track geometry,2023-09-03,2023-10-15,7,0,2023-10-15,1-3 months
+3068,FTM,Fremantle Line,Unknown,FTMUP 14.8800km - 15.2780km,29-Nov-23 Track Geometry,Track geometry,2023-12-03,2024-01-14,7,0,2024-01-14,1-3 months
+3334,FTM,Fremantle Line,Unknown,24/04/2024 FTMUP 20.7650km - 20.8500km,14-Feb-24 Points Fault,Turnout / points,2024-02-25,2024-04-21,7,0,2024-04-21,1-3 months
+3481,UNCLASSIFIED,Unclassified,Unknown,Curve Wear & RCF FTMUP 14.8800km - 15.2780km,09-Jan,Other / review required,2024-04-21,2024-06-02,7,0,2024-06-02,1-3 months
+4041,JTM,Joondalup Line,Unknown,JTMUP 2.167km - 2.709,20-Nov-24 Rail Surface Defect,Rail surface defect,2024-12-01,2025-01-12,7,0,2025-01-12,1-3 months
+4438,JTM,Joondalup Line,Unknown,JTMDN 19.150km - 20.150km,03-Jun-21 Permanent TSR,Other / review required,2025-03-30,2025-05-11,7,0,2025-05-11,1-3 months
+5262,FTM,Fremantle Line,Unknown,FTMUP 19.440km - 19.793km,15-Nov-25 Rail Surface Defect,Rail surface defect,2025-11-23,2026-01-04,7,0,2026-01-04,1-3 months
+5786,CTM,City / Central Area,Unknown,40.874km CTMUP 0.948km - 1.069km 40.874km CTMUP 0.948km - 1.069km,03-Feb-26 Ultrasonic Defect,Rail internal defect,2026-05-03,2026-06-14,7,0,2026-06-14,1-3 months
+391,RTM,Mandurah Line,Unknown,Rockingham,Rail Defects,Track condition,2020-06-20,2020-08-01,6,0,2020-08-01,1-3 months
+677,ATMUP,Armadale Line,Up,Up Main issues Beckenham 12.725km to 12.955km,Points Defect,Turnout / points,2021-01-23,2021-02-27,6,0,2021-02-27,1-3 months
+775,FTM,Fremantle Line,Unknown,Main Works Claremont 10.890km to 12.503km,Track Project,Track condition,2021-04-06,2021-05-08,6,0,2021-05-08,1-3 months
+776,FTMUP,Fremantle Line,Up,Fremantle Up Main Works Claremont 10.890km to 12.503km,Track Project,Track condition,2021-04-06,2021-05-08,6,0,2021-05-08,1-3 months
+1013,FTMUP,Fremantle Line,Up,Fremantle Up Main Karrakatta 9.580km Fremantle Up,Track Project Works,Track condition,2021-07-24,2021-09-04,6,0,2021-09-04,1-3 months
+1017,RTMBI,Mandurah Line,Bidirectional,Thornlie Bi-directional Cockburn 21.142km to 21.242km,Rail Internal Defect,Rail internal defect,2021-07-24,2021-09-04,6,0,2021-09-04,1-3 months
+1165,MTMUP,Midland Line,Up,design issues Bassendean 8.200km to 8.100km Up Main,Turnout design,Turnout / points,2021-09-18,2021-10-30,6,0,2021-10-30,1-3 months
+1172,FTMUP,Fremantle Line,Up,Up Main Karrakatta 9.580km Fremantle Up Main,Due to Loch St Ped Indefinite Xing issues,Other / review required,2021-09-18,2021-10-30,6,0,2021-10-30,1-3 months
+1284,JTMUP,Joondalup Line,Up,Up Main Warwick JTMDN 13.350km to 13.460km,Track Geometry,Track geometry,2021-11-06,2021-12-25,6,0,2021-12-25,1-3 months
+1461,MTMDN,Midland Line,Down,Down Main design issues Bassendean MTMUP 8.200km to 8.100km,Turnout design,Turnout / points,2022-02-26,2022-04-09,6,0,2022-04-09,1-3 months
+1466,JTMDN,Joondalup Line,Down,Down Main design issues Whitfords JTMUP 20.150km to 19.150km,Turnout defects &,Turnout / points,2022-02-26,2022-04-09,6,0,2022-04-09,1-3 months
+1468,UNCLASSIFIED,Unclassified,Down,Lawley Down Main Mount MTMUP 0.717km to 1.625km,Noise Mitigation,Noise mitigation,2022-02-26,2022-04-09,6,0,2022-04-09,1-3 months
+1474,UNCLASSIFIED,Unclassified,Up,Up Main City West FTMUP 3.600km to 3.760km,Facilities - City West TBC Up Main Platform deformation,Ballast / formation,2022-02-26,2022-04-09,6,0,2022-04-09,1-3 months
+2189,FTM,Fremantle Line,Unknown,FTMUP 17.4700km to 18.0500km,23-Jan-23 N/A,Other / review required,2023-01-28,2023-03-04,6,0,2023-03-04,1-3 months
+3221,FTM,Fremantle Line,Unknown,FTMDM 4.8900km - 5.3200km,11-Jan-24 Points Fault,Turnout / points,2024-01-21,2024-02-25,6,0,2024-02-25,1-3 months
+3348,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.6700km,27-Oct-22 Structural Integrity TBD by Civil,Structures / bridge,2024-03-03,2024-04-14,6,0,2024-04-14,1-3 months
+3596,UNCLASSIFIED,Unclassified,Unknown,Curve Wear & RCF FTMUP 14.8800km - 15.2780km,09-Jan,Other / review required,2024-06-09,2024-07-14,6,0,2024-07-14,1-3 months
+3857,FTM,Fremantle Line,Unknown,FTMDN 6.800KM - 7.170km,3-Sep-24 Structural integrity,Structures / bridge,2024-09-08,2024-10-13,6,0,2024-10-13,1-3 months
+3860,FTM,Fremantle Line,Unknown,FTMUP 4.878km - 5.436km,4-Sep-24 Rail Surface Defect,Rail surface defect,2024-09-08,2024-10-13,6,0,2024-10-13,1-3 months
+3866,MTM,Midland Line,Unknown,MTMDN 13.594km - 13.695km,3-Sep-24 Turnout 26/10/2024,Turnout / points,2024-09-08,2024-10-13,6,0,2024-10-13,1-3 months
+5363,JTM,Joondalup Line,Unknown,JTMUP 27.000 - 27.390km,19-Dec-25 Ballast/Formation,Ballast / formation,2025-12-21,2026-01-25,6,0,2026-01-25,1-3 months
+45,FTM,Fremantle Line,Unknown,Fremantle - Robbs Section,Pedestrian Crossing,Level crossing / pedestrian crossing,2019-06-15,2019-07-13,5,0,2019-07-13,1-3 months
+46,JTM,Joondalup Line,Unknown,Leederville 2.4 65 to 2.780,Sleeper Condition on 27th July,Track condition,2019-06-15,2019-07-13,5,0,2019-07-13,1-3 months
+47,JTM,Joondalup Line,Unknown,Joondalup 22.9 42 to 23.184,19th Rail Defect July,Track condition,2019-06-15,2019-07-13,5,0,2019-07-13,1-3 months
+48,FTM,Fremantle Line,Unknown,Fremantle 8.2 68 to 8.516,30th Rail Defect June,Track condition,2019-06-15,2019-07-13,5,0,2019-07-13,1-3 months
+150,JTM,Joondalup Line,Unknown,Leederville to Glendalough,Track condition,Track condition,2019-11-16,2019-12-14,5,0,2019-12-14,1-3 months
+151,ATM,Armadale Line,Unknown,Kelmscott to Challis,Rail defects,Track condition,2019-11-16,2019-12-14,5,0,2019-12-14,1-3 months
+230,RTM,Mandurah Line,Unknown,Warnbro to Rockingham,Rail wear/ flanging,Track condition,2020-02-29,2020-04-04,5,0,2020-04-04,1-3 months
+276,JTM,Joondalup Line,Unknown,Joondalup,Track defects,Track condition,2020-03-28,2020-04-25,5,0,2020-04-25,1-3 months
+460,ATMDN,Armadale Line,Down,9.450 to 9.550km Down Queens Park 9.450 to 9.550km Down Queens Park,Track Defects,Track condition,2020-08-08,2020-10-03,5,0,2020-10-03,1-3 months
+636,FTMDN,Fremantle Line,Down,Fremantle Down Main Mount Lawley 0.900 to 1.300km,Excessive Noise,Noise mitigation,2020-12-19,2021-01-30,5,0,2021-01-30,1-3 months
+640,ATMUP,Armadale Line,Up,Up Main Armadale 19.900km to 20.100km,Track Defect,Track condition,2020-12-19,2021-01-30,5,0,2021-01-30,1-3 months
+777,FTMDN,Fremantle Line,Down,Fremantle Down Main Works Denny Ave 24.700km to 25.140km,Track Project,Track condition,2021-04-06,2021-05-01,5,0,2021-05-01,1-3 months
+778,ATMUP,Armadale Line,Up,Armadale Up Main Works Denny Ave 24.700km to 25.140km,Track Project,Track condition,2021-04-06,2021-05-01,5,0,2021-05-01,1-3 months
+1171,FTM,Fremantle Line,Unknown,design issues Claisebrook 0.850km to 0.950km Fremantle,Track Geometry,Track geometry,2021-09-18,2021-10-30,5,0,2021-10-30,1-3 months
+1306,MTMUP,Midland Line,Up,Up Main Ashfield MTMUP 7.007km to 7.158km,Track Geometry Pending,Track geometry,2021-11-13,2021-12-25,5,0,2021-12-25,1-3 months
+1459,FTM,Fremantle Line,Unknown,Railway Speed Imposed Restriction Cancelled Fremantle - FTMBI 21.012km to 26.000km,Sept 2011 Pedestrian Crossing Indefinite Robbs Jetty B-Directional Review,Level crossing / pedestrian crossing,2022-02-26,2022-04-02,5,0,2022-04-02,1-3 months
+1472,JTMBI,Joondalup Line,Bidirectional,Rd Bi-Directional Warwick JTMDN 13.350km to 13.460km,Track Geometry,Track geometry,2022-02-26,2022-04-02,5,0,2022-04-02,1-3 months
+1477,ATMDN,Armadale Line,Down,Central Down Main 1112A/1114A Armadale - ATMBI 34.18 to 34 34.28,Rail ultrasonic defect,Rail internal defect,2022-02-26,2022-04-02,5,0,2022-04-02,1-3 months
+2072,UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Restriction Cancelled FTMBI 21.012km to 26.000km,Sep-11 Pedestrian Crossing Issue,Level crossing / pedestrian crossing,2022-12-24,2023-01-22,5,0,2023-01-22,1-3 months
+2086,ATM,Armadale Line,Unknown,ATMBI 34.8000km to 34.9000km,23-Jul-22 Extreme weather event,Other / review required,2022-12-24,2023-01-22,5,0,2023-01-22,1-3 months
+2088,ATM,Armadale Line,Unknown,ATMUP 9.5400km to 9.4400km,9-Sep-22 Ballast / Formation,Ballast / formation,2022-12-24,2023-01-22,5,0,2023-01-22,1-3 months
+2091,MTM,Midland Line,Unknown,MTMDN 11.9300km to 13.2000km,29-Oct-22 Track Geometry,Track geometry,2022-12-24,2023-01-22,5,0,2023-01-22,1-3 months
+3677,FTM,Fremantle Line,Unknown,FTMDN 1.190km - 1.090km,28-Jun-24 Miscellaneous,Other / review required,2024-07-07,2024-08-04,5,0,2024-08-04,1-3 months
+4444,RTM,Mandurah Line,Unknown,RTMUP 43.332km - 43.472km,21-Feb-25 Rail Internal Defect,Rail internal defect,2025-03-30,2025-04-27,5,0,2025-04-27,1-3 months
+4479,UNCLASSIFIED,Unclassified,Unknown,Beyond Service 40.747km - 40.874km N/A,5-Aug-21 Signals,Signals / train control,2025-04-13,2025-05-11,5,0,2025-05-11,1-3 months
+4764,ATM,Armadale Line,Unknown,ATMUP 10.000km - 11.043km,29- May-25 Weld Defect,New rail / weld,2025-06-29,2025-07-27,5,0,2025-07-27,1-3 months
+5051,MTM,Midland Line,Unknown,MTMUP 13.225km - 13.610km,22-Sep-25 New Rail,New rail / weld,2025-09-28,2025-10-26,5,0,2025-10-26,1-3 months
+5231,JTM,Joondalup Line,Unknown,JTMDN 2.227km - 2.462km,09-Nov-25 Rail Internal Defect,Rail internal defect,2025-11-16,2025-12-14,5,0,2025-12-14,1-3 months
+5309,JTM,Joondalup Line,Unknown,JTMDN 25.630km- 25.960km,21-Nov-25 Ultrasonic Defect,Rail internal defect,2025-12-07,2026-01-25,5,0,2026-01-25,1-3 months
+5573,RTM,Mandurah Line,Unknown,RTMDN 37.550km - 37.650km,11-Feb-26 Earthworks Compromised,Ballast / formation,2026-02-15,2026-03-15,5,0,2026-03-15,1-3 months
+5765,FTM,Fremantle Line,Unknown,FTMUP 14.510km - 14.670km,21-Nov-25 Rail Surface Defect,Rail surface defect,2026-04-19,2026-05-17,5,0,2026-05-17,1-3 months
+71,JTM,Joondalup Line,Yard,Nowergup Yard Across 37 & 38,Points,Turnout / points,2019-07-20,2019-08-10,4,0,2019-08-10,2-4 weeks
+93,ATM,Armadale Line,Unknown,14.270 to 12th September Kenwick Station 14.270 to 12th September Kenwick Station,Rail defect 14.460km Down 2019,Track condition,2019-08-24,2019-09-14,4,0,2019-09-14,2-4 weeks
+201,RTM,Mandurah Line,Unknown,Warnbro to Rockingham,Rail wear/ flanging,Track condition,2020-02-01,2020-02-22,4,0,2020-02-22,2-4 weeks
+298,JTM,Joondalup Line,Unknown,Leederville,Rail Defect,Track condition,2020-04-11,2020-05-02,4,0,2020-05-02,2-4 weeks
+413,RTM,Mandurah Line,Unknown,Cockburn,1114A pts multiple rail defects,Track condition,2020-07-11,2020-08-01,4,0,2020-08-01,2-4 weeks
+465,JTM,Joondalup Line,Unknown,Joondalup Main,21 A pril 2020 Tur nout design issues,Other / review required,2020-08-15,2020-08-22,4,0,2020-08-22,2-4 weeks
+491,JTM,Joondalup Line,Unknown,Joondalup,April 2020 Turnout de sign iss ues,Turnout / points,2020-08-29,2020-09-05,4,0,2020-09-05,2-4 weeks
+1015,ATMBI,Armadale Line,Bidirectional,Armadale Bi-di Line Cockburn 21.270km to 21.170km,Rail Internal Defect,Rail internal defect,2021-07-24,2021-08-21,4,0,2021-08-21,2-4 weeks
+1016,RTMUP,Mandurah Line,Up,Mandurah Up Main Thornlie 2.350km to 2.500km,Rail Surface Defect,Rail surface defect,2021-07-24,2021-08-21,4,0,2021-08-21,2-4 weeks
+1018,RTMUP,Mandurah Line,Up,Mandurah Up Main Welshpool 8.400km to 8.200km,Rail Internal Defect,Rail internal defect,2021-07-24,2021-08-21,4,0,2021-08-21,2-4 weeks
+1020,MTMUP,Midland Line,Up,Armadale Line Up Main Geometry Defects Midland 13.389km to 13.489km,Rail Internal Defect,Rail internal defect,2021-07-24,2021-08-21,4,0,2021-08-21,2-4 weeks
+1022,MTM,Midland Line,Unknown,Mundijong Directional Railhead Guildford MTMDN 10.250km to 10.350km,Geometry Defects,Track geometry,2021-07-24,2021-11-27,4,0,2021-11-27,2-4 weeks
+1285,ATMDN,Armadale Line,Down,Down Main Gosnells ATMUP 19.314km to 19.550km,Track Geometry,Track geometry,2021-11-06,2021-11-27,4,0,2021-11-27,2-4 weeks
+1398,MTMUP,Midland Line,Up,Up Main Ashfield MTMDN 6.700km to 7.100km,Track Defects Pending,Track condition,2022-01-29,2022-02-19,4,0,2022-02-19,2-4 weeks
+1399,UNCLASSIFIED,Unclassified,Down,Down Main 3rd Party City West FTMUP 3.600km to 3.760km,Facilities - City TBC Up Main West Platform,Platform / station,2022-01-29,2022-02-19,4,0,2022-02-19,2-4 weeks
+3198,FTM,Fremantle Line,Unknown,FTMUP & DM 6.9500km - 7.1700km,08-Jan-24 Points Fault,Turnout / points,2024-01-14,2024-02-04,4,0,2024-02-04,2-4 weeks
+3199,FTM,Fremantle Line,Unknown,FTMUP 14.8800km - 15.2780km,09-Jan-24 Track Geometry,Track geometry,2024-01-14,2024-02-04,4,0,2024-02-04,2-4 weeks
+3244,FTM,Fremantle Line,Unknown,FTMDM 0.8480km - 1.3690km,16-Jan-24 Points Fault March 2024,Turnout / points,2024-01-28,2024-02-18,4,0,2024-02-18,2-4 weeks
+3245,FTM,Fremantle Line,Unknown,FTMDM 18.4250km - 18.5970km,16-Jan-24 Turnout 06/02/2024,Turnout / points,2024-01-28,2024-02-18,4,0,2024-02-18,2-4 weeks
+3332,FTM,Fremantle Line,Unknown,FTMDM 6.9500km - 7.1700km N/A,08-Feb-24 Points Fault,Turnout / points,2024-02-25,2024-03-17,4,0,2024-03-17,2-4 weeks
+3333,FTM,Fremantle Line,Unknown,FTMUP 10.1250km - 10.6680km,08-Feb-24 Track Geometry,Track geometry,2024-02-25,2024-03-17,4,0,2024-03-17,2-4 weeks
+3544,UNCLASSIFIED,Unclassified,Unknown,Damage MTMDN 7.900km - 8.150km,27-Mar-20 Turnout,Turnout / points,2024-05-12,2024-06-02,4,0,2024-06-02,2-4 weeks
+3867,MTM,Midland Line,Unknown,MTMUP 12.140km - 10.980km,3-Sep-24 Rail Surface Defect,Rail surface defect,2024-09-08,2024-09-29,4,0,2024-09-29,2-4 weeks
+4180,MTM,Midland Line,Unknown,MTMUP 0.660km - 1.625km,28-Sep-21 Noise Mitigation,Noise mitigation,2025-01-12,2025-02-02,4,0,2025-02-02,2-4 weeks
+4275,MTM,Midland Line,Unknown,MTMUP 0.660km - 0.800km,28-Sep-21 Noise Mitigation,Noise mitigation,2025-02-09,2025-03-02,4,0,2025-03-02,2-4 weeks
+4367,FTM,Fremantle Line,Unknown,FTMDN 1.578km - 1.775km,6-Mar-25 Heat Kick,Track condition,2025-03-09,2025-03-30,4,0,2025-03-30,2-4 weeks
+5654,JTM,Joondalup Line,Unknown,JTMUP 19.220km - 19.328km,27- Feb- 26 Turnout 05/04/2026,Turnout / points,2026-03-15,2026-04-05,4,0,2026-04-05,2-4 weeks
+5825,MTM,Midland Line,Unknown,MTMDN 8.885km - 9.650km,5-Sep-25 Rail Surface Defect,Rail surface defect,2026-05-17,2026-06-07,4,0,2026-06-07,2-4 weeks
+57,JTM,Joondalup Line,Yard,Acr Nowergup Yard oss 37 & 38,Points,Turnout / points,2019-06-29,2019-07-13,3,0,2019-07-13,2-4 weeks
+72,FTM,Fremantle Line,Unknown,Fremantle - Robbs Sectio n,estrian Crossing,Level crossing / pedestrian crossing,2019-07-27,2019-08-10,3,0,2019-08-10,2-4 weeks
+73,JTM,Joondalup Line,Unknown,Leederville 2.465 to 2 .780,per Condition on 27 th July 20,Other / review required,2019-07-27,2019-08-10,3,0,2019-08-10,2-4 weeks
+75,ATM,Armadale Line,Unknown,14 Kenwick Station .270 to 14 .460k m,Rail defect 3,Track condition,2019-07-27,2019-08-10,3,0,2019-08-10,2-4 weeks
+76,ATM,Armadale Line,Unknown,Gosnells to 19 .300 to 19 .000k m,6 Rail defects Novembe,Track condition,2019-07-27,2019-08-10,3,0,2019-08-10,2-4 weeks
+77,ATM,Armadale Line,Unknown,25 Kelmscott to Challis .975 to 26 .140k m,Rail defects,Track condition,2019-07-27,2019-08-10,3,0,2019-08-10,2-4 weeks
+117,MTM,Midland Line,Unknown,Bassendean to 9.200km to,Rail defects TBA Success Hill 9.040km,Track condition,2019-09-21,2019-10-05,3,0,2019-10-05,2-4 weeks
+118,ATM,Armadale Line,Unknown,Maddington to 18.010 to 16th,Rail defect Gosnells 18.170km Down September,Track condition,2019-09-21,2019-10-05,3,0,2019-10-05,2-4 weeks
+634,ATMUP,Armadale Line,Up,Up Main issues Beckenham 12.725km to 12.955km,Points Defect Feb 2021,Turnout / points,2020-12-19,2021-01-16,3,0,2021-01-16,2-4 weeks
+639,ATM,Armadale Line,Unknown,issues Armadale 18.100km to 18.250km,Track Defect,Track condition,2020-12-19,2021-01-16,3,0,2021-01-16,2-4 weeks
+987,RTMUP,Mandurah Line,Up,Mandurah Up Main Defect Thornlie 2.350km to 2.500km,Rail Surface,Rail surface defect,2021-07-10,2021-08-14,3,0,2021-08-14,2-4 weeks
+1029,UNCLASSIFIED,Unclassified,Down,Main Mount 0.620 to 1.300km Down,Excessive Noise & Rail,Noise mitigation,2021-07-31,2021-08-21,3,0,2021-08-21,2-4 weeks
+1043,MTMDN,Midland Line,Down,Midland Down Main Wellard 38.366km to 38.466km,Rail Internal Defect,Rail internal defect,2021-07-31,2021-08-21,3,0,2021-08-21,2-4 weeks
+1299,ATM,Armadale Line,Unknown,Rd Directional Works Armadale ATMUP 29.350km to 29.411km,Contaminated,Other / review required,2021-11-13,2021-11-27,3,0,2021-11-27,2-4 weeks
+1300,ATMBI,Armadale Line,Bidirectional,Railhead Armadale - ATMBI 29.411km to 29.710km Bi-,Contaminated,Other / review required,2021-11-13,2021-11-27,3,0,2021-11-27,2-4 weeks
+1478,RTMBI,Mandurah Line,Bidirectional,Mundijong Bidirectional Elizabeth RTMUP,Rail ultrasonic defect,Rail internal defect,2022-02-26,2022-03-12,3,0,2022-03-12,2-4 weeks
+2377,ATM,Armadale Line,Unknown,ATMUP 0.6300km TO 0.7300km,31-Mar-23 Rail Internal Defect,Rail internal defect,2023-04-08,2023-04-23,3,0,2023-04-23,2-4 weeks
+2746,FTM,Fremantle Line,Unknown,FTMUP 4.9400km to 5.6410km,5-Jul-23 Signals,Signals / train control,2023-08-11,2023-08-25,3,0,2023-08-25,2-4 weeks
+2947,MTM,Midland Line,Unknown,MTMDN 9.5600km to 9.6800km,3-Oct-23 Track Geometry,Track geometry,2023-10-22,2023-11-05,3,0,2023-11-05,2-4 weeks
+2948,ATM,Armadale Line,Unknown,ATMUP 9.8800km to 10.1900km,17-Oct-23 Ballast / Formation,Ballast / formation,2023-10-22,2023-11-05,3,0,2023-11-05,2-4 weeks
+2950,MTM,Midland Line,Unknown,MTMDN 0.7400km to 1.3000km,23-Oct-23 Track Geometry,Track geometry,2023-10-22,2023-11-05,3,0,2023-11-05,2-4 weeks
+3006,MTM,Midland Line,Unknown,MTMDN 0.7400km - 1.3000km,23-Oct-23 Track Geometry,Track geometry,2023-11-12,2023-11-26,3,0,2023-11-26,2-4 weeks
+3013,ATM,Armadale Line,Unknown,ATMUP 19.2940km - 19.5070km,22-Apr-22 Miscellaneous,Other / review required,2023-11-12,2023-11-26,3,0,2023-11-26,2-4 weeks
+3256,UNCLASSIFIED,Unclassified,Unknown,RRP Scope ATMUP 19.2940km - 19.5070km,22-Apr-22 Miscellaneous of Work,Other / review required,2024-01-28,2024-02-18,3,0,2024-02-18,2-4 weeks
+3276,JTM,Joondalup Line,Unknown,JTMDN 15.8250km - 15.9520km,25-Jan-24 Rail Internal Defect,Rail internal defect,2024-02-04,2024-02-18,3,0,2024-02-18,2-4 weeks
+3331,FTM,Fremantle Line,Unknown,FTMDM 6.9500km - 7.1700km,08-Feb-24 Points Fault,Turnout / points,2024-02-25,2024-03-31,3,0,2024-03-31,2-4 weeks
+3351,FTM,Fremantle Line,Unknown,FTMUP 6.9500km - 7.1700km,08-Feb-24 Points Fault TBD by Civil,Turnout / points,2024-03-03,2024-03-17,3,0,2024-03-17,2-4 weeks
+3416,FTM,Fremantle Line,Unknown,FTMDM 18.4250km - 18.5970km,16-Jan-24 Turnout 19/04/2024,Turnout / points,2024-03-24,2024-04-14,3,0,2024-04-14,2-4 weeks
+3420,FTM,Fremantle Line,Unknown,FTMDM 6.9500km - 7.1700km,21-Mar-24 Structural Integrity TBD by Civil,Structures / bridge,2024-03-24,2024-04-14,3,0,2024-04-14,2-4 weeks
+3480,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.6700km,27-Oct-22 Structural Integrity TBD by Civil Curve Wear & RCF,Structures / bridge,2024-04-21,2024-05-05,3,0,2024-05-05,2-4 weeks
+3483,UNCLASSIFIED,Unclassified,Unknown,Damage FTMDP 6.9500km - 7.1700km,21-Mar-24 Structural Integrity TBD by Civil,Structures / bridge,2024-04-21,2024-05-05,3,0,2024-05-05,2-4 weeks
+3484,FTM,Fremantle Line,Unknown,FTMDP 6.9500km - 7.1700km,21-Mar-24 Structural Integrity TBD by Civil,Structures / bridge,2024-04-21,2024-05-05,3,0,2024-05-05,2-4 weeks
+3485,FTM,Fremantle Line,Unknown,FTMUM 6.9500km - 7.1700km,16-Apr-24 Structural Integrity TBD by Civil,Structures / bridge,2024-04-21,2024-05-05,3,0,2024-05-05,2-4 weeks
+3498,UNCLASSIFIED,Unclassified,Unknown,RRP Scope ATMUP 19.2940km - 19.5070km,22-Apr-22 RRP Scope Work of Work,Works / project,2024-04-21,2024-05-05,3,0,2024-05-05,2-4 weeks
+3630,UNCLASSIFIED,Unclassified,Unknown,ARMUP 19.240km - 19.5070km,22-Apr-22 Track Geometry,Track geometry,2024-06-16,2024-06-30,3,0,2024-06-30,2-4 weeks
+3670,UNCLASSIFIED,Unclassified,Unknown,Beyond Service 21.012km - 26.000km N/A,01-Sep-11 Pedestrian Crossing Issue Indefinite Beyond Service 40.7470km,Level crossing / pedestrian crossing,2024-07-07,2024-07-21,3,0,2024-07-21,2-4 weeks
+3718,UNCLASSIFIED,Unclassified,Unknown,Curve Wear & RCF FTMUP 14.880km - 15.278km,09-Jan-24 TBD Damage,Other / review required,2024-07-21,2024-08-04,3,0,2024-08-04,2-4 weeks
+3864,MTM,Midland Line,Unknown,MTMDN 0.660km - 1.300km,2-Sep-24 Track Geometry,Track geometry,2024-09-08,2024-09-22,3,0,2024-09-22,2-4 weeks
+4272,MTM,Midland Line,Unknown,MTMDN 13.591km - 13.695km,3-Sep-24 Turnout 19/03/2025,Turnout / points,2025-02-09,2025-02-23,3,0,2025-02-23,2-4 weeks
+4343,MTM,Midland Line,Unknown,MTMDN 13.591km - 13.695km,3-Sep-24 Turnout 19/03/2025,Turnout / points,2025-03-02,2025-03-16,3,0,2025-03-16,2-4 weeks
+4765,ATM,Armadale Line,Unknown,ATMUP 1.844km - 1.920km,4-Jun-2025 Track Geometry,Track geometry,2025-06-29,2025-07-13,3,0,2025-07-13,2-4 weeks
+4995,CTM,City / Central Area,Unknown,CTMDN 1.872km - 1.872km,28-Jul-25 Turnout 07/10/2025,Turnout / points,2025-09-07,2025-09-21,3,0,2025-09-21,2-4 weeks
+5283,FTM,Fremantle Line,Unknown,FTMUP 6.950km - 7.170km,13-Jun-24 Rail Internal Defect,Rail internal defect,2025-11-30,2025-12-14,3,0,2025-12-14,2-4 weeks
+5336,JTM,Joondalup Line,Unknown,JTMDN 25.630km- 25.960km,21-Nov-25 Ultrasonic Defect,Rail internal defect,2025-12-14,2025-12-28,3,0,2025-12-28,2-4 weeks
+5371,FTM,Fremantle Line,Unknown,FTMUP 4.748km - 4.920km,10-Dec-25 Platform Gap,Platform / station,2025-12-21,2026-01-04,3,0,2026-01-04,2-4 weeks
+5518,JTM,Joondalup Line,Unknown,JTMUP 27.000 - 27.390km,19-Dec-25 Ballast/Formation,Ballast / formation,2026-02-01,2026-02-15,3,0,2026-02-15,2-4 weeks
+5798,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 1.070 km,27-Jun-25 Structural Integrity TBD,Structures / bridge,2026-05-03,2026-05-17,3,0,2026-05-17,2-4 weeks
+24,JTM,Joondalup Line,Unknown,Leederville- Stirling,December 25th 2018,Other / review required,2019-01-18,2019-01-25,2,0,2019-01-25,2-4 weeks
+139,FTM,Fremantle Line,Unknown,Fremantle - Robbs Jetty,Pedestrian Crossing Review,Level crossing / pedestrian crossing,2019-11-02,2019-11-09,2,0,2019-11-09,2-4 weeks
+140,TTM,Thornlie Line,Unknown,Thornlie Line,Rail defects,Track condition,2019-11-02,2019-11-09,2,0,2019-11-09,2-4 weeks
+141,JTM,Joondalup Line,Unknown,Whitfords,Rail defects,Track condition,2019-11-02,2019-11-09,2,0,2019-11-09,2-4 weeks
+142,ATM,Armadale Line,Unknown,Gosnells to Maddington,Rail defects,Track condition,2019-11-02,2019-11-09,2,0,2019-11-09,2-4 weeks
+143,ATM,Armadale Line,Unknown,Kelmscott to Challis,Rail defects,Track condition,2019-11-02,2019-11-09,2,0,2019-11-09,2-4 weeks
+167,FTM,Fremantle Line,Unknown,Showgrounds,Heat buckle / Rail Stress,Track condition,2019-12-07,2019-12-14,2,0,2019-12-14,2-4 weeks
+216,RTM,Mandurah Line,Unknown,Kwinana to Wellard,Signalling Issues,Signals / train control,2020-02-15,2020-02-22,2,0,2020-02-22,2-4 weeks
+318,MTM,Midland Line,Unknown,Bassendean,Turnouts,Turnout / points,2020-04-25,2020-05-02,2,0,2020-05-02,2-4 weeks
+319,MTM,Midland Line,Unknown,Bassendean,Turnouts,Turnout / points,2020-04-25,2020-05-02,2,0,2020-05-02,2-4 weeks
+459,FTMDN,Fremantle Line,Down,18.800 to 18.920km Down North Fremantle 18.800 to 18.920km Down North Fremantle,Turnout defects,Turnout / points,2020-08-08,2020-11-28,2,0,2020-11-28,2-4 weeks
+462,UNCLASSIFIED,Unclassified,Unknown,Section,epte mber 2011,Other / review required,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+463,MTM,Midland Line,Unknown,Bassendean,7 M arch 2020,Other / review required,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+464,MTM,Midland Line,Unknown,Bassendean,05 A pril 2020 Tur nout design issues,Other / review required,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+467,RTM,Mandurah Line,Unknown,Rockingham,9 Ju ne 2020 Rail Defects 2,Track condition,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+468,RTM,Mandurah Line,Unknown,Cockburn,12 J une 2020 2,Other / review required,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+469,UNCLASSIFIED,Unclassified,Unknown,South Perth 2.690 km to 2.866 km,15 J une 2020 Gau ge Corner Cracking,Other / review required,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+470,ATMDN,Armadale Line,Down,Beckenham Down M ain Armadal e Line,25 J une 2020 Points Defect 2,Turnout / points,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+471,ATM,Armadale Line,Unknown,Queens Park,8 J uly 2020 Track Defects,Track condition,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+472,UNCLASSIFIED,Unclassified,Unknown,Mount Lawley,27 J uly 2020 E xcessive Noise,Noise mitigation,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+473,JTM,Joondalup Line,Unknown,Whitfords,1 Au gust 2020,Other / review required,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+474,JTMUP,Joondalup Line,Up,Whitfords Up Main,1 Au gust 2020 turn out design issues,Other / review required,2020-08-15,2020-08-22,2,0,2020-08-22,2-4 weeks
+488,UNCLASSIFIED,Unclassified,Unknown,Section,tember 2011,Other / review required,2020-08-29,2020-09-05,2,0,2020-09-05,2-4 weeks
+489,MTM,Midland Line,Unknown,Bassendean,March 2020,Other / review required,2020-08-29,2020-09-05,2,0,2020-09-05,2-4 weeks
+490,MTM,Midland Line,Unknown,Bassendean,April 2020 Turnout de sign iss ues,Turnout / points,2020-08-29,2020-09-05,2,0,2020-09-05,2-4 weeks
+493,RTM,Mandurah Line,Unknown,Rockingham,June 2020 Rail D efects 2,Track condition,2020-08-29,2020-09-05,2,0,2020-09-05,2-4 weeks
+494,UNCLASSIFIED,Unclassified,Unknown,South Perth 2.690 km to 2.866 km,June 2020 Gauge Cor ner Cra cking,Other / review required,2020-08-29,2020-09-05,2,0,2020-09-05,2-4 weeks
+495,ATMDN,Armadale Line,Down,Beckenham Down M ain Armadal e Line,June 2020 Points Defect 2,Turnout / points,2020-08-29,2020-09-05,2,0,2020-09-05,2-4 weeks
+496,ATM,Armadale Line,Unknown,Queens Park,July 2020 Track Defects,Track condition,2020-08-29,2020-09-05,2,0,2020-09-05,2-4 weeks
+497,UNCLASSIFIED,Unclassified,Unknown,Mount Lawley,July 2020 Excessi ve Nois e,Other / review required,2020-08-29,2020-09-05,2,0,2020-09-05,2-4 weeks
+498,JTM,Joondalup Line,Unknown,Whitfords Main,August 2020 turnout de sign iss ues,Turnout / points,2020-08-29,2020-09-05,2,0,2020-09-05,2-4 weeks
+499,JTM,Joondalup Line,Unknown,Whitfords,August 2020,Other / review required,2020-08-29,2020-09-05,2,0,2020-09-05,2-4 weeks
+522,MTM,Midland Line,Unknown,11.230km to 11.330km Guildford 11.230km to 11.330km Guildford,Track Defect,Track condition,2020-09-12,2020-09-19,2,0,2020-09-19,2-4 weeks
+594,JTM,Joondalup Line,Unknown,Joondalup,Turnout design issues,Turnout / points,2020-11-21,2020-11-21,2,0,2020-11-21,2-4 weeks
+606,FTM,Fremantle Line,Unknown,Railway between (km) Speed Imposed Restriction Cancelled Fremantle - Section,September Pedestrian Indefinite Robbs Jetty 2011 Crossing,Level crossing / pedestrian crossing,2020-12-05,2020-12-12,2,0,2020-12-12,2-4 weeks
+607,UNCLASSIFIED,Unclassified,Unknown,Review Mundijong to 40.874km to,Signalling,Signals / train control,2020-12-05,2020-12-12,2,0,2020-12-12,2-4 weeks
+608,MTM,Midland Line,Unknown,Direction Bassendean 7.900km to 8.150km,Turnout defects,Turnout / points,2020-12-05,2020-12-12,2,0,2020-12-12,2-4 weeks
+610,JTMUP,Joondalup Line,Up,Up Main issues Joondalup 25.848km to,Turnout design,Turnout / points,2020-12-05,2020-12-12,2,0,2020-12-12,2-4 weeks
+611,JTMDN,Joondalup Line,Down,25.960km Down Main issues Joondalup 25.960km to 25.960km Down Main issues Joondalup 25.960km to,Turnout design,Turnout / points,2020-12-05,2020-12-12,2,0,2020-12-12,2-4 weeks
+612,ATMUP,Armadale Line,Up,25.848km Up Main issues Beckenham 12.725km to 25.848km Up Main issues Beckenham 12.725km to,Points Defect February 2021,Turnout / points,2020-12-05,2020-12-12,2,0,2020-12-12,2-4 weeks
+613,TTM,Thornlie Line,Unknown,0.660km Thornlie Line North 18.800 to 18.920km 0.660km Thornlie Line North 18.800 to 18.920km,Turnout defects,Turnout / points,2020-12-05,2020-12-12,2,0,2020-12-12,2-4 weeks
+614,FTMDN,Fremantle Line,Down,Fremantle Down Main Mount 0.900 to 1.300km,Excessive TBA Lawley Down Main Noise,Noise mitigation,2020-12-05,2020-12-12,2,0,2020-12-12,2-4 weeks
+616,JTM,Joondalup Line,Unknown,design issues Whitfords 20.150km to,Turnout defects,Turnout / points,2020-12-05,2020-12-12,2,0,2020-12-12,2-4 weeks
+654,ATMDN,Armadale Line,Down,Down Main Armadale 24.030km to 24.930km,Project Work TBC Up Main,Works / project,2020-12-26,2021-01-16,2,0,2021-01-16,2-4 weeks
+655,ATMUP,Armadale Line,Up,Up Main Armadale 24.030km to 24.930km,Project Work TBC Down Main,Works / project,2020-12-26,2021-01-16,2,0,2021-01-16,2-4 weeks
+682,ATM,Armadale Line,Unknown,issues Armadale 19.900km to 20.100km,Track Defect,Track condition,2021-01-23,2021-01-30,2,0,2021-01-30,2-4 weeks
+686,JTMUP,Joondalup Line,Up,Up Main Leederville 2.300km to 2.350km,Track Geometry,Track geometry,2021-01-23,2021-01-30,2,0,2021-01-30,2-4 weeks
+985,ATMBI,Armadale Line,Bidirectional,Rd Armadale Bi-di Line Works Sherwood 26.700km to 26.800km,Rail Internal,Rail internal defect,2021-07-10,2021-07-17,2,0,2021-07-17,2-4 weeks
+986,ATMDN,Armadale Line,Down,Armadale Down Main Defect Cockburn 21.270km to 21.170km,Rail Internal,Rail internal defect,2021-07-10,2021-07-17,2,0,2021-07-17,2-4 weeks
+1011,JTMDN,Joondalup Line,Down,Down Main design issues Whitfords 20.150km to 19.150km,Turnout defects &,Turnout / points,2021-07-24,2021-08-14,2,0,2021-08-14,2-4 weeks
+1041,MTMDN,Midland Line,Down,Midland Line Down Main Armadale 29.373km to 41.430km,Rail Internal Defects,Rail internal defect,2021-07-31,2021-08-07,2,0,2021-08-07,2-4 weeks
+1044,ATMDN,Armadale Line,Down,Mandurah Down Main Beckenham 12.980km to 13.080km,Rail Internal Defect,Rail internal defect,2021-07-31,2021-08-07,2,0,2021-08-07,2-4 weeks
+1119,ATMBI,Armadale Line,Bidirectional,Rd Armadale Bi-di Line Thornlie 2.350km to 2.500km,Rail Surface Defect,Rail surface defect,2021-08-28,2021-09-04,2,0,2021-09-04,2-4 weeks
+1121,RTMDN,Mandurah Line,Down,Mandurah Down Main Welshpool 8.400km to 8.200km,Rail Internal Defect,Rail internal defect,2021-08-28,2021-09-04,2,0,2021-09-04,2-4 weeks
+1123,ATMUP,Armadale Line,Up,Armadale Line Up Main Geometry Defects Armadale 29.350km to 29.710km,Contaminated,Other / review required,2021-08-28,2021-09-04,2,0,2021-09-04,2-4 weeks
+1125,MTMDN,Midland Line,Down,Midland Down Main Bayswater 5.114km to 5.214km,FAL Project Points,Turnout / points,2021-08-28,2021-09-04,2,0,2021-09-04,2-4 weeks
+1362,RTM,Mandurah Line,Unknown,Rd Directional Works Rockingham RTMUP 43.067km to 42.065km,Turnout Defects,Turnout / points,2021-12-04,2021-12-25,2,0,2021-12-25,2-4 weeks
+1605,TTMDN,Thornlie Line,Down,Down Main Thornlie TTMBI 2.276 km to 2.565 km,Disturbed TBC Formation,Ballast / formation,2022-04-30,2022-05-14,2,0,2022-05-14,2-4 weeks
+2476,MTM,Midland Line,Unknown,MTMDN 3.5000km TO 5.1000km,4-May-23 Track Geometry,Track geometry,2023-05-14,2023-05-21,2,0,2023-05-21,2-4 weeks
+2949,FTM,Fremantle Line,Unknown,FTMUP 1.4500km to 1.9300km,19-Oct-23 Points Fault,Turnout / points,2023-10-22,2023-10-29,2,0,2023-10-29,2-4 weeks
+2967,CP,City / Central Area,Unknown,CPDM 0.8480km to 1.3320km,25-Jun-23 Track Geometry,Track geometry,2023-10-29,2023-11-05,2,0,2023-11-05,2-4 weeks
+2994,FTM,Fremantle Line,Unknown,26.000km FTMUP 9.5800KM - 9.5800km 26.000km FTMUP 9.5800KM - 9.5800km,15-Feb-21 Pedestrian Crossing Issue,Level crossing / pedestrian crossing,2023-11-12,2023-11-19,2,0,2023-11-19,2-4 weeks
+3012,ATM,Armadale Line,Unknown,40.8740km ATMUP 16.8200km - 17.0000km 40.8740km ATMUP 16.8200km - 17.0000km,29-Oct-21 Track Geometry,Track geometry,2023-11-12,2023-11-19,2,0,2023-11-19,2-4 weeks
+3195,FTM,Fremantle Line,Unknown,FTMUP 1.4500km - 1.9300km,19-Oct-23 Points Fault 01/0282024,Turnout / points,2024-01-14,2024-01-21,2,0,2024-01-21,2-4 weeks
+3229,MTM,Midland Line,Unknown,MTMDN 8.1000km - 8.2000km,16-Jan-24 Turnout,Turnout / points,2024-01-21,2024-01-28,2,0,2024-01-28,2-4 weeks
+3238,UNCLASSIFIED,Unclassified,Unknown,TBCTBD by FTMUP 0.1600km - 0.6700km,27-Oct-22 Structural Integrity Civil,Structures / bridge,2024-01-28,2024-02-04,2,0,2024-02-04,2-4 weeks
+3239,UNCLASSIFIED,Unclassified,Unknown,Civil FTMUP 1.4500km - 1.9300km,19-Oct-23 Points Fault,Turnout / points,2024-01-28,2024-02-04,2,0,2024-02-04,2-4 weeks
+3282,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.6700km,27-Oct-22 Structural Integrity TBC by Civil,Structures / bridge,2024-02-11,2024-02-18,2,0,2024-02-18,2-4 weeks
+3283,FTM,Fremantle Line,Unknown,FTMUP 1.4500km - 1.9300km,19-Oct-23 Points Fault,Turnout / points,2024-02-11,2024-02-18,2,0,2024-02-18,2-4 weeks
+3300,UNCLASSIFIED,Unclassified,Unknown,Ultrasonic Defect RRP Scope ATMUP 9.8800km - 10.1900km,17-Oct-23,Other / review required,2024-02-11,2024-02-18,2,0,2024-02-18,2-4 weeks
+3350,FTM,Fremantle Line,Unknown,FTMDM 18.4250km - 18.5970km,16-Jan-24 Turnout 18/04/2024,Turnout / points,2024-03-03,2024-03-10,2,0,2024-03-10,2-4 weeks
+3371,FTM,Fremantle Line,Unknown,FTMUP 19.4800km -20.0200km,1-Nov-23 Track Geometry,Track geometry,2024-03-10,2024-03-17,2,0,2024-03-17,2-4 weeks
+3419,FTM,Fremantle Line,Unknown,FTMUP 6.9500km - 7.1700km,20-Mar-24 Rail Internal Defect TBD by Civil,Rail internal defect,2024-03-24,2024-03-31,2,0,2024-03-31,2-4 weeks
+3625,MTM,Midland Line,Unknown,MTMUP 8.1000km - 8.2000km N/A,06-Apr-24 Turnout,Turnout / points,2024-06-16,2024-06-23,2,0,2024-06-23,2-4 weeks
+3646,JTM,Joondalup Line,Unknown,JTMDM 25.840km - 25.9600km,21-Apr-20 Turnout,Turnout / points,2024-06-23,2024-06-30,2,0,2024-06-30,2-4 weeks
+3691,RTM,Mandurah Line,Unknown,RTMDN 2.0000km - 2.1000km,02-Jul-24 Miscellaneous,Other / review required,2024-07-07,2024-07-14,2,0,2024-07-14,2-4 weeks
+3692,RTM,Mandurah Line,Unknown,RTMDN 9.7800km - 9.8800km,02-Jul-24 Miscellaneous 3,Other / review required,2024-07-07,2024-07-14,2,0,2024-07-14,2-4 weeks
+3780,FTM,Fremantle Line,Unknown,FTMDN 1.190km - 1.090km,28-Jun-24 Miscellaneous,Other / review required,2024-08-11,2024-08-18,2,0,2024-08-18,2-4 weeks
+3786,MTM,Midland Line,Unknown,MTMDN 11.750km - 11.850km,5-Aug-24 Rail Surface Defect,Rail surface defect,2024-08-11,2024-08-18,2,0,2024-08-18,2-4 weeks
+3815,FTM,Fremantle Line,Unknown,FTMDN 6.950km - 7.170km,21-Mar-2024 Structural Integrity,Structures / bridge,2024-08-25,2024-09-01,2,0,2024-09-01,2-4 weeks
+3816,FTM,Fremantle Line,Unknown,FTMUP 0.160km - 0.670km,27-Oct-2022 Structural Integrity,Structures / bridge,2024-08-25,2024-09-01,2,0,2024-09-01,2-4 weeks
+4286,RTM,Mandurah Line,Unknown,RTMDN 21.105km - 21.240km,3-Dec-24 Rail Surface Defect,Rail surface defect,2025-02-09,2025-02-16,2,0,2025-02-16,2-4 weeks
+4334,RTM,Mandurah Line,Unknown,RTMDN 2.000km - 2.110km,5-Feb-25 Rail Internal Defect,Rail internal defect,2025-02-23,2025-03-02,2,0,2025-03-02,2-4 weeks
+4370,FTM,Fremantle Line,Unknown,FTMUP 18.593km - 18.500km,7-Mar-25 Track Defect,Track condition,2025-03-09,2025-03-16,2,0,2025-03-16,2-4 weeks
+4417,FTM,Fremantle Line,Unknown,FTMUP 1.730km - 1.916km,13-Mar-25 Rail Internal Defect,Rail internal defect,2025-03-23,2025-03-30,2,0,2025-03-30,2-4 weeks
+4418,FTM,Fremantle Line,Unknown,FTMDN 14.935km - 15.035km,14-Mar-25 Rail Internal Defect,Rail internal defect,2025-03-23,2025-03-30,2,0,2025-03-30,2-4 weeks
+4692,FTM,Fremantle Line,Unknown,FTMUP 19.490km - 19-750km,6-Jun-25 Track Geometry,Track geometry,2025-06-08,2025-06-15,2,0,2025-06-15,2-4 weeks
+4769,MTM,Midland Line,Unknown,40.874km MTMDN 7.900km - 8.150km 40.874km MTMDN 7.900km - 8.150km,27-Mar-20 Permanent TSR,Other / review required,2025-07-06,2025-07-13,2,0,2025-07-13,2-4 weeks
+4787,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 1.0810km,27-Jun-25 Rail Surface Defect,Rail surface defect,2025-07-06,2025-07-13,2,0,2025-07-13,2-4 weeks
+4868,MTM,Midland Line,Unknown,MTMUP 3.147km - 3.454km,29-Jul-25 New Rail,New rail / weld,2025-08-03,2025-08-10,2,0,2025-08-10,2-4 weeks
+5065,CTM,City / Central Area,Unknown,CTMDN 1.872km - 1.872km,28-Jul-25 Turnout 10/10/2025,Turnout / points,2025-09-28,2025-10-05,2,0,2025-10-05,2-4 weeks
+5129,MTM,Midland Line,Unknown,MTMDN 2.2840km - 2.933km,04-Oct-25 Ballast/ Formation,Ballast / formation,2025-10-19,2025-10-26,2,0,2025-10-26,2-4 weeks
+5527,CTM,City / Central Area,Unknown,CTMUP 0.948km - 1.069km,03-Feb-26 Ultrasonic Defect,Rail internal defect,2026-02-08,2026-02-15,2,0,2026-02-15,2-4 weeks
+5740,JTM,Joondalup Line,Unknown,JTMUP 19.220km - 19.328km,27- Feb- 26 Turnout,Turnout / points,2026-04-12,2026-04-19,2,0,2026-04-19,2-4 weeks
+5900,CTM,City / Central Area,Unknown,40.874km CTMUP 0.948km - 1.069km 40.874km CTMUP 0.948km - 1.069km,03-Feb-26 Ultrasonic Defect,Rail internal defect,2026-06-21,2026-06-28,2,1,,2-4 weeks
+5904,MTM,Midland Line,Unknown,MTMUP 0.660km - 0.950km,3-Mar-25 Rail Surface Defect,Rail surface defect,2026-06-21,2026-06-28,2,1,,2-4 weeks
+2,UNCLASSIFIED,Unclassified,Unknown,Jetty Review 2011 East Perth 0.250km to,Rail Defects,Track condition,2018-09-01,2018-09-01,1,0,2018-09-01,1 week
+3,UNCLASSIFIED,Unclassified,Down,Down Mains) East Perth 4.883km to,Rail Defect at 856A,Track condition,2018-09-01,2018-09-01,1,0,2018-09-01,1 week
+27,FTM,Fremantle Line,Unknown,Fremantle - Robbs Section,estrian Crossing,Level crossing / pedestrian crossing,2019-03-23,2019-03-23,1,0,2019-03-23,1 week
+28,JTM,Joondalup Line,Unknown,2.4 Leederville- Stirling 65 to 2.780 2.4 Leederville- Stirling 65 to 2.780,per Condition on A,Other / review required,2019-03-23,2019-03-23,1,0,2019-03-23,1 week
+29,FTM,Fremantle Line,Unknown,8.00 Fremantle Line 0 to 8.539 U p 8.00 Fremantle Line 0 to 8.539 U p,Re-Rail March 18,New rail / weld,2019-03-23,2019-03-23,1,0,2019-03-23,1 week
+30,FTM,Fremantle Line,Unknown,8.6 Fremantle Line 51 to 8.851 8.6 Fremantle Line 51 to 8.851,Re-Rail March 18,New rail / weld,2019-03-23,2019-03-23,1,0,2019-03-23,1 week
+68,FTM,Fremantle Line,Unknown,Fremantle - Robbs Sectio n,Pedestrian Crossing,Level crossing / pedestrian crossing,2019-07-20,2019-07-20,1,0,2019-07-20,1 week
+69,JTM,Joondalup Line,Unknown,Leederville 2.465 to 2 .780,Sleeper Condition on 27th July,Track condition,2019-07-20,2019-07-20,1,0,2019-07-20,1 week
+70,JTM,Joondalup Line,Unknown,Joondalup - 2 2.942 to 2 3.184,19th Rail Defect July,Track condition,2019-07-20,2019-07-20,1,0,2019-07-20,1 week
+135,FTM,Fremantle Line,Unknown,Fremantle - Pedestrian TBA Section,Robbs Jetty Crossing Review,Level crossing / pedestrian crossing,2019-10-26,2019-10-26,1,0,2019-10-26,1 week
+136,TTM,Thornlie Line,Unknown,(Thornlie Line) to Thornlie Line,Rail defects 2019 12.760km Up Main,Track condition,2019-10-26,2019-10-26,1,0,2019-10-26,1 week
+137,ATMUP,Armadale Line,Up,Gosnells to 19.300 to 19.000km Up 6th November,Rail defects Maddington Main 2019,Track condition,2019-10-26,2019-10-26,1,0,2019-10-26,1 week
+138,ATMUP,Armadale Line,Up,Kelmscott to 25.975 to 26.140km Up 27th August,Rail defects Challis Main 2019,Track condition,2019-10-26,2019-10-26,1,0,2019-10-26,1 week
+179,UNCLASSIFIED,Unclassified,Unknown,Perth,Track defects,Track condition,2019-12-21,2019-12-21,1,0,2019-12-21,1 week
+228,JTM,Joondalup Line,Unknown,Whitfords,Rail Defects,Track condition,2020-02-29,2020-02-29,1,0,2020-02-29,1 week
+229,JTM,Joondalup Line,Unknown,Whitfords,Rail defects,Track condition,2020-02-29,2020-02-29,1,0,2020-02-29,1 week
+269,RTM,Mandurah Line,Unknown,Warnbro to Rockingham,Rail wear/ flanging,Track condition,2020-03-28,2020-03-28,1,0,2020-03-28,1 week
+309,FTM,Fremantle Line,Unknown,Fremantle Bridge,Track Stress,Track condition,2020-04-18,2020-04-18,1,0,2020-04-18,1 week
+329,JTM,Joondalup Line,Unknown,Joondalup,Track Defects,Track condition,2020-05-02,2020-05-02,1,0,2020-05-02,1 week
+330,JTM,Joondalup Line,Unknown,Joondalup,Track Defects,Track condition,2020-05-02,2020-05-02,1,0,2020-05-02,1 week
+337,MTM,Midland Line,Unknown,Bassendean,Turnout design issues,Turnout / points,2020-05-09,2020-05-09,1,0,2020-05-09,1 week
+447,FTM,Fremantle Line,Unknown,Fremantle - Section,September 2011 Crossing TBA Robbs Jetty,Level crossing / pedestrian crossing,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+448,RTMDN,Mandurah Line,Down,Kwinana to 34.900km to 35.600km Down,Rail Defects,Track condition,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+449,JTMDN,Joondalup Line,Down,Turnout defects Mid-August Whitfords 19.150 to 20.150km Down Main,& turnout design 2020 (Raise to,Turnout / points,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+450,UNCLASSIFIED,Unclassified,Unknown,issues,) Turnout defects Mid-August,Turnout / points,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+451,JTMUP,Joondalup Line,Up,Turnout defects Mid-August Whitfords 20.150km to 19.150km Up Main,& turnout design 2020 (Raise to,Turnout / points,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+452,UNCLASSIFIED,Unclassified,Unknown,issues,) Turnout defects,Turnout / points,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+453,MTMDN,Midland Line,Down,Turnout defects Bassendean 7.900km to 8.150km Down Main,& turnout design,Turnout / points,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+454,RTMUP,Mandurah Line,Up,issues Rockingham 43.060km to 42.650km Up Main,Rail Defects,Track condition,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+455,RTMDN,Mandurah Line,Down,19.550km to 21.210km Down Cockburn 19.550km to 21.210km Down Cockburn,multiple rail,Track condition,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+456,UNCLASSIFIED,Unclassified,Unknown,Gauge Corner 11 September South Perth 2.690km to 2.866km,Cracking 2020,Other / review required,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+458,RTMDN,Mandurah Line,Down,36.070km to 36.405km Down Wellard 36.070km to 36.405km Down Wellard,GCC 31 July 2020 Main,Other / review required,2020-08-08,2020-08-08,1,0,2020-08-08,1 week
+517,UNCLASSIFIED,Unclassified,Unknown,11 September South Perth 2.690km to 2.866km,Gauge Corner Cracking 2020,Other / review required,2020-09-12,2020-09-12,1,0,2020-09-12,1 week
+591,UNCLASSIFIED,Unclassified,Unknown,Section,ptember 2011,Other / review required,2020-11-21,2020-11-21,1,0,2020-11-21,1 week
+592,UNCLASSIFIED,Unclassified,Up,Mundijong to 40.747km Up,January 2020 Signa lling Iss ues,Other / review required,2020-11-21,2020-11-21,1,0,2020-11-21,1 week
+593,MTM,Midland Line,Unknown,Bassendean 8 .150km Do wn,March 2020 Turno ut defe cts &,Other / review required,2020-11-21,2020-11-21,1,0,2020-11-21,1 week
+596,ATM,Armadale Line,Unknown,Beckenham M ain Armad ale,Poi nts Def ect 2020,Other / review required,2020-11-21,2020-11-21,1,0,2020-11-21,1 week
+597,FTM,Fremantle Line,Unknown,orth Fremantle 18 .920km D own,Turn out def ects,Other / review required,2020-11-21,2020-11-21,1,0,2020-11-21,1 week
+598,UNCLASSIFIED,Unclassified,Unknown,Mount Lawley,Exce ssive N oise,Other / review required,2020-11-21,2020-11-21,1,0,2020-11-21,1 week
+599,JTM,Joondalup Line,Unknown,Whitfords 20 .150km D own,August 2020 turnout design issues,Turnout / points,2020-11-21,2020-11-21,1,0,2020-11-21,1 week
+600,JTM,Joondalup Line,Unknown,Whitfords,August 2020,Other / review required,2020-11-21,2020-11-21,1,0,2020-11-21,1 week
+601,FTM,Fremantle Line,Unknown,Fremantle - September Pedestrian Crossing Section,Indefinite Robbs Jetty 2011 Review,Other / review required,2020-11-28,2020-11-28,1,0,2020-11-28,1 week
+602,UNCLASSIFIED,Unclassified,Up,Mundijong to 40.874km to 40.747km Up 13 January,Signalling Issues,Signals / train control,2020-11-28,2020-11-28,1,0,2020-11-28,1 week
+854,UNCLASSIFIED,Unclassified,Up,Up Main design issues Claisebrook 0.850km to 0.950km,Track Geometry,Track geometry,2021-05-08,2021-05-08,1,0,2021-05-08,1 week
+855,FTMUP,Fremantle Line,Up,Fremantle Up Main Claisebrook 0.875km to 1.650km,Track Geometry,Track geometry,2021-05-08,2021-05-08,1,0,2021-05-08,1 week
+856,FTMDN,Fremantle Line,Down,Armadale Down Main Karrakatta 9.580km Fremantle Up,Track Project,Track condition,2021-05-08,2021-05-08,1,0,2021-05-08,1 week
+859,FTMDN,Fremantle Line,Down,Fremantle Down Main Works Denny Ave 24.560km to 25.140km,Track Project,Track condition,2021-05-08,2021-05-08,1,0,2021-05-08,1 week
+860,ATMUP,Armadale Line,Up,Armadale Up Main Works Denny Ave 24.560km to 25.540km,Track Project,Track condition,2021-05-08,2021-05-08,1,0,2021-05-08,1 week
+1006,MTMDN,Midland Line,Down,Down Main design issues Bassendean 8.200km to 8.100km,Turnout design issues,Turnout / points,2021-07-24,2021-07-24,1,0,2021-07-24,1 week
+1021,ATM,Armadale Line,Unknown,Main Armadale 29.597km to 41.430km,Rail Internal Defects,Rail internal defect,2021-07-24,2021-07-24,1,0,2021-07-24,1 week
+1079,ATMBI,Armadale Line,Bidirectional,Rd Armadale Bi-di Line Works Cockburn 21.270km to 21.170km,Rail Internal,Rail internal defect,2021-08-14,2021-08-14,1,0,2021-08-14,1 week
+1081,RTMBI,Mandurah Line,Bidirectional,Thornlie Bi-directional Defect Cockburn 21.142km to 21.242km,Rail Internal,Rail internal defect,2021-08-14,2021-08-14,1,0,2021-08-14,1 week
+1082,RTMUP,Mandurah Line,Up,Mandurah Up Main Defect Welshpool 8.400km to 8.200km,Rail Internal,Rail internal defect,2021-08-14,2021-08-14,1,0,2021-08-14,1 week
+1084,MTMUP,Midland Line,Up,Armadale Line Up Main Geometry Defects Guildford 10.250km to 10.350km,Geometry Defects,Track geometry,2021-08-14,2021-08-14,1,0,2021-08-14,1 week
+1103,MTMDN,Midland Line,Down,Midland Line Down Main Armadale 29.350km to 29.710km,Contaminated Railhead,Track condition,2021-08-21,2021-08-21,1,0,2021-08-21,1 week
+1106,RTMDN,Mandurah Line,Down,Mandurah Down Main Rockingham 43.410km to 43.910km,Rail Internal Defect,Rail internal defect,2021-08-21,2021-08-21,1,0,2021-08-21,1 week
+1155,FTMUP,Fremantle Line,Up,Fremantle Up Main Karrakatta 9.580km Fremantle Up,Due to Loch St Ped Indefinite Main Xing issues,Other / review required,2021-09-11,2021-09-11,1,0,2021-09-11,1 week
+1160,MTMDN,Midland Line,Down,Midland Down Main Rockingham 43.067km to 42.065km,Turnout Defects,Turnout / points,2021-09-11,2021-09-11,1,0,2021-09-11,1 week
+1229,JTMUP,Joondalup Line,Up,Whitfords 20.150km to 19.150km Up Main,Turnout defects &,Turnout / points,2021-10-09,2021-10-09,1,0,2021-10-09,1 week
+1231,UNCLASSIFIED,Unclassified,Down,Lawley Mount 0.800 to 1.300km Down Main,Noise Mitigation,Noise mitigation,2021-10-09,2021-10-09,1,0,2021-10-09,1 week
+1232,FTM,Fremantle Line,Unknown,Lawley Claisebrook 0.160km to 0.950km Fremantle,Track Geometry,Track geometry,2021-10-09,2021-10-09,1,0,2021-10-09,1 week
+1272,UNCLASSIFIED,Unclassified,Down,Down Main issues Karrakatta FTMUP 9.580km 7,Due to Loch St Indefinite Up Main Ped Xing issues,Other / review required,2021-11-06,2021-11-06,1,0,2021-11-06,1 week
+1279,ATMBI,Armadale Line,Bidirectional,Rd Bi-Directional Works Armadale ATMUP 29.350km to 29.411km,Contaminated,Other / review required,2021-11-06,2021-11-06,1,0,2021-11-06,1 week
+1280,ATM,Armadale Line,Unknown,Railhead Armadale - ATMBI 29.411km to 29.710km,Contaminated,Other / review required,2021-11-06,2021-11-06,1,0,2021-11-06,1 week
+1282,MTMBI,Midland Line,Bidirectional,Mundijong Bi-Directional Guildford MTMDN 10.250km to 10.350km,Geometry,Track geometry,2021-11-06,2021-11-06,1,0,2021-11-06,1 week
+1557,FTM,Fremantle Line,Unknown,Speed Fremantle - FTMBI 21.012km to 26.000km B-,Sept 2011 Pedestrian Crossing Indefinite Robbs Jetty Directional Review,Level crossing / pedestrian crossing,2022-04-09,2022-04-09,1,0,2022-04-09,1 week
+2302,FTM,Fremantle Line,Unknown,FTMUP 0.1600km to 0.6700km,27-Oct-22 Structural Integrity TBC Public Transport Authority  WEEKLY NOTICE No. 10 4,Structures / bridge,2023-03-11,2023-03-11,1,0,2023-03-11,1 week
+2930,CP,City / Central Area,Unknown,CPUM 1.5000km TO 1.7000km,13-Oct-23 Track Geometry,Track geometry,2023-10-15,2023-10-15,1,0,2023-10-15,1 week
+2991,FTM,Fremantle Line,Unknown,FTMUP 1.4500km to 1.9300km,19-Oct-23 Points Fault End of November,Turnout / points,2023-11-05,2023-11-05,1,0,2023-11-05,1 week
+3005,MTM,Midland Line,Unknown,MTMDN 9.5600km - 9.6800km,3-Oct-23 Track Geometry,Track geometry,2023-11-12,2023-11-12,1,0,2023-11-12,1 week
+3008,JTM,Joondalup Line,Unknown,JTMDN 19.1500km - 20.1500km 2 1 - 0 6 - 0 2 4,03-June-21 Turnout,Turnout / points,2023-11-12,2023-11-12,1,0,2023-11-12,1 week
+3014,ATM,Armadale Line,Unknown,ATMUP 9.8800km - 10.1900km,17-Oct-23 Ballast / Formation TBC Public Transport Authority  WEEKLY NOTICE No. 45 4,Ballast / formation,2023-11-12,2023-11-12,1,0,2023-11-12,1 week
+3036,ATM,Armadale Line,Unknown,ATMUP 9.8800km - 10.1900km,17-Oct-23 Ballast / Formation TBC Public Transport Authority  WEEKLY NOTICE No. 46 4,Ballast / formation,2023-11-19,2023-11-19,1,0,2023-11-19,1 week
+3058,ATM,Armadale Line,Unknown,ATMUP 9.8800km - 10.1900km,17-Oct-23 Ballast / Formation TBC Public Transport Authority  WEEKLY NOTICE No. 47 4,Ballast / formation,2023-11-26,2023-11-26,1,0,2023-11-26,1 week
+3080,ATM,Armadale Line,Unknown,ATMUP 19.2940km - 19.5070km,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 48 4,Other / review required,2023-12-03,2023-12-03,1,0,2023-12-03,1 week
+3102,ATM,Armadale Line,Unknown,ATMUP 19.2940km - 19.5070km,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 49 4,Other / review required,2023-12-10,2023-12-10,1,0,2023-12-10,1 week
+3124,ATM,Armadale Line,Unknown,ATMUP 19.2940km - 19.5070km,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 50 4,Other / review required,2023-12-17,2023-12-17,1,0,2023-12-17,1 week
+3146,ATM,Armadale Line,Unknown,ATMUP 19.2940km - 19.5070km,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 51 4,Other / review required,2023-12-24,2023-12-24,1,0,2023-12-24,1 week
+3168,ATM,Armadale Line,Unknown,ATMUP 19.2940km - 19.5070km,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 52 4,Other / review required,2023-12-31,2023-12-31,1,0,2023-12-31,1 week
+3179,MTM,Midland Line,Unknown,MTMDN 7.900km - 8.150km,27-Mar-20 Turnout,Turnout / points,2024-01-07,2024-01-07,1,0,2024-01-07,1 week
+3190,ATM,Armadale Line,Unknown,ATMUP 19.2940km - 19.5070km,22-Apr-22 Miscellaneous Indefinite Public Transport Authority  WEEKLY NOTICE No. 1 4,Other / review required,2024-01-07,2024-01-07,1,0,2024-01-07,1 week
+3200,FTM,Fremantle Line,Unknown,FTMDM 319 / Subiaco,11-Jan-24 Points Fault,Turnout / points,2024-01-14,2024-01-14,1,0,2024-01-14,1 week
+3201,FTM,Fremantle Line,Unknown,FTMDM 225 / McIver,11-Jan-24 Points Fault,Turnout / points,2024-01-14,2024-01-14,1,0,2024-01-14,1 week
+3202,FTM,Fremantle Line,Unknown,FTMDM 225 / Claisebrook,11-Jan-24 Points Fault,Turnout / points,2024-01-14,2024-01-14,1,0,2024-01-14,1 week
+3222,FTM,Fremantle Line,Unknown,FTMDM 0.8480km - 1.3690km,16-Jan-24 Points Fault,Turnout / points,2024-01-21,2024-01-21,1,0,2024-01-21,1 week
+3223,FTM,Fremantle Line,Unknown,FTMDM 18.4250km - 18.5970km,16-Jan-24 Turnout,Turnout / points,2024-01-21,2024-01-21,1,0,2024-01-21,1 week
+3234,ATM,Armadale Line,Unknown,ATMUP 19.2940km - 19.5070km,22-Apr-22 Miscellaneous 3,Other / review required,2024-01-21,2024-01-21,1,0,2024-01-21,1 week
+3277,JTM,Joondalup Line,Unknown,JTMUP 0.8350km - 0.9070km,26-Jan-24 Points Fault,Turnout / points,2024-02-04,2024-02-04,1,0,2024-02-04,1 week
+3326,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.6700km,27-Oct-22 Structural Integrity TBC by Civil,Structures / bridge,2024-02-25,2024-02-25,1,0,2024-02-25,1 week
+3328,UNCLASSIFIED,Unclassified,Unknown,TBC FTMUP 14.8800km - 15.2780km,09-Jan-24 Track Geometry,Track geometry,2024-02-25,2024-02-25,1,0,2024-02-25,1 week
+3330,FTM,Fremantle Line,Unknown,FTMDM 18.4250km - 18.5970km,16-Jan-24 Turnout 01/04/2024,Turnout / points,2024-02-25,2024-02-25,1,0,2024-02-25,1 week
+3340,MTM,Midland Line,Unknown,MTMDN 13.2300km - 13.4000km N/A,02-Feb-24 Rail Internal Defect,Rail internal defect,2024-02-25,2024-02-25,1,0,2024-02-25,1 week
+3341,MTM,Midland Line,Unknown,MTMUP 4.1740km - 4.4690km,19-Feb-24 New Turnout,Turnout / points,2024-02-25,2024-02-25,1,0,2024-02-25,1 week
+3395,FTM,Fremantle Line,Unknown,FTMDM 18.4250km - 18.5970km,16-Jan-24 Turnout 15/03/2024,Turnout / points,2024-03-17,2024-03-17,1,0,2024-03-17,1 week
+3399,FTM,Fremantle Line,Unknown,FTMUP 20.7650km - 20.8500km,14-Feb-24 Points Fault 0904/2024,Turnout / points,2024-03-17,2024-03-17,1,0,2024-03-17,1 week
+3462,UNCLASSIFIED,Unclassified,Unknown,TBA FTMUP 6.9500km - 7.1700km,20-Mar-24 Rail Internal Defect,Rail internal defect,2024-04-14,2024-04-14,1,0,2024-04-14,1 week
+3470,MTM,Midland Line,Unknown,MTMDN 4.1400km - 5.4300km,09-Apr-24 Turnout,Turnout / points,2024-04-14,2024-04-14,1,0,2024-04-14,1 week
+3597,UNCLASSIFIED,Unclassified,Unknown,Damage FTMUP 6.8000km - 7.7900KM,04-Jun-24 Rail Internal Defect,Rail internal defect,2024-06-09,2024-06-09,1,0,2024-06-09,1 week
+3598,FTM,Fremantle Line,Unknown,FTMDN 5.3000km - 5.2000,03-Jun-24 Track Defect Identified,Track condition,2024-06-09,2024-06-09,1,0,2024-06-09,1 week
+3599,FTM,Fremantle Line,Unknown,FTMDN 6.9500km - 7.1700km N/A,21-Mar-22 Structural Integrity,Structures / bridge,2024-06-09,2024-06-09,1,0,2024-06-09,1 week
+3606,MTM,Midland Line,Unknown,MTMUP 8.1000km - 8.2000km,06-May-24 Turnout,Turnout / points,2024-06-09,2024-06-09,1,0,2024-06-09,1 week
+3612,UNCLASSIFIED,Unclassified,Unknown,ATUP 16.8200km - 17.000km,29-Oct-2 Track Geometry,Track geometry,2024-06-09,2024-06-09,1,0,2024-06-09,1 week
+3631,UNCLASSIFIED,Unclassified,Unknown,ARMUP 16.8200km - 17.0000km N/A,29-Oct-21 Track Geometry,Track geometry,2024-06-16,2024-06-16,1,0,2024-06-16,1 week
+3678,FTM,Fremantle Line,Unknown,FTMUP 15.7200km - 16.1750km,03-Jul-24 Miscellaneous,Other / review required,2024-07-07,2024-07-07,1,0,2024-07-07,1 week
+3687,UNCLASSIFIED,Unclassified,Unknown,JTXBI 53.9470km - 54.1120km,31-May-24 Turnout,Turnout / points,2024-07-07,2024-07-07,1,0,2024-07-07,1 week
+3775,FTM,Fremantle Line,Unknown,FTMDN 8.7620km - 8.8620km,6-Aug-24 Rail Surface Defect,Rail surface defect,2024-08-11,2024-08-11,1,0,2024-08-11,1 week
+3776,FTM,Fremantle Line,Unknown,FTMDN 14.9350km - 15.0350km,7-Aug-24 Rail Surface Defect,Rail surface defect,2024-08-11,2024-08-11,1,0,2024-08-11,1 week
+3777,FTM,Fremantle Line,Unknown,FTMDN 6.950km - 7.170km,21-Mar-24 Structural Integrity,Structures / bridge,2024-08-11,2024-08-11,1,0,2024-08-11,1 week
+3787,MTM,Midland Line,Unknown,MTMUP 13.950km - 13.400km,7-Aug-24 Rail Surface Defect,Rail surface defect,2024-08-11,2024-08-11,1,0,2024-08-11,1 week
+3818,FTM,Fremantle Line,Unknown,FTMDN 1.190km - 1.090km,28-Jun-24 Rail Surface Defect,Rail surface defect,2024-08-25,2024-08-25,1,0,2024-08-25,1 week
+3826,JTM,Joondalup Line,Unknown,JTMDN 14.935km - 15.035km,7- Aug-2024 Rail Surface Defect,Rail surface defect,2024-08-25,2024-08-25,1,0,2024-08-25,1 week
+3846,MTM,Midland Line,Unknown,MTMDN 0.400km - 1.300km,27-Aug-24 Track Geometry,Track geometry,2024-09-01,2024-09-01,1,0,2024-09-01,1 week
+3854,CTM,City / Central Area,Unknown,CTMDN 1.190km - 1.090km,28-Jun-24 Rail Surface Defect,Rail surface defect,2024-09-01,2024-09-01,1,0,2024-09-01,1 week
+4238,RTM,Mandurah Line,Unknown,RTMDN 53.660km - 53.760km,11-Nov-24 Rail Surface Defect,Rail surface defect,2025-01-26,2025-01-26,1,0,2025-01-26,1 week
+4248,MTM,Midland Line,Unknown,MTMDN 13.591km - 13.695km,3-Sep-24 Turnout,Turnout / points,2025-02-02,2025-02-02,1,0,2025-02-02,1 week
+4262,RTM,Mandurah Line,Unknown,RTMUP 55.930km - 56.330km,11-Nov-24 Rail Surface Defect,Rail surface defect,2025-02-02,2025-02-02,1,0,2025-02-02,1 week
+4270,FTM,Fremantle Line,Unknown,FTMDN 7.870km - 8-950km,5-Feb-25 Rail Internal Defect,Rail internal defect,2025-02-09,2025-02-09,1,0,2025-02-09,1 week
+4294,FTM,Fremantle Line,Unknown,FTMDN 8.310km - 8.8620km,10-Feb-25 Miscellaneous,Other / review required,2025-02-16,2025-02-16,1,0,2025-02-16,1 week
+4318,FTM,Fremantle Line,Unknown,FTMDN 8.310km - 8.8620km,10-Feb-25 Miscellaneous,Other / review required,2025-02-23,2025-02-23,1,0,2025-02-23,1 week
+4368,FTM,Fremantle Line,Unknown,FTM 0.000km - 0.000km,7-Mar-25 Track Alignment,Track geometry,2025-03-09,2025-03-09,1,0,2025-03-09,1 week
+4395,FTM,Fremantle Line,Unknown,FTMDN 14.935km - 16.450km,11-Mar-25 Rail Surface Defect,Rail surface defect,2025-03-16,2025-03-16,1,0,2025-03-16,1 week
+4419,MTM,Midland Line,Unknown,MTMDN 7.900km - 8.180km,27-Mar-25 Turnout,Turnout / points,2025-03-23,2025-03-23,1,0,2025-03-23,1 week
+4431,UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Restriction Cancelled MTMDN 7.900km - 8.150km,27-Mar-20 Permanent TSR,Other / review required,2025-03-30,2025-03-30,1,0,2025-03-30,1 week
+4445,RTM,Mandurah Line,Unknown,RTMUP 37.000 - 37.300km,25-Mar-25 Track Defect,Track condition,2025-03-30,2025-03-30,1,0,2025-03-30,1 week
+4701,MTM,Midland Line,Unknown,MTMDN 11.120km - 11.370km,10-Jun-25 New Rail,New rail / weld,2025-06-15,2025-06-15,1,0,2025-06-15,1 week
+4740,FTM,Fremantle Line,Unknown,FTMDN F08-900km - F08-900km,17-Jun-25 Track Defect,Track condition,2025-06-22,2025-06-22,1,0,2025-06-22,1 week
+4763,ATM,Armadale Line,Unknown,ATMUP 19.294km - 19.507km,22-Apr-22 Track Geometry,Track geometry,2025-06-29,2025-06-29,1,0,2025-06-29,1 week
+4859,ATM,Armadale Line,Unknown,ATMDN 16.000km - 21.350km,17-Jul-25 New Rail,New rail / weld,2025-07-27,2025-07-27,1,0,2025-07-27,1 week
+4882,ATM,Armadale Line,Unknown,ATMBI 1.138km - 1.138km,01-Aug-25 Wing Rail,Turnout / points,2025-08-03,2025-08-03,1,0,2025-08-03,1 week
+4883,CTM,City / Central Area,Unknown,CTMDN 1.872km - 1.172km,28-Jul-25 Turnout,Turnout / points,2025-08-03,2025-08-03,1,0,2025-08-03,1 week
+4949,UNCLASSIFIED,Unclassified,Unknown,FREDN 19.039km - 19.750km,12-Aug-25 Rail Surface Defect,Rail surface defect,2025-08-24,2025-08-24,1,0,2025-08-24,1 week
+4974,ATM,Armadale Line,Unknown,ATMDN 03.275km - 03.417km,26-Aug-25 New Rail,New rail / weld,2025-08-31,2025-08-31,1,0,2025-08-31,1 week
+5005,MTM,Midland Line,Unknown,MTMUP 9.548km - 9.360km,5-Sep-25 Rail Surface Defect,Rail surface defect,2025-09-14,2025-09-14,1,0,2025-09-14,1 week
+5019,FTM,Fremantle Line,Unknown,FTMDN 3.623km - 3.819km,5-Sep-25 Ballast Formation,Ballast / formation,2025-09-14,2025-09-14,1,0,2025-09-14,1 week
+5020,FTM,Fremantle Line,Unknown,FTMUP 4.750km - 5.200km,9-Sep-25 New Rail,New rail / weld,2025-09-14,2025-09-14,1,0,2025-09-14,1 week
+5031,MTM,Midland Line,Unknown,MTMUP 9.548km - 9.360km,15-Sep-25 Rail Surface Defect,Rail surface defect,2025-09-21,2025-09-21,1,0,2025-09-21,1 week
+5040,FTM,Fremantle Line,Unknown,FTMUP 3.588km - 3.849km,12-Sep-25 Ballast Formation,Ballast / formation,2025-09-21,2025-09-21,1,0,2025-09-21,1 week
+5102,MTM,Midland Line,Unknown,MTMDN 2.2840km - 2.933km,04-Oct-25 Bog Hole,Other / review required,2025-10-12,2025-10-12,1,0,2025-10-12,1 week
+5116,FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 08.000km,27-Jun-25 Rail Surface Defect,Rail surface defect,2025-10-12,2025-10-12,1,0,2025-10-12,1 week
+5215,ATM,Armadale Line,Unknown,ATMDN 08-180km 08.280km,07-Nov-25 Track Condition,Track condition,2025-11-09,2025-11-09,1,0,2025-11-09,1 week
+5282,JTM,Joondalup Line,Unknown,JTMDN 25.630km- 25.960km,21-Nov-25 Ultrasonic Defect,Rail internal defect,2025-11-30,2025-11-30,1,0,2025-11-30,1 week
+5534,MTM,Midland Line,Unknown,MTMUP 9.200km - 9-548km,3-Feb-26 New Rail,New rail / weld,2026-02-08,2026-02-08,1,0,2026-02-08,1 week
+5682,UNCLASSIFIED,Unclassified,Unknown,FXO3BI 11.630km - 11.680km,19-Mar-26 Heat Kick,Track condition,2026-03-22,2026-03-22,1,0,2026-03-22,1 week

@@ -1,0 +1,577 @@
+﻿line_key,line_name,location_direction,affected_area,location_from_km,location_to_km,restriction_occurrences,distinct_tsr_count,first_seen_notice_date,last_seen_notice_date
+MTM,Midland Line,Unknown,MTMDN 7.900km - 8.150km,7.9,8.15,108,5,2023-11-12,2026-06-28
+MTM,Midland Line,Unknown,MTMUP 8.100km - 8.200km,8.1,8.2,96,3,2024-07-28,2026-06-28
+JTM,Joondalup Line,Unknown,JTMDN 19.150km - 20.150km,19.15,20.15,94,2,2024-07-28,2026-06-28
+FTM,Fremantle Line,Unknown,FTMUP 6.950km - 7.170km,6.95,7.17,93,3,2024-07-28,2026-06-28
+JTM,Joondalup Line,Unknown,JTMUP 8.689km - 8.989km,8.689,8.989,93,1,2024-07-28,2026-06-28
+JTM,Joondalup Line,Unknown,JTMUP 19.150km - 20.150km,19.15,20.15,80,1,2024-07-28,2026-03-08
+JTM,Joondalup Line,Unknown,JTMUP 40.429km - 40.660km,40.429,40.66,72,1,2024-11-24,2026-04-19
+JTM,Joondalup Line,Unknown,JTMUP 40.660km - 40.420km,40.42,40.66,72,2,2024-11-24,2026-04-19
+MTM,Midland Line,Unknown,MTMUP 0.660km - 0.950km,0.66,0.95,69,2,2025-03-09,2026-06-28
+UNCLASSIFIED,Unclassified,Unknown,Beyond Service 40.747km - 40.874km,40.747,40.874,67,2,2024-07-28,2026-04-26
+FTM,Fremantle Line,Unknown,FTMDN 6.800km - 7.1700km,6.8,7.17,64,2,2025-04-06,2026-06-28
+JTM,Joondalup Line,Unknown,Whitfords,,,64,12,2019-11-02,2020-11-21
+MTM,Midland Line,Unknown,MTMDN 0.660km - 0.800km,0.66,0.8,61,1,2025-02-09,2026-04-05
+JTM,Joondalup Line,Unknown,JTMDN 25.848km - 25.960km,25.848,25.96,58,1,2024-09-22,2025-12-21
+JTM,Joondalup Line,Unknown,JTMUP 40.537km - 40.430km,40.43,40.537,57,2,2025-03-02,2026-04-19
+MTM,Midland Line,Unknown,MTMDN 13.591km - 13.695km,13.591,13.695,54,5,2025-02-02,2026-02-08
+TTM,Thornlie Line,Unknown,TTMUP 01.450km - 02.550km,1.45,2.55,52,1,2025-06-29,2026-06-28
+FTM,Fremantle Line,Unknown,Fremantle - Robbs Jetty,,,47,3,2018-12-01,2020-08-01
+ATM,Armadale Line,Unknown,ATMBI 40.7470km to 40.8740km,40.747,40.874,46,2,2022-12-24,2023-11-05
+ATM,Armadale Line,Unknown,ATMUP 16.8200km to 17.0000km,16.82,16.82,46,1,2022-12-24,2023-11-05
+ATM,Armadale Line,Unknown,ATMUP 19.2940km to 19.5070km,19.294,19.507,46,1,2022-12-24,2023-11-05
+FTM,Fremantle Line,Unknown,FTMDN 6.9500km to 7.1700km,6.95,7.17,46,1,2022-12-24,2023-11-05
+FTM,Fremantle Line,Unknown,FTMUP 0.1600km to 0.6700km,0.16,0.67,46,2,2022-12-24,2023-11-05
+FTM,Fremantle Line,Unknown,FTMUP 9.5800KM to 9.5800km,9.58,9.58,46,1,2022-12-24,2023-11-05
+JTM,Joondalup Line,Unknown,JTMDN 32.6200km to 32.7500km,32.62,32.75,46,1,2022-12-24,2023-11-05
+JTM,Joondalup Line,Unknown,JTMUP 19.1500KM to 20.1500km,19.15,20.15,46,2,2022-12-24,2023-11-05
+JTM,Joondalup Line,Unknown,JTMUP 25.848km to 25.960km,25.848,25.96,46,1,2022-12-24,2023-11-05
+MTM,Midland Line,Unknown,MTMDN 7.900km to 8.150km,7.9,8.15,46,1,2022-12-24,2023-11-05
+MTM,Midland Line,Unknown,MTMUP 0.7170km to 1.6250km,0.717,1.625,46,1,2022-12-24,2023-11-05
+MTM,Midland Line,Unknown,MTMUP 8.1000km to 8.2000km,8.1,8.2,46,1,2022-12-24,2023-11-05
+FTM,Fremantle Line,Unknown,FTMUP 6.9500km to 7.1700,6.95,7.17,44,1,2022-12-24,2023-10-22
+JTM,Joondalup Line,Unknown,JTMUP 25.848km - 25.960km,25.848,25.96,44,2,2023-11-12,2025-06-22
+UNCLASSIFIED,Unclassified,Unknown,JTXBI 53.947km - 54.112km,53.947,54.112,43,1,2024-07-28,2025-07-20
+ATM,Armadale Line,Unknown,ATMDN 23.0500km to 23.4000km,23.05,23.4,41,2,2022-12-24,2023-10-01
+MTM,Midland Line,Unknown,Bassendean,,,41,10,2020-02-22,2020-09-05
+FTM,Fremantle Line,Unknown,FTM 0.000km - 0.000km,,,37,2,2025-03-09,2025-12-14
+FTM,Fremantle Line,Unknown,FTMUP 0.160km - 0.800km,0.16,0.8,37,1,2024-09-08,2025-06-22
+MTM,Midland Line,Unknown,MTMUP 0.7170km - 1.6250km,0.717,1.625,36,1,2023-11-12,2024-07-21
+UNCLASSIFIED,Unclassified,Unknown,Beyond Service 40.7470km -,40.747,40.747,36,1,2023-11-12,2024-07-21
+MTM,Midland Line,Unknown,MTMDN 9.182km - 9.650km,9.182,9.65,35,1,2025-09-14,2026-05-10
+FTM,Fremantle Line,Unknown,FTMDN 14.935km - 15.035km,14.935,15.035,34,2,2024-09-01,2025-05-11
+JTM,Joondalup Line,Unknown,Joondalup,,,34,8,2020-03-28,2020-11-21
+JTMDN,Joondalup Line,Down,Down Main design issues Whitfords JTMUP 20.150km to 19.150km,19.15,20.15,34,2,2021-11-06,2022-10-01
+FTM,Fremantle Line,Unknown,40.8740km FTMUP 9.5800KM - 9.5800km 40.8740km FTMUP 9.5800KM - 9.5800km,9.58,40.874,33,1,2023-11-26,2024-07-21
+MTM,Midland Line,Unknown,MTMDN 0.6600km - 1.3000km,0.66,1.3,33,1,2023-12-03,2024-07-21
+MTM,Midland Line,Unknown,MTMDN 0.8000km to 1.3000km,0.8,1.3,33,1,2022-12-24,2023-08-04
+MTM,Midland Line,Unknown,MTMUP 13.620km - 13.400km,13.4,13.62,33,1,2024-08-18,2025-05-04
+MTM,Midland Line,Unknown,MTMUP 8.1000km - 8.2000km,8.1,8.2,33,4,2023-11-12,2024-07-21
+UNCLASSIFIED,Unclassified,Unknown,Beyond Service 21.012km - N/A,21.012,21.012,32,1,2023-11-19,2024-06-30
+FTM,Fremantle Line,Unknown,FTMUP 14.510km - 14.670km,14.51,14.67,31,2,2025-11-30,2026-06-28
+UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Cancelled Beyond Service 21.012km- 26.000km N/A,21.012,21.012,30,1,2025-06-29,2026-04-26
+MTM,Midland Line,Unknown,MTMDN 11.9300km TO 12.3150km,11.93,12.315,29,1,2023-04-01,2023-10-15
+FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.6700km,0.16,0.67,28,5,2023-11-12,2024-07-21
+FTM,Fremantle Line,Unknown,Railway between (km) Speed Imposed Restriction Cancelled Fremantle - Section,,,28,3,2020-12-05,2021-08-14
+JTMUP,Joondalup Line,Up,Up Main issues Joondalup JTMDN 25.960km to 25.848km,25.848,25.96,28,1,2021-11-06,2022-10-01
+RTM,Mandurah Line,Unknown,RTMUP 37.000km - 37.300km,37.3,37.3,28,1,2025-04-06,2025-10-12
+JTM,Joondalup Line,Unknown,JTMDN 25.630km - 25.960km,25.63,25.96,27,1,2025-12-28,2026-06-28
+MTM,Midland Line,Unknown,MTMDN 9.540km - 9.671km,9.54,9.671,27,1,2024-11-24,2025-05-25
+MTM,Midland Line,Unknown,MTMUP 12.0000km TO 12.1000km,12.1,12.1,27,1,2023-04-01,2023-10-01
+MTM,Midland Line,Unknown,MTMDN 11.9300km - 12.3150km,11.93,12.315,26,1,2023-11-12,2024-05-12
+UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Restriction Cancelled FTMBI 21.012km to 26.000km,21.012,21.012,26,2,2022-12-24,2023-06-18
+CTM,City / Central Area,Unknown,CTMDN 1.872km - 1.872km,1.872,1.872,25,4,2025-08-10,2026-01-25
+JTMDN,Joondalup Line,Down,Down Main issues Joondalup 25.960km to 25.848km,25.848,25.96,25,1,2020-12-19,2021-08-14
+MTMDN,Midland Line,Down,Down Main design issues Bassendean MTMUP 8.200km to 8.100km,8.1,8.2,25,2,2021-11-06,2022-10-01
+UNCLASSIFIED,Unclassified,Down,Lawley Down Main Mount MTMUP 0.717km to 1.625km,0.717,1.625,25,2,2021-11-06,2022-10-01
+UNCLASSIFIED,Unclassified,Unknown,Mundijong to Byford,,,25,1,2020-02-01,2020-08-01
+FTM,Fremantle Line,Unknown,FTMDN 6.800KM - 7.170km,6.8,7.17,24,2,2024-09-08,2025-03-23
+JTM,Joondalup Line,Unknown,JTMDN 19.1500km - 20.1500km 2 1 - 0 6 - 0 24,19.15,20.15,24,1,2024-01-14,2024-06-30
+JTM,Joondalup Line,Unknown,JTMUP 19.1500km - 20.1500km,19.15,20.15,24,1,2024-02-04,2024-07-21
+JTMUP,Joondalup Line,Up,Up Main issues Joondalup 25.848km to 25.960km,25.848,25.96,24,1,2020-12-19,2021-07-17
+JTMUP,Joondalup Line,Up,Up Main issues Whitfords JTMDN 19.150 to 20.150km,19.15,20.15,24,1,2022-02-26,2022-10-01
+RTM,Mandurah Line,Unknown,RTMDN 21.0800km to 21.2550km,21.08,21.255,24,1,2022-12-24,2023-06-04
+UNCLASSIFIED,Unclassified,Bidirectional,Mundijong Bi-Directional Claisebrook FTMUP 0.160km to 0.950km,0.16,0.95,24,1,2022-02-26,2022-10-01
+UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Restriction Cancelled Beyond Service 21.012km - 26.000km N/A,21.012,21.012,24,1,2024-09-08,2025-03-23
+FTM,Fremantle Line,Unknown,FTMDN 0.580km - 1.025km,0.58,1.025,23,1,2024-09-08,2025-03-16
+MTM,Midland Line,Unknown,MTMDN 3.5000km TO 5.1000km,3.5,5.1,23,2,2023-05-14,2023-10-01
+MTM,Midland Line,Unknown,MTMUP 9.548km - 9.360km,9.36,9.548,23,3,2025-09-14,2026-02-15
+RTM,Mandurah Line,Unknown,Kwinana to Wellard,,,23,2,2020-02-15,2020-08-01
+UNCLASSIFIED,Unclassified,Unknown,Beyond Service 21.012km- N/A,21.012,21.012,23,1,2025-07-06,2026-06-28
+UNCLASSIFIED,Unclassified,Unknown,Beyond Service 40.747km -,40.747,40.747,23,2,2025-07-06,2026-06-28
+FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.281 km,0.16,0.281,22,2,2025-11-30,2026-04-26
+FTMUP,Fremantle Line,Up,Fremantle Up Main Karrakatta 9.580km Fremantle Up,9.58,9.58,22,3,2021-04-06,2021-09-11
+MTM,Midland Line,Unknown,MTMDN 13.594km - 13.695km,13.594,13.695,22,3,2024-07-28,2025-01-26
+FTM,Fremantle Line,Unknown,FTMUP 6.9500km - 7.1700km,6.95,7.17,21,5,2023-11-12,2024-07-21
+MTM,Midland Line,Unknown,MTMUP 3.5000km TO 5.1000km,3.5,5.1,21,1,2023-05-28,2023-10-15
+RTM,Mandurah Line,Unknown,Warnbro to Rockingham,,,21,4,2020-02-01,2020-06-27
+FTM,Fremantle Line,Unknown,FTMDN 8.862km - 8.310km,8.31,8.862,20,1,2024-08-18,2025-02-02
+FTM,Fremantle Line,Unknown,FTMUP 19.440km - 19.793km,19.44,19.793,20,2,2025-11-30,2026-04-12
+FTM,Fremantle Line,Unknown,Railway Speed Imposed Restriction Cancelled Fremantle - FTMBI 21.012km to 26.000km,21.012,21.012,20,2,2021-11-06,2022-10-01
+JTM,Joondalup Line,Unknown,JTMDM 25.848km - 25.960km,25.848,25.96,20,1,2024-03-24,2024-09-15
+MTMUP,Midland Line,Up,to Byford Up Direction Bassendean 7.900km to 8.150km,7.9,8.15,20,1,2020-12-19,2021-08-14
+UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Cancelled FTMBI 21.012km to 26.000km,21.012,21.012,20,1,2023-06-25,2023-11-05
+UNCLASSIFIED,Unclassified,Up,Up Main Dalziel St ATMUP 16.820km to 17.000km,16.82,16.82,20,1,2021-11-13,2022-10-01
+FTM,Fremantle Line,Unknown,FTMDN 19.039km - 19.750km,19.039,19.75,19,2,2025-08-31,2026-01-04
+FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.800km,0.16,0.8,19,1,2025-07-20,2025-11-23
+FTM,Fremantle Line,Unknown,FTMUP 14.8800km - 15.2780km,14.88,15.278,19,3,2023-12-03,2024-04-14
+FTM,Fremantle Line,Unknown,Robbs Jetty Crossing Review Mundijong 40.874km to 40.747km,40.747,40.874,19,1,2020-12-19,2021-08-14
+JTMUP,Joondalup Line,Up,Up Main issues Joondalup JTMUP 25.848km to 25.960km,25.848,25.96,19,1,2021-11-06,2022-10-01
+MTM,Midland Line,Unknown,MTMUP 0.717km - 1.625km,0.717,1.625,19,1,2024-07-28,2025-01-05
+RTM,Mandurah Line,Unknown,RTMDN 20.7700km to 21.2550km,20.77,21.255,19,1,2023-07-02,2023-11-05
+UNCLASSIFIED,Unclassified,Down,Down Main issues Karrakatta FTMUP 9.580km 7,9.58,9.58,19,2,2021-11-06,2022-10-01
+ATMUP,Armadale Line,Up,Lawley Up Main Armadale - ATMBI 40.747km to 40.874km,40.747,40.874,18,1,2022-04-16,2022-10-01
+JTMDN,Joondalup Line,Down,Lawley Down Main Whitfords 19.150 to 20.150km,19.15,20.15,18,2,2020-12-19,2021-07-17
+UNCLASSIFIED,Unclassified,Up,Up Main East MTMDN 11.930km to 12.315km,11.93,12.315,18,1,2022-04-16,2022-10-01
+UNCLASSIFIED,Unclassified,Up,Up Main design issues Mount MTMDN 0.800 to 1.300km,0.8,1.3,18,1,2022-04-16,2022-10-01
+JTMDN,Joondalup Line,Down,Down Main design issues Whitfords 20.150km to 19.150km,19.15,20.15,17,2,2021-04-06,2021-08-14
+JTM,Joondalup Line,Unknown,JTMUP 19.220km - 19.328km,19.22,19.328,16,3,2026-03-15,2026-06-28
+MTMDN,Midland Line,Down,Down Main design issues Bassendean 8.200km to 8.100km,8.1,8.2,16,2,2021-04-06,2021-07-24
+ATM,Armadale Line,Unknown,Oats St,,,15,1,2019-11-16,2020-02-22
+ATMDN,Armadale Line,Down,Down Main Gosnells ATMUP 19.294km to 19.507,19.294,19.507,15,1,2022-05-21,2022-10-01
+FTM,Fremantle Line,Unknown,FTMUP 19.4800km - 20.0200km,19.48,20.02,15,1,2023-11-12,2024-02-18
+FTMBI,Fremantle Line,Bidirectional,Robbs Jetty B-Directional Crossing Review Bassendean MTMDN 7.900km to 8.150km,7.9,8.15,15,1,2021-11-06,2022-10-01
+MTM,Midland Line,Unknown,MTMDN 13.5940km - 13.6950km,13.594,13.695,15,1,2024-04-14,2024-07-21
+MTM,Midland Line,Unknown,MTMDN 2.200km - 2.700km,2.2,2.7,15,1,2024-09-08,2025-01-19
+ATM,Armadale Line,Unknown,Kelmscott to Sherwood,,,14,1,2020-01-11,2020-04-11
+MTM,Midland Line,Unknown,40.874km MTMDN 7.900km - 8.150km 40.874km MTMDN 7.900km - 8.150km,7.9,40.874,14,2,2025-07-06,2025-10-05
+RTM,Mandurah Line,Unknown,compliance Cockburn RTMDN 20.616km to 21.250km,20.616,21.25,14,1,2022-05-28,2022-10-01
+RTM,Mandurah Line,Unknown,compliance Cockburn RTMDN 20.880km to 21.250km,20.88,21.25,14,1,2022-01-29,2022-05-21
+UNCLASSIFIED,Unclassified,Unknown,Curve Wear & RCF FTMUP 14.8800km - 15.2780km,14.88,15.278,14,3,2024-04-21,2024-07-21
+FTM,Fremantle Line,Unknown,FTMUP 1.4500km - 1.9300km,1.45,1.93,13,3,2023-11-12,2024-02-18
+FTM,Fremantle Line,Unknown,Fremantle - Robbs Pedestrian Crossing September Section,,,13,1,2018-09-01,2018-11-24
+FTM,Fremantle Line,Unknown,Fremantle - Robbs Section,,,13,3,2019-03-23,2019-07-13
+FTM,Fremantle Line,Unknown,Robbs Jetty Directional Crossing Review Bassendean MTMDN 7.900km to 8.150km,7.9,8.15,13,1,2021-11-13,2022-05-21
+MTM,Midland Line,Unknown,MTMDN 0.660km - 1.200km,0.66,1.2,13,1,2024-10-06,2025-02-02
+UNCLASSIFIED,Unclassified,Unknown,RRP Scope ATMUP 16.8200km - 17.0000km,16.82,16.82,13,2,2024-01-28,2024-05-05
+CTM,City / Central Area,Unknown,CTMUP 0.948km - 1.069km,0.948,1.069,12,2,2026-02-08,2026-04-26
+FTM,Fremantle Line,Unknown,FTMDM 18.4250km - 18.5970km,18.425,18.597,12,6,2024-01-21,2024-04-14
+JTM,Joondalup Line,Unknown,JTMUP 19.1500KM - 20.1500km,19.15,20.15,12,1,2023-11-12,2024-01-28
+MTM,Midland Line,Unknown,MTMDN 0.580km - 0.800km,0.58,0.8,12,1,2026-04-12,2026-06-28
+MTM,Midland Line,Unknown,MTMDN 9.5600km - 9.6800km,9.56,9.68,12,2,2023-11-12,2024-01-28
+UNCLASSIFIED,Unclassified,Unknown,ARMUP 19.294km - 19.507km,19.294,19.507,12,1,2024-07-28,2024-10-13
+UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Restriction Cancelled Beyond Service 21.012km- 26.000km N/A,21.012,21.012,12,1,2025-04-06,2025-06-22
+UNCLASSIFIED,Unclassified,Up,Up Main issues Mount 0.800 to 1.300km,0.8,1.3,12,1,2021-04-24,2021-07-17
+UNCLASSIFIED,Unclassified,Unknown,ARMUP 16.820km - 17.000km,16.82,16.82,11,1,2024-07-28,2024-10-13
+UNCLASSIFIED,Unclassified,Down,Down Main Dalziel St ATMUP 16.820km to 17.000km,16.82,16.82,11,1,2021-12-04,2022-04-02
+ATM,Armadale Line,Unknown,ATMUP 16.820km to 17.000km Dalziel St,16.82,16.82,10,1,2022-10-08,2022-12-17
+ATM,Armadale Line,Unknown,ATMUP 19.2940km - 19.5070km,19.294,19.507,10,8,2023-11-12,2024-01-21
+ATM,Armadale Line,Unknown,Central 1114A points Gosnells ATMUP 19.294km to 19.507,19.294,19.507,10,1,2022-10-08,2022-12-17
+ATM,Armadale Line,Unknown,Extreme weather Mundijong ATMBI 34.800 km to 34.900 km,34.8,34.9,10,1,2022-10-08,2022-12-17
+ATM,Armadale Line,Unknown,Rail Surface Kelmscott ATMDN 23.050 km to 23.400 km,23.05,23.4,10,1,2022-10-08,2022-12-17
+ATMBI,Armadale Line,Bidirectional,Armadale - ATMBI 40.747km to 40.874km Bi-,40.747,40.874,10,1,2022-10-08,2022-12-17
+ATMDN,Armadale Line,Down,12.725km to 12.955km Beckenham Down Main Armadale Line 12.725km to 12.955km Beckenham Down Main Armadale Line,12.725,12.955,10,1,2020-09-12,2020-11-28
+FTM,Fremantle Line,Unknown,FTMUP 18.667km - 19.958km,18.667,19.958,10,1,2025-03-09,2025-06-22
+FTM,Fremantle Line,Unknown,Fremantle - FTMBI 21.012km to 26.000km B- Pedestrian,21.012,21.012,10,1,2022-10-08,2022-12-17
+FTM,Fremantle Line,Unknown,Shenton Structural FTMDN 6.950km to 7.170 km,6.95,7.17,10,1,2022-10-08,2022-12-17
+FTM,Fremantle Line,Unknown,Shenton Structural FTMUP 6.950km to 7.170 km,6.95,7.17,10,1,2022-10-08,2022-12-17
+FTMUP,Fremantle Line,Up,FTMUP 0.160km to 0.950km Up 31-Dec- Claisebrook,0.16,0.95,10,1,2022-10-08,2022-12-17
+FTMUP,Fremantle Line,Up,FTMUP 9.580km Up 15-Feb- Loch St Ped Xing Karrakatta,9.58,9.58,10,1,2022-10-08,2022-12-17
+JTM,Joondalup Line,Unknown,JTMDN 25.960km to 25.848km Turnout design Joondalup,25.848,25.96,10,1,2022-10-08,2022-12-17
+JTM,Joondalup Line,Unknown,JTMUP 8.689km- 8.890km,8.689,8.89,10,1,2024-03-24,2024-06-02
+JTMDN,Joondalup Line,Down,JTMDN 19.150 to 20.150km Down Turnout defects & Whitfords,19.15,20.15,10,1,2022-10-08,2022-12-17
+JTMUP,Joondalup Line,Up,JTMUP 20.150km to 19.150km Up 17-Sep- Turnout defects & Whitfords,19.15,20.15,10,1,2022-10-08,2022-12-17
+JTMUP,Joondalup Line,Up,JTMUP 25.848km to 25.960km Up Turnout design Joondalup,25.848,25.96,10,1,2022-10-08,2022-12-17
+MTMDN,Midland Line,Down,MTMDN 7.900km to 8.150km Down 27-Mar- Turnout defects & Bassendean,7.9,8.15,10,1,2022-10-08,2022-12-17
+MTMUP,Midland Line,Up,MTMUP 8.200km to 8.100km Up Turnout design Bassendean,8.1,8.2,10,1,2022-10-08,2022-12-17
+RTM,Mandurah Line,Unknown,Cockburn Geometry defect RTMDN 21.080 km to 21.250km,21.08,21.25,10,1,2022-10-08,2022-12-17
+RTM,Mandurah Line,Unknown,Glen Iris to Cockburn,,,10,1,2020-02-15,2020-04-18
+RTM,Mandurah Line,Unknown,Rockingham,,,10,3,2020-06-20,2020-09-05
+UNCLASSIFIED,Unclassified,Down,0.900 to 1.300km Down Mount Lawley 0.900 to 1.300km Down Mount Lawley,0.9,1.3,10,1,2020-09-12,2020-11-28
+UNCLASSIFIED,Unclassified,Unknown,22 Defect Welshpool ATMUP 9.540km to 9.440km,9.44,9.54,10,1,2022-10-08,2022-12-17
+UNCLASSIFIED,Unclassified,Unknown,East MTMDN 11.930km to 12.315km 18-Dec-,11.93,12.315,10,1,2022-10-08,2022-12-17
+UNCLASSIFIED,Unclassified,Down,Mount MTMDN 0.800 to 1.300km Down,0.8,1.3,10,1,2022-10-08,2022-12-17
+UNCLASSIFIED,Unclassified,Up,Mount MTMUP 0.717km to 1.625km Up 28-Sep-,0.717,1.625,10,1,2022-10-08,2022-12-17
+ATM,Armadale Line,Unknown,ATMUP 16.8200km - 17.0000km,16.82,16.82,9,1,2023-11-26,2024-01-21
+ATMUP,Armadale Line,Up,Up Main issues Beckenham 12.725km to 12.955km,12.725,12.955,9,2,2020-12-19,2021-02-27
+CTM,City / Central Area,Unknown,40.874km CTMUP 0.948km - 1.069km 40.874km CTMUP 0.948km - 1.069km,0.948,40.874,9,2,2026-05-03,2026-06-28
+FTM,Fremantle Line,Unknown,FTMBI 19.2200km - 19.4500km,19.22,19.45,9,1,2023-11-12,2024-01-07
+FTM,Fremantle Line,Unknown,FTMDN 19.750km - 19.390km,19.39,19.75,9,1,2025-06-22,2025-08-17
+FTM,Fremantle Line,Unknown,FTMDN 6.9500km - 7.1700km,6.95,7.17,9,1,2023-11-12,2024-01-07
+FTM,Fremantle Line,Unknown,Fremantle - Pedestrian Crossing Section,,,9,1,2020-09-12,2020-11-07
+FTM,Fremantle Line,Unknown,Railway Speed Imposed Restriction Cancelled Fremantle - FTMBI 21.012km to 26.000km B-,21.012,21.012,9,1,2021-11-13,2022-02-19
+FTMUP,Fremantle Line,Up,Mundijong Directional Claisebrook FTMUP 0.160km to 0.950km Up,0.16,0.95,9,1,2021-11-13,2022-02-19
+JTM,Joondalup Line,Unknown,25.848km to 25.960km Joondalup 25.848km to 25.960km Joondalup,25.848,25.96,9,1,2020-09-12,2020-11-07
+JTM,Joondalup Line,Unknown,JTMDN 19.1500km - 20.1500km 2 1 - 0 6 - 0 2 4,19.15,20.15,9,2,2023-11-12,2024-01-07
+JTM,Joondalup Line,Unknown,JTMDN 25.630km- 25.960km,25.63,25.96,9,3,2025-11-30,2026-01-25
+JTM,Joondalup Line,Unknown,JTMDN 32.6200km - 32.7500km,32.62,32.75,9,1,2023-11-12,2024-01-07
+JTM,Joondalup Line,Unknown,JTMUP 0.8350km - 0.9070km,0.835,0.907,9,2,2024-02-04,2024-04-28
+JTM,Joondalup Line,Unknown,JTMUP 27.000 - 27.390km,27.39,27.39,9,2,2025-12-21,2026-02-15
+JTM,Joondalup Line,Unknown,Main issues Joondalup JTMUP 25.848km to 25.960km,25.848,25.96,9,1,2021-11-13,2022-02-19
+JTM,Joondalup Line,Unknown,issues Whitfords 20.150km to 19.150km,19.15,20.15,9,1,2020-12-19,2021-02-27
+JTMUP,Joondalup Line,Up,25.960km to 25.848km Up Joondalup 25.960km to 25.848km Up Joondalup,25.848,25.96,9,1,2020-09-12,2020-11-07
+MTM,Midland Line,Unknown,MTMDN 11.9300km to 12.3150km,11.93,12.315,9,1,2023-01-28,2023-11-05
+MTM,Midland Line,Unknown,issues Bassendean 8.200km to 8.100km,8.1,8.2,9,1,2020-12-19,2021-02-27
+MTMDN,Midland Line,Down,Down Main design issues Bassendean MTMUP 8.200km to 8.100km Up,8.1,8.2,9,1,2021-11-13,2022-02-19
+MTMUP,Midland Line,Up,8.200km to 8.100km Up Bassendean 8.200km to 8.100km Up Bassendean,8.1,8.2,9,1,2020-09-12,2020-11-07
+TTM,Thornlie Line,Unknown,Thornlie Line North 18.800 to 18.920km,18.8,18.92,9,1,2020-12-19,2021-02-27
+UNCLASSIFIED,Unclassified,Down,Down Main City 0.875km to 1.650km,0.875,1.65,9,1,2021-01-23,2021-04-17
+UNCLASSIFIED,Unclassified,Down,Down Main issues Karrakatta FTMUP 9.580km Up,9.58,9.58,9,1,2021-11-13,2022-02-19
+UNCLASSIFIED,Unclassified,Up,Lawley Main Mount MTMUP 0.717km to 1.625km Up,0.717,1.625,9,1,2021-11-13,2022-02-19
+UNCLASSIFIED,Unclassified,Bidirectional,Main Abernethy ATMBI 36.734km to 36.834km Bi-,36.734,36.834,9,1,2021-11-13,2022-02-19
+UNCLASSIFIED,Unclassified,Up,Mundijong to 40.874km to 40.747km Up,40.747,40.874,9,1,2020-09-12,2020-11-07
+ATMUP,Armadale Line,Up,Armadale Up Main Works Denny Ave 24.560km to 25.540km,24.56,25.54,8,2,2021-05-08,2021-07-03
+FTM,Fremantle Line,Unknown,FTMUP 20.767km - 21.150km,20.767,21.15,8,1,2025-03-09,2025-06-01
+JTM,Joondalup Line,Unknown,2.4 Leederville- Stirling 65 to 2.780 2.4 Leederville- Stirling 65 to 2.780,2.4,2.78,8,2,2019-03-23,2019-05-25
+MTM,Midland Line,Unknown,MTMDN 0.660km - 1.300km,0.66,1.3,8,2,2024-07-28,2024-09-22
+UNCLASSIFIED,Unclassified,Down,North 18.800 to 18.920km Down,18.8,18.92,8,1,2020-09-12,2020-10-31
+UNCLASSIFIED,Unclassified,Up,Up Main Abernethy ATMBI 36.734km to 36.834km,36.734,36.834,8,2,2021-11-06,2022-04-16
+ATM,Armadale Line,Unknown,25.975 to 27th August Kelmscott to Challis 25.975 to 27th August Kelmscott to Challis,25.975,25.975,7,1,2019-08-24,2019-10-05
+ATM,Armadale Line,Unknown,Gosnells to 19.300 to 6th November,19.3,19.3,7,1,2019-08-24,2019-10-05
+ATM,Armadale Line,Unknown,Kelmscott to Challis,,,7,2,2019-11-02,2019-12-14
+ATMDN,Armadale Line,Down,Armadale Down Main Works Abernethy 36.734km to 36.834km,36.734,36.834,7,1,2021-05-15,2021-07-03
+ATMDN,Armadale Line,Down,Mandurah Down Main Armadale 29.350km to 29.710km,29.35,29.71,7,1,2021-09-11,2021-10-30
+FTM,Fremantle Line,Unknown,Fremantle - Robbs Pedestrian Crossing TBA Section,,,7,1,2019-08-24,2019-10-05
+JTM,Joondalup Line,Yard,Across 37 & 38 2nd October Nowergup Yard,,,7,1,2019-08-24,2019-10-05
+JTM,Joondalup Line,Unknown,JTMUP 2.167km - 2.709,2.167,2.709,7,1,2024-12-01,2025-01-12
+JTM,Joondalup Line,Unknown,Joondalup to Edgewater,,,7,1,2020-03-07,2020-04-18
+JTM,Joondalup Line,Unknown,Leederville 2.465 to 2.780 Sleeper Condition on 17th October,2.465,2.78,7,1,2019-08-24,2019-10-05
+JTM,Joondalup Line,Unknown,Warwick 13.350km to 13.460km,13.35,13.46,7,1,2021-09-11,2021-10-30
+MDM,Mandurah Line,Unknown,MDMDN 0.6600km to 1.3000km,0.66,1.3,7,1,2023-09-03,2023-10-15
+UNCLASSIFIED,Unclassified,Down,City Down Main Claisebrook 0.875km to 1.650km,0.875,1.65,7,1,2021-05-15,2021-07-03
+UNCLASSIFIED,Unclassified,Up,City Up Main Claisebrook 0.850km to 0.950km,0.85,0.95,7,1,2021-05-15,2021-07-03
+UNCLASSIFIED,Unclassified,Unknown,Main Works Denny Ave 24.560km to 25.140km,24.56,25.14,7,1,2021-05-15,2021-07-03
+UNCLASSIFIED,Unclassified,Unknown,RRP Scope ATMUP 19.2940km - 19.5070km,19.294,19.507,7,3,2024-01-28,2024-05-05
+UNCLASSIFIED,Unclassified,Up,Up Main Claisebrook 0.850km to 0.950km,0.85,0.95,7,1,2021-02-06,2021-04-17
+UNCLASSIFIED,Unclassified,Up,Up Main design issues Claisebrook 0.990km to 1.150km,0.99,1.15,7,1,2021-05-15,2021-07-03
+ATMBI,Armadale Line,Bidirectional,Rd Armadale Bi-di Line Works Cockburn 21.142km to 21.242km,21.142,21.242,6,1,2021-09-18,2021-10-30
+ATMUP,Armadale Line,Up,Armadale Line Up Main Claisebrook 0.735km to 0.275km,0.275,0.735,6,1,2021-07-24,2021-09-04
+ATMUP,Armadale Line,Up,Lawley Up Main 21 Armadale - ATMBI 40.747km to 40.874km,40.747,40.874,6,1,2022-02-26,2022-04-09
+FTM,Fremantle Line,Unknown,FTMDM 4.8900km - 5.3200km,4.89,5.32,6,1,2024-01-21,2024-02-25
+FTM,Fremantle Line,Unknown,FTMUP 17.4700km to 18.0500km,17.47,18.05,6,1,2023-01-28,2023-03-04
+FTM,Fremantle Line,Unknown,FTMUP 20.7650km - 20.8500km,20.765,20.85,6,2,2024-02-25,2024-03-31
+FTM,Fremantle Line,Unknown,FTMUP 4.878km - 5.436km,4.878,5.436,6,1,2024-09-08,2024-10-13
+FTM,Fremantle Line,Unknown,Main Works Claremont 10.890km to 12.503km,10.89,12.503,6,1,2021-04-06,2021-05-08
+FTM,Fremantle Line,Unknown,Railway (km) Speed Imposed Restriction Cancelled Fremantle - Section,,,6,1,2021-07-31,2021-09-11
+FTM,Fremantle Line,Unknown,Railway Speed Imposed Restriction Cancelled Fremantle - Section,,,6,1,2021-09-18,2021-10-30
+FTM,Fremantle Line,Unknown,Robbs Jetty Crossing Review Mundijong to 40.874km to 40.747km,40.747,40.874,6,1,2021-01-23,2021-02-27
+FTMUP,Fremantle Line,Up,Fremantle Up Main Works Claremont 10.890km to 12.503km,10.89,12.503,6,1,2021-04-06,2021-05-08
+FTMUP,Fremantle Line,Up,Robbs Jetty Crossing Review Mundijong to 40.874km to 40.747km Up,40.747,40.874,6,1,2021-09-18,2021-10-30
+FTMUP,Fremantle Line,Up,Robbs Jetty Review Mundijong to 40.874km to 40.747km Up,40.747,40.874,6,1,2021-07-31,2021-09-11
+JTM,Joondalup Line,Unknown,Main Joondalup 25.848km to 25.960km,25.848,25.96,6,1,2021-07-31,2021-09-11
+JTMDN,Joondalup Line,Down,Down Main Joondalup 25.960km to 25.848km Up,25.848,25.96,6,1,2021-07-31,2021-09-11
+JTMDN,Joondalup Line,Down,Down Main Whitfords 19.150 to 20.150km,19.15,20.15,6,1,2021-01-23,2021-02-27
+JTMDN,Joondalup Line,Down,Lawley Rail Internal Defect Whitfords 19.150 to 20.150km Down Main,19.15,20.15,6,1,2021-09-18,2021-10-30
+JTMDN,Joondalup Line,Down,issues Joondalup 25.848km to 25.960km Down,25.848,25.96,6,1,2021-09-18,2021-10-30
+JTMUP,Joondalup Line,Up,Main design issues Whitfords 20.150km to 19.150km Up,19.15,20.15,6,1,2021-07-31,2021-09-11
+JTMUP,Joondalup Line,Up,Main issues Joondalup 25.960km to 25.848km Up Main,25.848,25.96,6,1,2021-09-18,2021-10-30
+JTMUP,Joondalup Line,Up,Up Main 20 issues Joondalup JTMDN 25.960km to 25.848km,25.848,25.96,6,1,2022-02-26,2022-04-09
+JTMUP,Joondalup Line,Up,Up Main 20 issues Joondalup JTMUP 25.848km to 25.960km,25.848,25.96,6,1,2022-02-26,2022-04-09
+JTMUP,Joondalup Line,Up,Up Main Warwick JTMDN 13.350km to 13.460km,13.35,13.46,6,1,2021-11-06,2021-12-25
+JTMUP,Joondalup Line,Up,design issues Whitfords 20.150km to 19.150km Up Main,19.15,20.15,6,1,2021-09-18,2021-10-30
+MTMBI,Midland Line,Bidirectional,Mundijong Armadale Bi-Directional Railhead Guildford 10.250km to 10.350km Midland,10.25,10.35,6,1,2021-09-18,2021-10-30
+MTMDN,Midland Line,Down,Byford Direction Bassendean 7.900km to 8.150km Down,7.9,8.15,6,1,2021-07-31,2021-09-11
+MTMDN,Midland Line,Down,Byford Direction Bassendean 7.900km to 8.150km Down Main,7.9,8.15,6,1,2021-09-18,2021-10-30
+MTMUP,Midland Line,Up,Byford Up Direction Bassendean 7.900km to 8.150km,7.9,8.15,6,1,2021-01-23,2021-02-27
+MTMUP,Midland Line,Up,Main design issues Bassendean 8.200km to 8.100km Up,8.1,8.2,6,1,2021-07-31,2021-09-11
+MTMUP,Midland Line,Up,design issues Bassendean 8.200km to 8.100km Up Main,8.1,8.2,6,1,2021-09-18,2021-10-30
+RTM,Mandurah Line,Unknown,Cockburn,,,6,2,2020-07-11,2020-08-22
+RTMBI,Mandurah Line,Bidirectional,Thornlie Bi-directional Cockburn 21.142km to 21.242km,21.142,21.242,6,1,2021-07-24,2021-09-04
+RTMDN,Mandurah Line,Down,Down Main Rockingham 43.067km to 42.065km,42.065,43.067,6,1,2021-09-18,2021-10-30
+UNCLASSIFIED,Unclassified,Unknown,Damage FTMDN 6.9500km - 7.1700km,6.95,7.17,6,1,2024-06-16,2024-07-21
+UNCLASSIFIED,Unclassified,Down,Down Main 20 issues Karrakatta FTMUP 9.580km 7,9.58,9.58,6,1,2022-02-26,2022-04-09
+UNCLASSIFIED,Unclassified,Down,Main Mount 0.620 to 1.300km Down,0.62,1.3,6,2,2021-07-31,2021-09-11
+UNCLASSIFIED,Unclassified,Unknown,Main design issues Claisebrook 0.850km to 0.950km,0.85,0.95,6,1,2021-07-31,2021-09-11
+UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Cancelled Beyond Service 21.012km - 26.000km N/A,21.012,21.012,6,1,2024-07-28,2024-09-01
+UNCLASSIFIED,Unclassified,Up,Up Main 21 design issues Mount MTMDN 0.800 to 1.300km,0.8,1.3,6,1,2022-02-26,2022-04-09
+UNCLASSIFIED,Unclassified,Up,Up Main City West FTMUP 3.600km to 3.760km,3.6,3.76,6,1,2022-02-26,2022-04-09
+UNCLASSIFIED,Unclassified,Up,Up Main Platform deformation East MTMDN 11.930km to 12.315km,11.93,12.315,6,1,2022-02-26,2022-04-09
+UNCLASSIFIED,Unclassified,Unknown,Xing issues Abernethy 36.734km to 36.834km,36.734,36.834,6,1,2021-09-18,2021-10-30
+UNCLASSIFIED,Unclassified,Down,issues Mount 0.620 to 1.300km Down Main,0.62,1.3,6,1,2021-09-18,2021-10-30
+ATM,Armadale Line,Unknown,ATMBI 34.8000km to 34.9000km,34.8,34.9,5,1,2022-12-24,2023-01-22
+ATM,Armadale Line,Unknown,ATMUP 10.000km - 11.043km,11.043,11.043,5,1,2025-06-29,2025-07-27
+ATM,Armadale Line,Unknown,ATMUP 9.5400km to 9.4400km,9.44,9.54,5,1,2022-12-24,2023-01-22
+ATMBI,Armadale Line,Bidirectional,Up Main design issues Armadale - ATMBI 40.747km to 40.874km Bi-,40.747,40.874,5,1,2021-11-13,2021-12-25
+ATMDN,Armadale Line,Down,Central Down Main 1112A/1114A Armadale - ATMBI 34.18 to 34 34.28,34.18,34.28,5,1,2022-02-26,2022-04-02
+ATMUP,Armadale Line,Up,Armadale Up Main Works Denny Ave 24.700km to 25.140km,24.7,25.14,5,1,2021-04-06,2021-05-01
+ATMUP,Armadale Line,Up,Up Main Armadale 19.900km to 20.100km,19.9,20.1,5,1,2020-12-19,2021-01-30
+FTM,Fremantle Line,Unknown,FTMDM 0.8480km - 1.3690km,0.848,1.369,5,2,2024-01-21,2024-02-18
+FTM,Fremantle Line,Unknown,FTMDM 6.9500km - 7.1700km,6.95,7.17,5,2,2024-03-24,2024-04-14
+FTM,Fremantle Line,Unknown,FTMDN 1.190km - 1.090km,1.09,1.19,5,3,2024-07-28,2024-08-25
+FTM,Fremantle Line,Unknown,FTMUP 0.160km - 0.670km,0.16,0.67,5,2,2024-07-28,2024-09-01
+FTM,Fremantle Line,Unknown,Fremantle 8.2 68 to 8.516,8.2,8.516,5,1,2019-06-15,2019-07-13
+FTM,Fremantle Line,Unknown,design issues Claisebrook 0.850km to 0.950km Fremantle,0.85,0.95,5,1,2021-09-18,2021-10-30
+FTMBI,Fremantle Line,Bidirectional,Robbs Jetty B-Directional Review Bassendean MTMDN 7.900km to 8.150km,7.9,8.15,5,1,2022-02-26,2022-04-02
+FTMDN,Fremantle Line,Down,Fremantle Down Main Works Denny Ave 24.700km to 25.140km,24.7,25.14,5,1,2021-04-06,2021-05-01
+FTMUP,Fremantle Line,Up,Up Main Karrakatta 9.580km Fremantle Up Main,9.58,9.58,5,1,2021-09-18,2021-10-30
+JTM,Joondalup Line,Unknown,Joondalup 22.9 42 to 23.184,22.9,23.184,5,1,2019-06-15,2019-07-13
+JTM,Joondalup Line,Unknown,Lawley Main Whitfords JTMDN 19.150 to 20.150km,19.15,20.15,5,1,2021-11-13,2021-12-25
+JTM,Joondalup Line,Unknown,Leederville 2.4 65 to 2.780,2.4,2.78,5,1,2019-06-15,2019-07-13
+JTM,Joondalup Line,Unknown,Leederville to Glendalough,,,5,1,2019-11-16,2019-12-14
+JTMBI,Joondalup Line,Bidirectional,Rd Bi-Directional Warwick JTMDN 13.350km to 13.460km,13.35,13.46,5,1,2022-02-26,2022-04-02
+MTM,Midland Line,Unknown,MTMDN 11.9300km to 13.2000km,11.93,13.2,5,1,2022-12-24,2023-01-22
+MTM,Midland Line,Unknown,MTMDN 13.5940km - 13.6950,13.594,13.695,5,1,2024-03-03,2024-03-31
+MTM,Midland Line,Unknown,MTMDN 7.900km - 8.1500km,7.9,8.15,5,1,2024-06-23,2024-07-21
+MTM,Midland Line,Unknown,MTMUP 13.225km - 13.610km,13.225,13.61,5,1,2025-09-28,2025-10-26
+MTMUP,Midland Line,Up,Up Main Ashfield MTMUP 7.007km to 7.158km,7.007,7.158,5,1,2021-11-13,2021-12-25
+RTM,Mandurah Line,Unknown,RTMUP 43.332km - 43.472km,43.332,43.472,5,1,2025-03-30,2025-04-27
+UNCLASSIFIED,Unclassified,Unknown,ARMUP 16.8200km - 17.0000km,16.82,16.82,5,1,2024-06-23,2024-07-21
+UNCLASSIFIED,Unclassified,Unknown,Beyond Service 40.747km - 40.874km N/A,40.747,40.874,5,1,2025-04-13,2025-05-11
+UNCLASSIFIED,Unclassified,Down,Main issues Mount MTMDN 0.800 to 1.300km Down,0.8,1.3,5,1,2021-11-13,2021-12-25
+UNCLASSIFIED,Unclassified,Unknown,Mount Lawley,,,5,3,2020-08-15,2020-11-21
+UNCLASSIFIED,Unclassified,Unknown,Section,,,5,3,2020-08-15,2020-11-21
+UNCLASSIFIED,Unclassified,Up,Up Main design issues Claisebrook 0.850km to 0.950km,0.85,0.95,5,2,2021-04-24,2021-08-14
+ATM,Armadale Line,Unknown,14.270 to 12th September Kenwick Station 14.270 to 12th September Kenwick Station,14.27,14.27,4,1,2019-08-24,2019-09-14
+ATM,Armadale Line,Unknown,Queens Park,,,4,2,2020-08-15,2020-09-05
+ATMBI,Armadale Line,Bidirectional,Lawley Main Armadale - ATMBI 40.747km to 40.874km Bi-,40.747,40.874,4,1,2022-01-29,2022-02-19
+ATMDN,Armadale Line,Down,9.450 to 9.550km Down Queens Park 9.450 to 9.550km Down Queens Park,9.45,9.55,4,1,2020-09-12,2020-10-03
+ATMDN,Armadale Line,Down,Beckenham Down M ain Armadal e Line,,,4,2,2020-08-15,2020-09-05
+ATMDN,Armadale Line,Down,Down Main Gosnells ATMUP 19.314km to 19.550km,19.314,19.55,4,1,2021-11-06,2021-11-27
+FTM,Fremantle Line,Unknown,FTMDM 6.9500km - 7.1700km N/A,6.95,7.17,4,1,2024-02-25,2024-03-17
+FTM,Fremantle Line,Unknown,FTMDN 1.578km - 1.775km,1.578,1.775,4,1,2025-03-09,2025-03-30
+FTM,Fremantle Line,Unknown,FTMUP & DM 6.9500km - 7.1700km,6.95,7.17,4,1,2024-01-14,2024-02-04
+FTM,Fremantle Line,Unknown,FTMUP 10.1250km - 10.6680km,10.125,10.668,4,1,2024-02-25,2024-03-17
+FTM,Fremantle Line,Unknown,Fremantle - Robbs Sectio n,,,4,2,2019-07-20,2019-08-10
+FTM,Fremantle Line,Unknown,Railway m Speed Restriction Cancelled Fremantle - FTMBI 21.012km to 26.000km B-,21.012,21.012,4,1,2022-04-16,2022-05-21
+FTMDN,Fremantle Line,Down,Fremantle Down Main Mount Lawley 0.800 to 1.300km,0.8,1.3,4,1,2021-02-06,2021-02-27
+JTM,Joondalup Line,Unknown,JTMUP 8.689km - 8.890km,8.689,8.89,4,1,2024-06-09,2024-06-30
+JTM,Joondalup Line,Unknown,Leederville,,,4,1,2020-04-11,2020-05-02
+JTM,Joondalup Line,Unknown,Leederville 2.465 to 2 .780,2.465,2.465,4,2,2019-07-20,2019-08-10
+JTM,Joondalup Line,Unknown,Main issues Whitfords JTMDN 19.150 to 20.150km,19.15,20.15,4,1,2022-01-29,2022-02-19
+JTM,Joondalup Line,Yard,Nowergup Yard Across 37 & 38,,,4,1,2019-07-20,2019-08-10
+JTM,Joondalup Line,Unknown,Rd Directional Works Warwick JTMDN 13.350km to 13.460km,13.35,13.46,4,1,2022-01-29,2022-02-19
+MTM,Midland Line,Unknown,MTMDN 8.885km - 9.650km,8.885,9.65,4,1,2026-05-17,2026-06-07
+MTM,Midland Line,Unknown,MTMUP 0.660km - 0.800km,0.66,0.8,4,1,2025-02-09,2025-03-02
+MTM,Midland Line,Unknown,MTMUP 0.660km - 1.625km,0.66,1.625,4,1,2025-01-12,2025-02-02
+MTM,Midland Line,Unknown,MTMUP 12.140km - 10.980km,10.98,12.14,4,1,2024-09-08,2024-09-29
+MTMUP,Midland Line,Up,Armadale Line Up Main Geometry Defects Midland 13.389km to 13.489km,13.389,13.489,4,1,2021-07-24,2021-08-21
+MTMUP,Midland Line,Up,Up Main Ashfield MTMDN 6.700km to 7.100km,6.7,7.1,4,1,2022-01-29,2022-02-19
+RTM,Mandurah Line,Unknown,RTMDN 37.550KM - 37.650km,37.55,37.65,4,1,2026-02-15,2026-03-08
+RTMUP,Mandurah Line,Up,Mandurah Up Main Thornlie 2.350km to 2.500km,2.35,2.5,4,1,2021-07-24,2021-08-21
+RTMUP,Mandurah Line,Up,Mandurah Up Main Welshpool 8.400km to 8.200km,8.2,8.4,4,1,2021-07-24,2021-08-21
+UNCLASSIFIED,Unclassified,Unknown,Damage MTMDN 7.900km - 8.150km,7.9,8.15,4,1,2024-05-12,2024-06-02
+UNCLASSIFIED,Unclassified,Down,Down Main 3rd Party City West FTMUP 3.600km to 3.760km,3.6,3.76,4,1,2022-01-29,2022-02-19
+UNCLASSIFIED,Unclassified,Unknown,South Perth 2.690 km to 2.866 km,2.69,2.866,4,2,2020-08-15,2020-09-05
+UNCLASSIFIED,Unclassified,Down,Up Main design issues Mount MTMDN 0.800 to 1.300km Down,0.8,1.3,4,1,2022-01-29,2022-02-19
+UNCLASSIFIED,Unclassified,Unknown,deformation East MTMDN 11.930km to 12.315km,11.93,12.315,4,1,2022-01-29,2022-02-19
+UNCLASSIFIED,Unclassified,Unknown,issues City 0.990km to 1.150km,0.99,1.15,4,1,2021-02-06,2021-02-27
+ATM,Armadale Line,Unknown,14 Kenwick Station .270 to 14 .460k m,,,3,1,2019-07-27,2019-08-10
+ATM,Armadale Line,Unknown,25 Kelmscott to Challis .975 to 26 .140k m,,,3,1,2019-07-27,2019-08-10
+ATM,Armadale Line,Unknown,ATMUP 0.6300km TO 0.7300km,0.63,0.73,3,1,2023-04-08,2023-04-23
+ATM,Armadale Line,Unknown,ATMUP 1.844km - 1.920km,1.844,1.92,3,1,2025-06-29,2025-07-13
+ATM,Armadale Line,Unknown,ATMUP 16.8200km - 17.000km,16.82,16.82,3,1,2025-06-01,2025-06-29
+ATM,Armadale Line,Unknown,ATMUP 9.8800km - 10.1900km,9.88,10.19,3,3,2023-11-12,2023-11-26
+ATM,Armadale Line,Unknown,ATMUP 9.8800km to 10.1900km,9.88,10.19,3,1,2023-10-22,2023-11-05
+ATM,Armadale Line,Unknown,Gosnells to 19 .300 to 19 .000k m,,,3,1,2019-07-27,2019-08-10
+ATM,Armadale Line,Unknown,Maddington to 18.010 to 16th,18.01,18.01,3,1,2019-09-21,2019-10-05
+ATM,Armadale Line,Unknown,Rd Directional Works Armadale ATMUP 29.350km to 29.411km,29.35,29.411,3,1,2021-11-13,2021-11-27
+ATM,Armadale Line,Unknown,issues Armadale 18.100km to 18.250km,18.1,18.25,3,1,2020-12-19,2021-01-16
+ATMBI,Armadale Line,Bidirectional,Armadale Bi-di Line Cockburn 21.270km to 21.170km,21.17,21.27,3,1,2021-07-31,2021-08-21
+ATMBI,Armadale Line,Bidirectional,Railhead Armadale - ATMBI 29.411km to 29.710km Bi-,29.411,29.71,3,1,2021-11-13,2021-11-27
+FTM,Fremantle Line,Unknown,FTMDN 1.1900km - 1.0900km,1.09,1.19,3,1,2024-07-07,2024-07-21
+FTM,Fremantle Line,Unknown,FTMDN 6.950km - 7.170km,6.95,7.17,3,2,2024-08-11,2024-09-01
+FTM,Fremantle Line,Unknown,FTMDP 6.9500km - 7.1700km,6.95,7.17,3,1,2024-04-21,2024-05-05
+FTM,Fremantle Line,Unknown,FTMUM 6.9500km - 7.1700km,6.95,7.17,3,1,2024-04-21,2024-05-05
+FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 1.070 km,0.16,1.07,3,1,2026-05-03,2026-05-17
+FTM,Fremantle Line,Unknown,FTMUP 1.4500km to 1.9300km,1.45,1.93,3,2,2023-10-22,2023-11-05
+FTM,Fremantle Line,Unknown,FTMUP 4.748km - 4.920km,4.748,4.92,3,1,2025-12-21,2026-01-04
+FTM,Fremantle Line,Unknown,FTMUP 4.9400km to 5.6410km,4.94,5.641,3,1,2023-08-11,2023-08-25
+FTMDN,Fremantle Line,Down,Fremantle Down Main 2021 Mount 0.900 to 1.300km,0.9,1.3,3,1,2020-12-19,2021-01-16
+FTMDN,Fremantle Line,Down,Fremantle Down Main Mount 0.800 to 1.300km,0.8,1.3,3,1,2021-04-06,2021-04-17
+JTM,Joondalup Line,Yard,Acr Nowergup Yard oss 37 & 38,,,3,1,2019-06-29,2019-07-13
+JTM,Joondalup Line,Unknown,JTMDM 25.8480km - 25.9600km,25.848,25.96,3,1,2024-07-07,2024-07-21
+JTM,Joondalup Line,Unknown,JTMDN 15.8250km - 15.9520km,15.825,15.952,3,1,2024-02-04,2024-02-18
+JTM,Joondalup Line,Unknown,JTMDN 19.1500km - 20.1500km,19.15,20.15,3,1,2024-07-07,2024-07-21
+JTM,Joondalup Line,Unknown,JTMDN 2.227km - 2.462km,2.227,2.462,3,1,2025-11-30,2025-12-14
+JTM,Joondalup Line,Unknown,JTMUP 8.6890km - 8.9890km,8.689,8.989,3,1,2024-07-07,2024-07-21
+JTMDN,Joondalup Line,Down,Lawley Main Internal Defect Whitfords 19.150 to 20.150km Down,19.15,20.15,3,1,2021-07-31,2021-08-21
+JTMDN,Joondalup Line,Down,Lawley Main Rail Internal Defect Whitfords 19.150 to 20.150km Down,19.15,20.15,3,1,2021-08-28,2021-09-11
+MTM,Midland Line,Unknown,Bassendean to 9.200km to,9.2,9.2,3,1,2019-09-21,2019-10-05
+MTM,Midland Line,Unknown,MTMDN 0.7400km - 1.3000km,0.74,1.3,3,1,2023-11-12,2023-11-26
+MTM,Midland Line,Unknown,MTMDN 0.7400km to 1.3000km,0.74,1.3,3,1,2023-10-22,2023-11-05
+MTM,Midland Line,Unknown,MTMDN 2.2840km - 2.933km,2.284,2.933,3,2,2025-10-12,2025-10-26
+MTM,Midland Line,Unknown,MTMDN 9.5600km to 9.6800km,9.56,9.68,3,1,2023-10-22,2023-11-05
+MTM,Midland Line,Unknown,MTMUN 8.1000km - 8.2000km,8.1,8.2,3,1,2024-02-04,2024-02-18
+MTM,Midland Line,Unknown,Mundijong Directional Railhead Guildford MTMDN 10.250km to 10.350km,10.25,10.35,3,1,2021-11-13,2021-11-27
+MTMBI,Midland Line,Bidirectional,Mundijong Armadale Bi-Directional Guildford 10.250km to 10.350km,10.25,10.35,3,1,2021-07-31,2021-08-21
+MTMBI,Midland Line,Bidirectional,Mundijong Armadale Bi-Directional Railhead Guildford 10.250km to 10.350km,10.25,10.35,3,1,2021-08-28,2021-09-11
+MTMDN,Midland Line,Down,Midland Down Main Wellard 38.366km to 38.466km,38.366,38.466,3,1,2021-07-31,2021-08-21
+RTMBI,Mandurah Line,Bidirectional,Mundijong Bidirectional Elizabeth RTMUP,,,3,1,2022-02-26,2022-03-12
+RTMDN,Mandurah Line,Down,Down Main Rockingham RTMUP 43.067km to 42.065km,42.065,43.067,3,1,2021-11-13,2021-11-27
+RTMUP,Mandurah Line,Up,Mandurah Up Main Defect Thornlie 2.350km to 2.500km,2.35,2.5,3,1,2021-07-10,2021-08-14
+UNCLASSIFIED,Unclassified,Unknown,ARMUP 19.240km - 19.5070km,19.24,19.507,3,1,2024-06-16,2024-06-30
+UNCLASSIFIED,Unclassified,Unknown,ARMUP 19.294km - 19.5070km,19.294,19.507,3,1,2024-07-07,2024-07-21
+UNCLASSIFIED,Unclassified,Unknown,Beyond Service 21.012km - 26.000km N/A,21.012,21.012,3,1,2024-07-07,2024-07-21
+UNCLASSIFIED,Unclassified,Unknown,JTXBI 53.9470km - 54.1120km,53.947,54.112,3,2,2024-07-07,2024-07-21
+UNCLASSIFIED,Unclassified,Unknown,Main Abernethy 36.734km to 36.834km,36.734,36.834,3,1,2021-07-24,2021-09-04
+UNCLASSIFIED,Unclassified,Unknown,Main Abernethy Rd 36.734km to 36.834km,36.734,36.834,3,1,2021-07-31,2021-08-21
+UNCLASSIFIED,Unclassified,Unknown,Main Works Abernethy 36.734km to 36.834km,36.734,36.834,3,1,2021-07-10,2021-08-14
+UNCLASSIFIED,Unclassified,Up,Up Main design issues City 0.990km to 1.150km,0.99,1.15,3,1,2021-04-06,2021-04-17
+UNCLASSIFIED,Unclassified,Up,Up Main issues North 18.800 to 18.920km,18.8,18.92,3,1,2021-04-06,2021-04-17
+ATM,Armadale Line,Unknown,40.8740km ATMUP 16.8200km - 17.0000km 40.8740km ATMUP 16.8200km - 17.0000km,16.82,40.874,2,1,2023-11-12,2023-11-19
+ATM,Armadale Line,Unknown,Gosnells to Maddington,,,2,1,2019-11-02,2019-11-09
+ATM,Armadale Line,Unknown,issues Armadale 19.900km to 20.100km,19.9,20.1,2,1,2021-01-23,2021-01-30
+ATMBI,Armadale Line,Bidirectional,Rd Armadale Bi-di Line Thornlie 2.350km to 2.500km,2.35,2.5,2,1,2021-08-28,2021-09-04
+ATMBI,Armadale Line,Bidirectional,Rd Armadale Bi-di Line Works Sherwood 26.700km to 26.800km,26.7,26.8,2,1,2021-07-10,2021-07-17
+ATMDN,Armadale Line,Down,Armadale Down Main Defect Cockburn 21.270km to 21.170km,21.17,21.27,2,1,2021-07-10,2021-07-17
+ATMDN,Armadale Line,Down,Down Main Armadale 24.030km to 24.930km,24.03,24.93,2,1,2020-12-26,2021-01-16
+ATMDN,Armadale Line,Down,Mandurah Down Main Beckenham 12.980km to 13.080km,12.98,13.08,2,1,2021-07-31,2021-08-07
+ATMUP,Armadale Line,Up,25.848km Up Main issues Beckenham 12.725km to 25.848km Up Main issues Beckenham 12.725km to,12.725,25.848,2,1,2020-12-05,2020-12-12
+ATMUP,Armadale Line,Up,Armadale Line Up Main Geometry Defects Armadale 29.350km to 29.710km,29.35,29.71,2,1,2021-08-28,2021-09-04
+ATMUP,Armadale Line,Up,Up Main Armadale 24.030km to 24.930km,24.03,24.93,2,1,2020-12-26,2021-01-16
+CP,City / Central Area,Unknown,CPDM 0.8480km to 1.3320km,0.848,1.332,2,1,2023-10-29,2023-11-05
+FTM,Fremantle Line,Unknown,26.000km FTMUP 9.5800KM - 9.5800km 26.000km FTMUP 9.5800KM - 9.5800km,9.58,9.58,2,1,2023-11-12,2023-11-19
+FTM,Fremantle Line,Unknown,FTMDN 8.310km - 8.8620km,8.31,8.862,2,2,2025-02-16,2025-02-23
+FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 1.0810km,0.16,1.081,2,1,2025-07-06,2025-07-13
+FTM,Fremantle Line,Unknown,FTMUP 1.730km - 1.916km,1.73,1.916,2,1,2025-03-23,2025-03-30
+FTM,Fremantle Line,Unknown,FTMUP 18.593km - 18.500km,18.5,18.593,2,1,2025-03-09,2025-03-16
+FTM,Fremantle Line,Unknown,FTMUP 19.4800km -20.0200km,19.48,20.02,2,1,2024-03-10,2024-03-17
+FTM,Fremantle Line,Unknown,FTMUP 19.490km - 19-750km,19.49,19.49,2,1,2025-06-08,2025-06-15
+FTM,Fremantle Line,Unknown,FTMUP 6.9500km to 7.1700km,6.95,7.17,2,1,2023-10-29,2023-11-05
+FTM,Fremantle Line,Unknown,Showgrounds,,,2,1,2019-12-07,2019-12-14
+FTMDN,Fremantle Line,Down,Fremantle Down Main Mount 0.900 to 1.300km,0.9,1.3,2,1,2020-12-05,2020-12-12
+FTMDN,Fremantle Line,Down,Fremantle Down Main Mount Lawley 0.900 to 1.300km,0.9,1.3,2,1,2021-01-23,2021-01-30
+JTM,Joondalup Line,Unknown,25-05019 JTMDN 19.150km - 20.150km,19.15,20.15,2,1,2026-05-10,2026-05-17
+JTM,Joondalup Line,Unknown,JTMDM 25.840km - 25.9600km,25.84,25.96,2,1,2024-06-23,2024-06-30
+JTM,Joondalup Line,Unknown,JTMDN 2.227KM - 2.462km,2.227,2.462,2,1,2025-11-16,2025-11-23
+JTM,Joondalup Line,Unknown,Joondalup D own Main,,,2,1,2020-08-29,2020-09-05
+JTM,Joondalup Line,Unknown,Joondalup Main,,,2,1,2020-08-15,2020-08-22
+JTM,Joondalup Line,Unknown,Leederville- Stirling,,,2,1,2019-01-18,2019-01-25
+JTM,Joondalup Line,Unknown,Whitfords Main,,,2,1,2020-08-29,2020-09-05
+JTM,Joondalup Line,Unknown,design issues Whitfords 20.150km to,20.15,20.15,2,1,2020-12-05,2020-12-12
+JTMDN,Joondalup Line,Down,25.960km Down Main issues Joondalup 25.960km to 25.960km Down Main issues Joondalup 25.960km to,25.96,25.96,2,1,2020-12-05,2020-12-12
+JTMDN,Joondalup Line,Down,Lawley Down Main Noise Whitfords 19.150 to 20.150km,19.15,20.15,2,1,2020-12-05,2020-12-12
+JTMUP,Joondalup Line,Up,Up Main Leederville 2.300km to 2.350km,2.3,2.35,2,1,2021-01-23,2021-01-30
+JTMUP,Joondalup Line,Up,Up Main issues Joondalup 25.848km to,25.848,25.848,2,1,2020-12-05,2020-12-12
+JTMUP,Joondalup Line,Up,Whitfords Up Main,,,2,1,2020-08-15,2020-08-22
+MTM,Midland Line,Unknown,11.230km to 11.330km Guildford 11.230km to 11.330km Guildford,11.23,11.33,2,1,2020-09-12,2020-09-19
+MTM,Midland Line,Unknown,Direction Bassendean 7.900km to 8.150km,7.9,8.15,2,1,2020-12-05,2020-12-12
+MTM,Midland Line,Unknown,MTMDN 11.750km - 11.850km,11.75,11.85,2,1,2024-08-11,2024-08-18
+MTM,Midland Line,Unknown,MTMDN 11.9300KM TO 12.3150,11.93,12.315,2,1,2023-03-18,2023-03-25
+MTM,Midland Line,Unknown,MTMDN 8.1000km - 8.2000km,8.1,8.2,2,1,2024-01-21,2024-01-28
+MTM,Midland Line,Unknown,MTMUP 3.147km - 3.454km,3.147,3.454,2,1,2025-08-03,2025-08-10
+MTM,Midland Line,Unknown,MTMUP 8.1000km - 8.2000km N/A,8.1,8.2,2,1,2024-06-16,2024-06-23
+MTM,Midland Line,Unknown,design issues Bassendean 8.200km to 8.100km,8.1,8.2,2,1,2020-12-05,2020-12-12
+MTMDN,Midland Line,Down,Midland Down Main Bayswater 5.114km to 5.214km,5.114,5.214,2,1,2021-08-28,2021-09-04
+MTMDN,Midland Line,Down,Midland Line Down Main Armadale 29.373km to 41.430km,29.373,41.43,2,1,2021-07-31,2021-08-07
+RTM,Mandurah Line,Unknown,RTMDN 2.0000km - 2.1000km,2.1,2.1,2,1,2024-07-07,2024-07-14
+RTM,Mandurah Line,Unknown,RTMDN 2.000km - 2.110km,2.11,2.11,2,1,2025-02-23,2025-03-02
+RTM,Mandurah Line,Unknown,RTMDN 21.105km - 21.240km,21.105,21.24,2,1,2025-02-09,2025-02-16
+RTM,Mandurah Line,Unknown,RTMDN 9.7800km - 9.8800km,9.78,9.88,2,1,2024-07-07,2024-07-14
+RTM,Mandurah Line,Unknown,Rd Directional Works Rockingham RTMUP 43.067km to 42.065km,42.065,43.067,2,1,2021-12-04,2021-12-25
+RTMDN,Mandurah Line,Down,Mandurah Down Main Welshpool 8.400km to 8.200km,8.2,8.4,2,1,2021-08-28,2021-09-04
+TTM,Thornlie Line,Unknown,0.660km Thornlie Line North 18.800 to 18.920km 0.660km Thornlie Line North 18.800 to 18.920km,0.66,18.8,2,1,2020-12-05,2020-12-12
+TTM,Thornlie Line,Unknown,Thornlie Line,,,2,1,2019-11-02,2019-11-09
+TTMDN,Thornlie Line,Down,Down Main Thornlie TTMBI 2.276 km to 2.565 km,2.276,2.565,2,1,2022-04-30,2022-05-14
+UNCLASSIFIED,Unclassified,Unknown,25 Jun 21 Claisebrook 0.850km to 0.950km,0.85,0.95,2,1,2021-07-10,2021-07-17
+UNCLASSIFIED,Unclassified,Unknown,Civil FTMUP 1.4500km - 1.9300km,1.45,1.93,2,1,2024-01-28,2024-02-04
+UNCLASSIFIED,Unclassified,Unknown,Curve Wear & RCF FTMUP 14.880km - 15.278km,14.88,15.278,2,1,2024-07-28,2024-08-04
+UNCLASSIFIED,Unclassified,Unknown,Damage FTMDN 6.950km - 7.170km,6.95,7.17,2,1,2024-07-28,2024-08-04
+UNCLASSIFIED,Unclassified,Unknown,Damage FTMDP 6.9500km - 7.1700km,6.95,7.17,2,1,2024-04-28,2024-05-05
+UNCLASSIFIED,Unclassified,Down,Down Main City 0.990km to 1.150km,0.99,1.15,2,1,2021-01-23,2021-01-30
+UNCLASSIFIED,Unclassified,Down,Down Main Claisebrook 0.850km to 0.950km,0.85,0.95,2,1,2021-01-23,2021-01-30
+UNCLASSIFIED,Unclassified,Unknown,Review Mundijong to 40.874km to,40.874,40.874,2,1,2020-12-05,2020-12-12
+UNCLASSIFIED,Unclassified,Unknown,TBCTBD by FTMUP 0.1600km - 0.6700km,0.16,0.67,2,1,2024-01-28,2024-02-04
+UNCLASSIFIED,Unclassified,Unknown,Ultrasonic Defect RRP Scope ATMUP 9.8800km - 10.1900km,9.88,10.19,2,1,2024-02-11,2024-02-18
+UNCLASSIFIED,Unclassified,Unknown,issues,,,2,2,2020-08-08,2020-08-08
+ATM,Armadale Line,Unknown,ATMBI 1.138km - 1.138km,1.138,1.138,1,1,2025-08-03,2025-08-03
+ATM,Armadale Line,Unknown,ATMDN 03.275km - 03.417km,3.275,3.417,1,1,2025-08-31,2025-08-31
+ATM,Armadale Line,Unknown,ATMDN 08-180km 08.280km,8.28,8.28,1,1,2025-11-09,2025-11-09
+ATM,Armadale Line,Unknown,ATMDN 16.000km - 21.350km,21.35,21.35,1,1,2025-07-27,2025-07-27
+ATM,Armadale Line,Unknown,ATMUP 19.294km - 19.507km,19.294,19.507,1,1,2025-06-29,2025-06-29
+ATM,Armadale Line,Unknown,Beckenham M ain Armad ale,,,1,1,2020-11-21,2020-11-21
+ATM,Armadale Line,Unknown,Main Armadale 29.597km to 41.430km,29.597,41.43,1,1,2021-07-24,2021-07-24
+ATM,Armadale Line,Unknown,Railhead Armadale - ATMBI 29.411km to 29.710km,29.411,29.71,1,1,2021-11-06,2021-11-06
+ATMBI,Armadale Line,Bidirectional,Mundijong Bi-Directional Railhead Armadale - ATMBI 40.747km to 40.874km,40.747,40.874,1,1,2021-11-06,2021-11-06
+ATMBI,Armadale Line,Bidirectional,Rd Armadale Bi-di Line Cockburn 21.142km to 21.242km,21.142,21.242,1,1,2021-09-11,2021-09-11
+ATMBI,Armadale Line,Bidirectional,Rd Armadale Bi-di Line Cockburn 21.270km to 21.170km,21.17,21.27,1,1,2021-07-24,2021-07-24
+ATMBI,Armadale Line,Bidirectional,Rd Armadale Bi-di Line Works Cockburn 21.270km to 21.170km,21.17,21.27,1,1,2021-08-14,2021-08-14
+ATMBI,Armadale Line,Bidirectional,Rd Bi-Directional Works Armadale ATMUP 29.350km to 29.411km,29.35,29.411,1,1,2021-11-06,2021-11-06
+ATMDN,Armadale Line,Down,12.725km to 12.955km Down Beckenham Main Armadale Line & to 12.725km to 12.955km Down Beckenham Main Armadale Line & to,12.725,12.955,1,1,2020-08-08,2020-08-08
+ATMDN,Armadale Line,Down,2020 Queens Park 9.450 to 9.550km Down Main,9.45,9.55,1,1,2020-08-08,2020-08-08
+ATMUP,Armadale Line,Up,Armadale Line Up Main Defect Claisebrook 0.735km to 0.275km,0.275,0.735,1,1,2021-08-14,2021-08-14
+ATMUP,Armadale Line,Up,Gosnells to 19.300 to 19.000km Up 6th November,19.3,19.3,1,1,2019-10-26,2019-10-26
+ATMUP,Armadale Line,Up,Kelmscott to 25.975 to 26.140km Up 27th August,25.975,26.14,1,1,2019-10-26,2019-10-26
+CP,City / Central Area,Unknown,CPUM 1.5000km TO 1.7000km,1.5,1.7,1,1,2023-10-15,2023-10-15
+CTM,City / Central Area,Unknown,CTMDN 1.190km - 1.090km,1.09,1.19,1,1,2024-09-01,2024-09-01
+CTM,City / Central Area,Unknown,CTMDN 1.872km - 1.172km,1.172,1.872,1,1,2025-08-03,2025-08-03
+FTM,Fremantle Line,Unknown,09/04/2024 FTMUP 20.7650km - 20.8500km,20.765,20.85,1,1,2024-04-14,2024-04-14
+FTM,Fremantle Line,Unknown,18/02/2024 FTMUP 19.4800km - 20.0200km,19.48,20.02,1,1,2024-02-25,2024-02-25
+FTM,Fremantle Line,Unknown,24/04/2024 FTMUP 20.7650km - 20.8500km,20.765,20.85,1,1,2024-04-21,2024-04-21
+FTM,Fremantle Line,Unknown,40.8740km FTMUP 9.5800km - 9.5800km 40.8740km FTMUP 9.5800km - 9.5800km,9.58,40.874,1,1,2024-06-09,2024-06-09
+FTM,Fremantle Line,Unknown,8.00 Fremantle Line 0 to 8.539 U p 8.00 Fremantle Line 0 to 8.539 U p,8.539,8.539,1,1,2019-03-23,2019-03-23
+FTM,Fremantle Line,Unknown,8.6 Fremantle Line 51 to 8.851 8.6 Fremantle Line 51 to 8.851,8.6,8.851,1,1,2019-03-23,2019-03-23
+FTM,Fremantle Line,Unknown,FTMDM 225 / Claisebrook,,,1,1,2024-01-14,2024-01-14
+FTM,Fremantle Line,Unknown,FTMDM 225 / McIver,,,1,1,2024-01-14,2024-01-14
+FTM,Fremantle Line,Unknown,FTMDM 319 / Subiaco,,,1,1,2024-01-14,2024-01-14
+FTM,Fremantle Line,Unknown,FTMDN 14.9350km - 15.0350km,14.935,15.035,1,1,2024-08-11,2024-08-11
+FTM,Fremantle Line,Unknown,FTMDN 14.935km - 16.450km,14.935,16.45,1,1,2025-03-16,2025-03-16
+FTM,Fremantle Line,Unknown,FTMDN 3.623km - 3.819km,3.623,3.819,1,1,2025-09-14,2025-09-14
+FTM,Fremantle Line,Unknown,FTMDN 5.3000km - 5.2000,5.2,5.3,1,1,2024-06-09,2024-06-09
+FTM,Fremantle Line,Unknown,FTMDN 6.9500km - 7.1700km N/A,6.95,7.17,1,1,2024-06-09,2024-06-09
+FTM,Fremantle Line,Unknown,FTMDN 7.870km - 8-950km,7.87,7.87,1,1,2025-02-09,2025-02-09
+FTM,Fremantle Line,Unknown,FTMDN 8.7620km - 8.8620km,8.762,8.862,1,1,2024-08-11,2024-08-11
+FTM,Fremantle Line,Unknown,FTMDN F08-900km - F08-900km,,,1,1,2025-06-22,2025-06-22
+FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.6700,0.16,0.67,1,1,2024-06-09,2024-06-09
+FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 0.6700km N/A,0.16,0.67,1,1,2024-06-16,2024-06-16
+FTM,Fremantle Line,Unknown,FTMUP 0.1600km - 08.000km,0.16,0.16,1,1,2025-10-12,2025-10-12
+FTM,Fremantle Line,Unknown,FTMUP 15.7200km - 16.1750km,15.72,16.175,1,1,2024-07-07,2024-07-07
+FTM,Fremantle Line,Unknown,FTMUP 19.440KM - 19.793km,19.44,19.793,1,1,2025-11-23,2025-11-23
+FTM,Fremantle Line,Unknown,FTMUP 3.588km - 3.849km,3.588,3.849,1,1,2025-09-21,2025-09-21
+FTM,Fremantle Line,Unknown,FTMUP 4.750km - 5.200km,4.75,5.2,1,1,2025-09-14,2025-09-14
+FTM,Fremantle Line,Unknown,Fremantle - Pedestrian TBA Section,,,1,1,2019-10-26,2019-10-26
+FTM,Fremantle Line,Unknown,Fremantle - Section,,,1,1,2020-08-08,2020-08-08
+FTM,Fremantle Line,Unknown,Fremantle - September Pedestrian Crossing Section,,,1,1,2020-11-28,2020-11-28
+FTM,Fremantle Line,Unknown,Fremantle Bridge,,,1,1,2020-04-18,2020-04-18
+FTM,Fremantle Line,Unknown,Lawley Claisebrook 0.160km to 0.950km Fremantle,0.16,0.95,1,1,2021-10-09,2021-10-09
+FTM,Fremantle Line,Unknown,Robbs Jetty Directional Review Bassendean MTMDN 7.900km to 8.150km,7.9,8.15,1,1,2022-04-09,2022-04-09
+FTM,Fremantle Line,Unknown,Robbs Jetty Review Mundijong 40.874km to 40.747km,40.747,40.874,1,1,2021-07-24,2021-07-24
+FTM,Fremantle Line,Unknown,Speed Fremantle - FTMBI 21.012km to 26.000km B-,21.012,21.012,1,1,2022-04-09,2022-04-09
+FTM,Fremantle Line,Unknown,orth Fremantle 18 .920km D own,,,1,1,2020-11-21,2020-11-21
+FTMDN,Fremantle Line,Down,11 October North Fremantle 18.800 to 18.920km Down Main,18.8,18.92,1,1,2020-08-08,2020-08-08
+FTMDN,Fremantle Line,Down,18.800 to 18.920km Down North Fremantle 18.800 to 18.920km Down North Fremantle,18.8,18.92,1,1,2020-11-28,2020-11-28
+FTMDN,Fremantle Line,Down,Armadale Down Main Karrakatta 9.580km Fremantle Up,9.58,9.58,1,1,2021-05-08,2021-05-08
+FTMDN,Fremantle Line,Down,Fremantle Down Main Works Denny Ave 24.560km to 25.140km,24.56,25.14,1,1,2021-05-08,2021-05-08
+FTMUP,Fremantle Line,Up,Fremantle Up Main Claisebrook 0.875km to 1.650km,0.875,1.65,1,1,2021-05-08,2021-05-08
+FTMUP,Fremantle Line,Up,design issues Karrakatta 9.580km Fremantle Up Main,9.58,9.58,1,1,2021-10-09,2021-10-09
+JTM,Joondalup Line,Unknown,Defect Whitfords 19.150 to 20.150km,19.15,20.15,1,1,2021-08-14,2021-08-14
+JTM,Joondalup Line,Unknown,JTMDN 14.935km - 15.035km,14.935,15.035,1,1,2024-08-25,2024-08-25
+JTM,Joondalup Line,Unknown,Joondalup - 2 2.942 to 2 3.184,2.942,3.184,1,1,2019-07-20,2019-07-20
+JTM,Joondalup Line,Unknown,Joondalup 25 .960km D own,,,1,1,2020-11-21,2020-11-21
+JTM,Joondalup Line,Unknown,Main issues Joondalup 25.848km to 25.960km,25.848,25.96,1,1,2021-08-14,2021-08-14
+JTM,Joondalup Line,Unknown,Whitfords 20 .150km D own,,,1,1,2020-11-21,2020-11-21
+JTMDN,Joondalup Line,Down,Down Main Joondalup 25.960km to 25.848km,25.848,25.96,1,1,2021-07-24,2021-07-24
+JTMDN,Joondalup Line,Down,Lawley Down Main Rail Internal Defect Whitfords 19.150 to 20.150km,19.15,20.15,1,1,2021-07-24,2021-07-24
+JTMDN,Joondalup Line,Down,Turnout defects Mid-August Whitfords 19.150 to 20.150km Down Main,19.15,20.15,1,1,2020-08-08,2020-08-08
+JTMUP,Joondalup Line,Up,Lawley Up Main Whitfords JTMDN 19.150 to 20.150km,19.15,20.15,1,1,2021-11-06,2021-11-06
+JTMUP,Joondalup Line,Up,Turnout defects Mid-August Whitfords 20.150km to 19.150km Up Main,19.15,20.15,1,1,2020-08-08,2020-08-08
+JTMUP,Joondalup Line,Up,Up Main Joondalup 25.848km to 25.960km,25.848,25.96,1,1,2021-07-24,2021-07-24
+JTMUP,Joondalup Line,Up,Whitfords 20.150km to 19.150km Up Main,19.15,20.15,1,1,2021-10-09,2021-10-09
+MTM,Midland Line,Unknown,Bassendean 8 .150km Do wn,,,1,1,2020-11-21,2020-11-21
+MTM,Midland Line,Unknown,Directional Guildford 10.250km to 10.350km,10.25,10.35,1,1,2021-07-24,2021-07-24
+MTM,Midland Line,Unknown,MTMDN 0.400km - 1.300km,0.4,1.3,1,1,2024-09-01,2024-09-01
+MTM,Midland Line,Unknown,MTMDN 11.120km - 11.370km,11.12,11.37,1,1,2025-06-15,2025-06-15
+MTM,Midland Line,Unknown,MTMDN 13.2300km - 13.4000km N/A,13.23,13.4,1,1,2024-02-25,2024-02-25
+MTM,Midland Line,Unknown,MTMDN 4.1400km - 5.4300km,4.14,5.43,1,1,2024-04-14,2024-04-14
+MTM,Midland Line,Unknown,MTMDN 7.900km - 8.180km,7.9,8.18,1,1,2025-03-23,2025-03-23
+MTM,Midland Line,Unknown,MTMUP 13.950km - 13.400km,13.4,13.95,1,1,2024-08-11,2024-08-11
+MTM,Midland Line,Unknown,MTMUP 4.1740km - 4.4690km,4.174,4.469,1,1,2024-02-25,2024-02-25
+MTM,Midland Line,Unknown,MTMUP 9.200km - 9-548km,9.2,9.2,1,1,2026-02-08,2026-02-08
+MTMBI,Midland Line,Bidirectional,Mundijong Bi-Directional Guildford MTMDN 10.250km to 10.350km,10.25,10.35,1,1,2021-11-06,2021-11-06
+MTMDN,Midland Line,Down,Down Main design issues Bassendean 8.200km to 8.100km Up,8.1,8.2,1,1,2021-08-14,2021-08-14
+MTMDN,Midland Line,Down,Midland Down Main Rockingham 43.067km to 42.065km,42.065,43.067,1,1,2021-09-11,2021-09-11
+MTMDN,Midland Line,Down,Midland Line Down Main Armadale 29.350km to 29.710km,29.35,29.71,1,1,2021-08-21,2021-08-21
+MTMDN,Midland Line,Down,Turnout defects Bassendean 7.900km to 8.150km Down Main,7.9,8.15,1,1,2020-08-08,2020-08-08
+MTMUP,Midland Line,Up,Armadale Line Up Main Geometry Defects Guildford 10.250km to 10.350km,10.25,10.35,1,1,2021-08-14,2021-08-14
+RTM,Mandurah Line,Unknown,RTMDN 37.550km - 37.650km,37.55,37.65,1,1,2026-03-15,2026-03-15
+RTM,Mandurah Line,Unknown,RTMDN 53.660km - 53.760km,53.66,53.76,1,1,2025-01-26,2025-01-26
+RTM,Mandurah Line,Unknown,RTMUP 37.000 - 37.300km,37.3,37.3,1,1,2025-03-30,2025-03-30
+RTM,Mandurah Line,Unknown,RTMUP 55.930km - 56.330km,55.93,56.33,1,1,2025-02-02,2025-02-02
+RTMBI,Mandurah Line,Bidirectional,Thornlie Bi-directional Defect Cockburn 21.142km to 21.242km,21.142,21.242,1,1,2021-08-14,2021-08-14
+RTMDN,Mandurah Line,Down,19.550km to 21.210km Down Cockburn 19.550km to 21.210km Down Cockburn,19.55,21.21,1,1,2020-08-08,2020-08-08
+RTMDN,Mandurah Line,Down,36.070km to 36.405km Down Wellard 36.070km to 36.405km Down Wellard,36.07,36.405,1,1,2020-08-08,2020-08-08
+RTMDN,Mandurah Line,Down,Down Main Defects Rockingham RTMUP 43.067km to 42.065km,42.065,43.067,1,1,2021-11-06,2021-11-06
+RTMDN,Mandurah Line,Down,Kwinana to 34.900km to 35.600km Down,34.9,35.6,1,1,2020-08-08,2020-08-08
+RTMDN,Mandurah Line,Down,Mandurah Down Main Rockingham 43.410km to 43.910km,43.41,43.91,1,1,2021-08-21,2021-08-21
+RTMUP,Mandurah Line,Up,Mandurah Up Main Defect Welshpool 8.400km to 8.200km,8.2,8.4,1,1,2021-08-14,2021-08-14
+RTMUP,Mandurah Line,Up,issues Rockingham 43.060km to 42.650km Up Main,42.65,43.06,1,1,2020-08-08,2020-08-08
+TTM,Thornlie Line,Unknown,(Thornlie Line) to Thornlie Line,,,1,1,2019-10-26,2019-10-26
+UNCLASSIFIED,Unclassified,Unknown,11 September South Perth 2.690km to 2.866km,2.69,2.866,1,1,2020-09-12,2020-09-12
+UNCLASSIFIED,Unclassified,Unknown,ARMUP 16.8200km - 17.0000km N/A,16.82,16.82,1,1,2024-06-16,2024-06-16
+UNCLASSIFIED,Unclassified,Unknown,ATUP 16.8200km - 17.000km,16.82,16.82,1,1,2024-06-09,2024-06-09
+UNCLASSIFIED,Unclassified,Unknown,ATUP 19.2940km - 19.5070,19.294,19.507,1,1,2024-06-09,2024-06-09
+UNCLASSIFIED,Unclassified,Unknown,Beyond Service 21.012km -,21.012,21.012,1,1,2023-11-12,2023-11-12
+UNCLASSIFIED,Unclassified,Unknown,Damage FTMUP 6.8000km - 7.7900KM,6.8,7.79,1,1,2024-06-09,2024-06-09
+UNCLASSIFIED,Unclassified,Down,Down Mains) East Perth 4.883km to,4.883,4.883,1,1,2018-09-01,2018-09-01
+UNCLASSIFIED,Unclassified,Unknown,FREDN 19.039km - 19.750km,19.039,19.75,1,1,2025-08-24,2025-08-24
+UNCLASSIFIED,Unclassified,Unknown,FXO3BI 11.630km - 11.680km,11.63,11.68,1,1,2026-03-22,2026-03-22
+UNCLASSIFIED,Unclassified,Unknown,Gauge Corner 11 September South Perth 2.690km to 2.866km,2.69,2.866,1,1,2020-08-08,2020-08-08
+UNCLASSIFIED,Unclassified,Unknown,Jetty Review 2011 East Perth 0.250km to,0.25,0.25,1,1,2018-09-01,2018-09-01
+UNCLASSIFIED,Unclassified,Down,Lawley Mount 0.800 to 1.300km Down Main,0.8,1.3,1,1,2021-10-09,2021-10-09
+UNCLASSIFIED,Unclassified,Unknown,Main Xing issues Abernethy 36.734km to 36.834km,36.734,36.834,1,1,2021-09-11,2021-09-11
+UNCLASSIFIED,Unclassified,Down,Mount Lawley 0.900 to 1.300km Down Main,0.9,1.3,1,1,2020-08-08,2020-08-08
+UNCLASSIFIED,Unclassified,Up,Mundijong to 40.747km Up,40.747,40.747,1,1,2020-11-21,2020-11-21
+UNCLASSIFIED,Unclassified,Up,Mundijong to 40.874km to 40.747km Up 13 January,40.747,40.874,1,1,2020-11-28,2020-11-28
+UNCLASSIFIED,Unclassified,Down,North 18.800 to 18.920km Down 26 February,18.8,18.92,1,1,2020-11-07,2020-11-07
+UNCLASSIFIED,Unclassified,Unknown,Perth,,,1,1,2019-12-21,2019-12-21
+UNCLASSIFIED,Unclassified,Bidirectional,Rd Bi-Directional Dalziel St ATMUP 16.820km to 17.000km,16.82,16.82,1,1,2022-04-09,2022-04-09
+UNCLASSIFIED,Unclassified,Bidirectional,Rd Bi-Directional Works 2022 Dalziel St ATMUP 16.820km to 17.000km,16.82,16.82,1,1,2022-04-16,2022-04-16
+UNCLASSIFIED,Unclassified,Unknown,Speed Imposed Restriction Cancelled MTMDN 7.900km - 8.150km,7.9,8.15,1,1,2025-03-30,2025-03-30
+UNCLASSIFIED,Unclassified,Unknown,TBA FTMDP 6.9500km - 7.1700km,6.95,7.17,1,1,2024-04-21,2024-04-21
+UNCLASSIFIED,Unclassified,Unknown,TBA FTMUP 6.9500km - 7.1700km,6.95,7.17,1,1,2024-04-14,2024-04-14
+UNCLASSIFIED,Unclassified,Unknown,TBC FTMUP 14.8800km - 15.2780km,14.88,15.278,1,1,2024-02-25,2024-02-25
+UNCLASSIFIED,Unclassified,Up,Up Main Mount 0.620 to 1.300km,0.62,1.3,1,1,2021-07-24,2021-07-24
+UNCLASSIFIED,Unclassified,Up,Up Main Ped Xing issues Mount MTMDN 0.800 to 1.300km,0.8,1.3,1,1,2021-11-06,2021-11-06
+UNCLASSIFIED,Unclassified,Up,Up Main design issues Claisebrook FTMUP 0.160km to 0.950km,0.16,0.95,1,1,2021-11-06,2021-11-06
+UNCLASSIFIED,Unclassified,Down,Up Main issues Mount 0.620 to 1.300km Down,0.62,1.3,1,1,2021-08-14,2021-08-14
+UNCLASSIFIED,Unclassified,Up,design issues Mount 0.717 to 1.625km Up Main,0.717,1.625,1,1,2021-10-09,2021-10-09

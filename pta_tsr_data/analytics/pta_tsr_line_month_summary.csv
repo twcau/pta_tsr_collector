@@ -1,0 +1,682 @@
+﻿year,month,year_month,line_key,line_name,location_direction,restriction_occurrences,distinct_tsr_count
+2018,09,2018-09,FTM,Fremantle Line,Unknown,5,1
+2018,09,2018-09,UNCLASSIFIED,Unclassified,Down,1,1
+2018,09,2018-09,UNCLASSIFIED,Unclassified,Unknown,1,1
+2018,10,2018-10,FTM,Fremantle Line,Unknown,4,1
+2018,11,2018-11,FTM,Fremantle Line,Unknown,4,1
+2018,12,2018-12,FTM,Fremantle Line,Unknown,5,1
+2019,01,2019-01,FTM,Fremantle Line,Unknown,4,1
+2019,01,2019-01,JTM,Joondalup Line,Unknown,2,1
+2019,03,2019-03,FTM,Fremantle Line,Unknown,4,4
+2019,03,2019-03,JTM,Joondalup Line,Unknown,2,2
+2019,04,2019-04,FTM,Fremantle Line,Unknown,2,1
+2019,04,2019-04,JTM,Joondalup Line,Unknown,2,1
+2019,05,2019-05,FTM,Fremantle Line,Unknown,4,1
+2019,05,2019-05,JTM,Joondalup Line,Unknown,4,1
+2019,06,2019-06,FTM,Fremantle Line,Unknown,6,2
+2019,06,2019-06,JTM,Joondalup Line,Unknown,6,2
+2019,06,2019-06,JTM,Joondalup Line,Yard,1,1
+2019,07,2019-07,ATM,Armadale Line,Unknown,3,3
+2019,07,2019-07,FTM,Fremantle Line,Unknown,6,4
+2019,07,2019-07,JTM,Joondalup Line,Unknown,7,5
+2019,07,2019-07,JTM,Joondalup Line,Yard,4,2
+2019,08,2019-08,ATM,Armadale Line,Unknown,12,6
+2019,08,2019-08,FTM,Fremantle Line,Unknown,4,2
+2019,08,2019-08,JTM,Joondalup Line,Unknown,4,2
+2019,08,2019-08,JTM,Joondalup Line,Yard,4,2
+2019,09,2019-09,ATM,Armadale Line,Unknown,12,4
+2019,09,2019-09,FTM,Fremantle Line,Unknown,4,1
+2019,09,2019-09,JTM,Joondalup Line,Unknown,4,1
+2019,09,2019-09,JTM,Joondalup Line,Yard,4,1
+2019,09,2019-09,MTM,Midland Line,Unknown,2,1
+2019,10,2019-10,ATM,Armadale Line,Unknown,3,3
+2019,10,2019-10,ATMUP,Armadale Line,Up,2,2
+2019,10,2019-10,FTM,Fremantle Line,Unknown,2,2
+2019,10,2019-10,JTM,Joondalup Line,Unknown,1,1
+2019,10,2019-10,JTM,Joondalup Line,Yard,1,1
+2019,10,2019-10,MTM,Midland Line,Unknown,1,1
+2019,10,2019-10,TTM,Thornlie Line,Unknown,1,1
+2019,11,2019-11,ATM,Armadale Line,Unknown,10,4
+2019,11,2019-11,FTM,Fremantle Line,Unknown,5,2
+2019,11,2019-11,JTM,Joondalup Line,Unknown,8,3
+2019,11,2019-11,TTM,Thornlie Line,Unknown,2,1
+2019,12,2019-12,ATM,Armadale Line,Unknown,6,2
+2019,12,2019-12,FTM,Fremantle Line,Unknown,6,2
+2019,12,2019-12,JTM,Joondalup Line,Unknown,6,2
+2019,12,2019-12,UNCLASSIFIED,Unclassified,Unknown,1,1
+2020,01,2020-01,ATM,Armadale Line,Unknown,7,2
+2020,01,2020-01,FTM,Fremantle Line,Unknown,4,1
+2020,01,2020-01,JTM,Joondalup Line,Unknown,4,2
+2020,02,2020-02,ATM,Armadale Line,Unknown,9,2
+2020,02,2020-02,FTM,Fremantle Line,Unknown,5,1
+2020,02,2020-02,JTM,Joondalup Line,Unknown,6,3
+2020,02,2020-02,MTM,Midland Line,Unknown,2,1
+2020,02,2020-02,RTM,Mandurah Line,Unknown,11,5
+2020,02,2020-02,UNCLASSIFIED,Unclassified,Unknown,5,1
+2020,03,2020-03,ATM,Armadale Line,Unknown,4,1
+2020,03,2020-03,FTM,Fremantle Line,Unknown,4,1
+2020,03,2020-03,JTM,Joondalup Line,Unknown,13,4
+2020,03,2020-03,MTM,Midland Line,Unknown,4,1
+2020,03,2020-03,RTM,Mandurah Line,Unknown,12,4
+2020,03,2020-03,UNCLASSIFIED,Unclassified,Unknown,4,1
+2020,04,2020-04,ATM,Armadale Line,Unknown,2,1
+2020,04,2020-04,FTM,Fremantle Line,Unknown,5,2
+2020,04,2020-04,JTM,Joondalup Line,Unknown,18,5
+2020,04,2020-04,MTM,Midland Line,Unknown,3,3
+2020,04,2020-04,RTM,Mandurah Line,Unknown,11,4
+2020,04,2020-04,UNCLASSIFIED,Unclassified,Unknown,4,1
+2020,05,2020-05,FTM,Fremantle Line,Unknown,4,1
+2020,05,2020-05,JTM,Joondalup Line,Unknown,17,9
+2020,05,2020-05,MTM,Midland Line,Unknown,8,5
+2020,05,2020-05,RTM,Mandurah Line,Unknown,8,2
+2020,05,2020-05,UNCLASSIFIED,Unclassified,Unknown,4,1
+2020,06,2020-06,FTM,Fremantle Line,Unknown,4,1
+2020,06,2020-06,JTM,Joondalup Line,Unknown,16,4
+2020,06,2020-06,MTM,Midland Line,Unknown,8,2
+2020,06,2020-06,RTM,Mandurah Line,Unknown,10,3
+2020,06,2020-06,UNCLASSIFIED,Unclassified,Unknown,4,1
+2020,07,2020-07,FTM,Fremantle Line,Unknown,3,1
+2020,07,2020-07,JTM,Joondalup Line,Unknown,12,4
+2020,07,2020-07,MTM,Midland Line,Unknown,6,2
+2020,07,2020-07,RTM,Mandurah Line,Unknown,9,3
+2020,07,2020-07,UNCLASSIFIED,Unclassified,Unknown,3,1
+2020,08,2020-08,ATM,Armadale Line,Unknown,3,2
+2020,08,2020-08,ATMDN,Armadale Line,Down,5,4
+2020,08,2020-08,FTM,Fremantle Line,Unknown,2,2
+2020,08,2020-08,FTMDN,Fremantle Line,Down,1,1
+2020,08,2020-08,JTM,Joondalup Line,Unknown,14,9
+2020,08,2020-08,JTMDN,Joondalup Line,Down,1,1
+2020,08,2020-08,JTMUP,Joondalup Line,Up,3,2
+2020,08,2020-08,MTM,Midland Line,Unknown,8,6
+2020,08,2020-08,MTMDN,Midland Line,Down,1,1
+2020,08,2020-08,RTM,Mandurah Line,Unknown,8,6
+2020,08,2020-08,RTMDN,Mandurah Line,Down,3,3
+2020,08,2020-08,RTMUP,Mandurah Line,Up,1,1
+2020,08,2020-08,UNCLASSIFIED,Unclassified,Down,1,1
+2020,08,2020-08,UNCLASSIFIED,Unclassified,Unknown,13,10
+2020,09,2020-09,ATM,Armadale Line,Unknown,1,1
+2020,09,2020-09,ATMDN,Armadale Line,Down,7,3
+2020,09,2020-09,FTM,Fremantle Line,Unknown,3,1
+2020,09,2020-09,JTM,Joondalup Line,Unknown,7,4
+2020,09,2020-09,JTMUP,Joondalup Line,Up,3,1
+2020,09,2020-09,MTM,Midland Line,Unknown,4,3
+2020,09,2020-09,MTMUP,Midland Line,Up,3,1
+2020,09,2020-09,RTM,Mandurah Line,Unknown,1,1
+2020,09,2020-09,UNCLASSIFIED,Unclassified,Down,6,2
+2020,09,2020-09,UNCLASSIFIED,Unclassified,Unknown,4,4
+2020,09,2020-09,UNCLASSIFIED,Unclassified,Up,3,1
+2020,10,2020-10,ATMDN,Armadale Line,Down,6,2
+2020,10,2020-10,FTM,Fremantle Line,Unknown,5,1
+2020,10,2020-10,JTM,Joondalup Line,Unknown,5,1
+2020,10,2020-10,JTMUP,Joondalup Line,Up,5,1
+2020,10,2020-10,MTMUP,Midland Line,Up,5,1
+2020,10,2020-10,UNCLASSIFIED,Unclassified,Down,10,2
+2020,10,2020-10,UNCLASSIFIED,Unclassified,Up,5,1
+2020,11,2020-11,ATM,Armadale Line,Unknown,1,1
+2020,11,2020-11,ATMDN,Armadale Line,Down,2,1
+2020,11,2020-11,FTM,Fremantle Line,Unknown,3,3
+2020,11,2020-11,FTMDN,Fremantle Line,Down,1,1
+2020,11,2020-11,JTM,Joondalup Line,Unknown,5,4
+2020,11,2020-11,JTMUP,Joondalup Line,Up,1,1
+2020,11,2020-11,MTM,Midland Line,Unknown,1,1
+2020,11,2020-11,MTMUP,Midland Line,Up,1,1
+2020,11,2020-11,UNCLASSIFIED,Unclassified,Down,3,2
+2020,11,2020-11,UNCLASSIFIED,Unclassified,Unknown,2,2
+2020,11,2020-11,UNCLASSIFIED,Unclassified,Up,3,3
+2020,12,2020-12,ATM,Armadale Line,Unknown,2,1
+2020,12,2020-12,ATMDN,Armadale Line,Down,1,1
+2020,12,2020-12,ATMUP,Armadale Line,Up,7,4
+2020,12,2020-12,FTM,Fremantle Line,Unknown,6,3
+2020,12,2020-12,FTMDN,Fremantle Line,Down,4,2
+2020,12,2020-12,JTM,Joondalup Line,Unknown,4,2
+2020,12,2020-12,JTMDN,Joondalup Line,Down,8,4
+2020,12,2020-12,JTMUP,Joondalup Line,Up,4,2
+2020,12,2020-12,MTM,Midland Line,Unknown,6,2
+2020,12,2020-12,MTMUP,Midland Line,Up,2,1
+2020,12,2020-12,TTM,Thornlie Line,Unknown,4,2
+2020,12,2020-12,UNCLASSIFIED,Unclassified,Unknown,2,1
+2021,01,2021-01,ATM,Armadale Line,Unknown,3,2
+2021,01,2021-01,ATMDN,Armadale Line,Down,1,1
+2021,01,2021-01,ATMUP,Armadale Line,Up,7,4
+2021,01,2021-01,FTM,Fremantle Line,Unknown,6,2
+2021,01,2021-01,FTMDN,Fremantle Line,Down,3,1
+2021,01,2021-01,JTM,Joondalup Line,Unknown,3,1
+2021,01,2021-01,JTMDN,Joondalup Line,Down,6,2
+2021,01,2021-01,JTMUP,Joondalup Line,Up,5,2
+2021,01,2021-01,MTM,Midland Line,Unknown,3,1
+2021,01,2021-01,MTMUP,Midland Line,Up,3,1
+2021,01,2021-01,TTM,Thornlie Line,Unknown,3,1
+2021,01,2021-01,UNCLASSIFIED,Unclassified,Down,6,3
+2021,02,2021-02,ATMUP,Armadale Line,Up,4,1
+2021,02,2021-02,FTM,Fremantle Line,Unknown,8,2
+2021,02,2021-02,FTMDN,Fremantle Line,Down,4,1
+2021,02,2021-02,JTM,Joondalup Line,Unknown,4,1
+2021,02,2021-02,JTMDN,Joondalup Line,Down,8,2
+2021,02,2021-02,JTMUP,Joondalup Line,Up,4,1
+2021,02,2021-02,MTM,Midland Line,Unknown,4,1
+2021,02,2021-02,MTMUP,Midland Line,Up,4,1
+2021,02,2021-02,TTM,Thornlie Line,Unknown,4,1
+2021,02,2021-02,UNCLASSIFIED,Unclassified,Down,4,1
+2021,02,2021-02,UNCLASSIFIED,Unclassified,Unknown,4,1
+2021,02,2021-02,UNCLASSIFIED,Unclassified,Up,4,1
+2021,04,2021-04,ATMUP,Armadale Line,Up,4,1
+2021,04,2021-04,FTM,Fremantle Line,Unknown,12,3
+2021,04,2021-04,FTMDN,Fremantle Line,Down,7,2
+2021,04,2021-04,FTMUP,Fremantle Line,Up,8,2
+2021,04,2021-04,JTMDN,Joondalup Line,Down,12,2
+2021,04,2021-04,JTMUP,Joondalup Line,Up,4,1
+2021,04,2021-04,MTMDN,Midland Line,Down,4,1
+2021,04,2021-04,MTMUP,Midland Line,Up,4,1
+2021,04,2021-04,UNCLASSIFIED,Unclassified,Down,3,1
+2021,04,2021-04,UNCLASSIFIED,Unclassified,Up,11,4
+2021,05,2021-05,ATMDN,Armadale Line,Down,3,1
+2021,05,2021-05,ATMUP,Armadale Line,Up,5,3
+2021,05,2021-05,FTM,Fremantle Line,Unknown,12,3
+2021,05,2021-05,FTMDN,Fremantle Line,Down,3,3
+2021,05,2021-05,FTMUP,Fremantle Line,Up,7,3
+2021,05,2021-05,JTMDN,Joondalup Line,Down,15,2
+2021,05,2021-05,JTMUP,Joondalup Line,Up,5,1
+2021,05,2021-05,MTMDN,Midland Line,Down,5,1
+2021,05,2021-05,MTMUP,Midland Line,Up,5,1
+2021,05,2021-05,UNCLASSIFIED,Unclassified,Down,3,1
+2021,05,2021-05,UNCLASSIFIED,Unclassified,Unknown,3,1
+2021,05,2021-05,UNCLASSIFIED,Unclassified,Up,13,4
+2021,06,2021-06,ATMDN,Armadale Line,Down,3,1
+2021,06,2021-06,ATMUP,Armadale Line,Up,3,1
+2021,06,2021-06,FTM,Fremantle Line,Unknown,6,2
+2021,06,2021-06,FTMUP,Fremantle Line,Up,3,1
+2021,06,2021-06,JTMDN,Joondalup Line,Down,9,2
+2021,06,2021-06,JTMUP,Joondalup Line,Up,3,1
+2021,06,2021-06,MTMDN,Midland Line,Down,3,1
+2021,06,2021-06,MTMUP,Midland Line,Up,3,1
+2021,06,2021-06,UNCLASSIFIED,Unclassified,Down,3,1
+2021,06,2021-06,UNCLASSIFIED,Unclassified,Unknown,3,1
+2021,06,2021-06,UNCLASSIFIED,Unclassified,Up,9,3
+2021,07,2021-07,ATM,Armadale Line,Unknown,1,1
+2021,07,2021-07,ATMBI,Armadale Line,Bidirectional,4,2
+2021,07,2021-07,ATMDN,Armadale Line,Down,4,3
+2021,07,2021-07,ATMUP,Armadale Line,Up,3,2
+2021,07,2021-07,FTM,Fremantle Line,Unknown,9,3
+2021,07,2021-07,FTMUP,Fremantle Line,Up,6,3
+2021,07,2021-07,JTM,Joondalup Line,Unknown,1,1
+2021,07,2021-07,JTMDN,Joondalup Line,Down,14,4
+2021,07,2021-07,JTMUP,Joondalup Line,Up,5,3
+2021,07,2021-07,MTM,Midland Line,Unknown,1,1
+2021,07,2021-07,MTMBI,Midland Line,Bidirectional,1,1
+2021,07,2021-07,MTMDN,Midland Line,Down,7,5
+2021,07,2021-07,MTMUP,Midland Line,Up,7,3
+2021,07,2021-07,RTMBI,Mandurah Line,Bidirectional,2,1
+2021,07,2021-07,RTMUP,Mandurah Line,Up,6,3
+2021,07,2021-07,UNCLASSIFIED,Unclassified,Down,2,2
+2021,07,2021-07,UNCLASSIFIED,Unclassified,Unknown,8,4
+2021,07,2021-07,UNCLASSIFIED,Unclassified,Up,7,4
+2021,08,2021-08,ATMBI,Armadale Line,Bidirectional,4,3
+2021,08,2021-08,ATMDN,Armadale Line,Down,1,1
+2021,08,2021-08,ATMUP,Armadale Line,Up,5,2
+2021,08,2021-08,FTM,Fremantle Line,Unknown,5,3
+2021,08,2021-08,FTMUP,Fremantle Line,Up,7,3
+2021,08,2021-08,JTM,Joondalup Line,Unknown,5,3
+2021,08,2021-08,JTMDN,Joondalup Line,Down,8,4
+2021,08,2021-08,JTMUP,Joondalup Line,Up,3,1
+2021,08,2021-08,MTMBI,Midland Line,Bidirectional,3,1
+2021,08,2021-08,MTMDN,Midland Line,Down,9,6
+2021,08,2021-08,MTMUP,Midland Line,Up,7,4
+2021,08,2021-08,RTMBI,Mandurah Line,Bidirectional,4,2
+2021,08,2021-08,RTMDN,Mandurah Line,Down,2,2
+2021,08,2021-08,RTMUP,Mandurah Line,Up,6,4
+2021,08,2021-08,UNCLASSIFIED,Unclassified,Down,4,2
+2021,08,2021-08,UNCLASSIFIED,Unclassified,Unknown,7,3
+2021,08,2021-08,UNCLASSIFIED,Unclassified,Up,1,1
+2021,09,2021-09,ATMBI,Armadale Line,Bidirectional,4,2
+2021,09,2021-09,ATMDN,Armadale Line,Down,3,1
+2021,09,2021-09,ATMUP,Armadale Line,Up,2,2
+2021,09,2021-09,FTM,Fremantle Line,Unknown,6,3
+2021,09,2021-09,FTMUP,Fremantle Line,Up,8,4
+2021,09,2021-09,JTM,Joondalup Line,Unknown,5,2
+2021,09,2021-09,JTMDN,Joondalup Line,Down,8,3
+2021,09,2021-09,JTMUP,Joondalup Line,Up,6,2
+2021,09,2021-09,MTMBI,Midland Line,Bidirectional,4,1
+2021,09,2021-09,MTMDN,Midland Line,Down,6,3
+2021,09,2021-09,MTMUP,Midland Line,Up,4,2
+2021,09,2021-09,RTMBI,Mandurah Line,Bidirectional,1,1
+2021,09,2021-09,RTMDN,Mandurah Line,Down,3,2
+2021,09,2021-09,UNCLASSIFIED,Unclassified,Down,4,1
+2021,09,2021-09,UNCLASSIFIED,Unclassified,Unknown,6,3
+2021,10,2021-10,ATMBI,Armadale Line,Bidirectional,4,1
+2021,10,2021-10,ATMDN,Armadale Line,Down,4,1
+2021,10,2021-10,FTM,Fremantle Line,Unknown,8,3
+2021,10,2021-10,FTMUP,Fremantle Line,Up,8,2
+2021,10,2021-10,JTM,Joondalup Line,Unknown,4,1
+2021,10,2021-10,JTMDN,Joondalup Line,Down,8,2
+2021,10,2021-10,JTMUP,Joondalup Line,Up,9,3
+2021,10,2021-10,MTMBI,Midland Line,Bidirectional,4,1
+2021,10,2021-10,MTMDN,Midland Line,Down,4,1
+2021,10,2021-10,MTMUP,Midland Line,Up,4,1
+2021,10,2021-10,RTMDN,Mandurah Line,Down,4,1
+2021,10,2021-10,UNCLASSIFIED,Unclassified,Down,5,2
+2021,10,2021-10,UNCLASSIFIED,Unclassified,Unknown,4,1
+2021,10,2021-10,UNCLASSIFIED,Unclassified,Up,1,1
+2021,11,2021-11,ATM,Armadale Line,Unknown,4,2
+2021,11,2021-11,ATMBI,Armadale Line,Bidirectional,8,3
+2021,11,2021-11,ATMDN,Armadale Line,Down,4,1
+2021,11,2021-11,FTM,Fremantle Line,Unknown,7,3
+2021,11,2021-11,FTMBI,Fremantle Line,Bidirectional,1,1
+2021,11,2021-11,FTMUP,Fremantle Line,Up,3,1
+2021,11,2021-11,JTM,Joondalup Line,Unknown,6,2
+2021,11,2021-11,JTMDN,Joondalup Line,Down,4,1
+2021,11,2021-11,JTMUP,Joondalup Line,Up,10,3
+2021,11,2021-11,MTM,Midland Line,Unknown,3,1
+2021,11,2021-11,MTMBI,Midland Line,Bidirectional,1,1
+2021,11,2021-11,MTMDN,Midland Line,Down,4,1
+2021,11,2021-11,MTMUP,Midland Line,Up,3,1
+2021,11,2021-11,RTMDN,Mandurah Line,Down,4,1
+2021,11,2021-11,UNCLASSIFIED,Unclassified,Bidirectional,3,1
+2021,11,2021-11,UNCLASSIFIED,Unclassified,Down,8,4
+2021,11,2021-11,UNCLASSIFIED,Unclassified,Up,9,5
+2021,12,2021-12,ATMBI,Armadale Line,Bidirectional,2,1
+2021,12,2021-12,FTM,Fremantle Line,Unknown,4,2
+2021,12,2021-12,FTMUP,Fremantle Line,Up,2,1
+2021,12,2021-12,JTM,Joondalup Line,Unknown,4,2
+2021,12,2021-12,JTMDN,Joondalup Line,Down,2,1
+2021,12,2021-12,JTMUP,Joondalup Line,Up,4,2
+2021,12,2021-12,MTMDN,Midland Line,Down,2,1
+2021,12,2021-12,MTMUP,Midland Line,Up,2,1
+2021,12,2021-12,RTM,Mandurah Line,Unknown,2,1
+2021,12,2021-12,UNCLASSIFIED,Unclassified,Bidirectional,2,1
+2021,12,2021-12,UNCLASSIFIED,Unclassified,Down,6,3
+2021,12,2021-12,UNCLASSIFIED,Unclassified,Up,2,1
+2022,01,2022-01,ATMBI,Armadale Line,Bidirectional,1,1
+2022,01,2022-01,FTM,Fremantle Line,Unknown,2,2
+2022,01,2022-01,FTMUP,Fremantle Line,Up,1,1
+2022,01,2022-01,JTM,Joondalup Line,Unknown,3,3
+2022,01,2022-01,JTMDN,Joondalup Line,Down,1,1
+2022,01,2022-01,JTMUP,Joondalup Line,Up,1,1
+2022,01,2022-01,MTMDN,Midland Line,Down,1,1
+2022,01,2022-01,MTMUP,Midland Line,Up,1,1
+2022,01,2022-01,RTM,Mandurah Line,Unknown,1,1
+2022,01,2022-01,UNCLASSIFIED,Unclassified,Bidirectional,1,1
+2022,01,2022-01,UNCLASSIFIED,Unclassified,Down,4,4
+2022,01,2022-01,UNCLASSIFIED,Unclassified,Unknown,1,1
+2022,01,2022-01,UNCLASSIFIED,Unclassified,Up,1,1
+2022,02,2022-02,ATMBI,Armadale Line,Bidirectional,3,1
+2022,02,2022-02,ATMDN,Armadale Line,Down,1,1
+2022,02,2022-02,ATMUP,Armadale Line,Up,1,1
+2022,02,2022-02,FTM,Fremantle Line,Unknown,7,3
+2022,02,2022-02,FTMBI,Fremantle Line,Bidirectional,1,1
+2022,02,2022-02,FTMUP,Fremantle Line,Up,3,1
+2022,02,2022-02,JTM,Joondalup Line,Unknown,9,3
+2022,02,2022-02,JTMBI,Joondalup Line,Bidirectional,1,1
+2022,02,2022-02,JTMDN,Joondalup Line,Down,4,2
+2022,02,2022-02,JTMUP,Joondalup Line,Up,6,3
+2022,02,2022-02,MTMDN,Midland Line,Down,4,2
+2022,02,2022-02,MTMUP,Midland Line,Up,3,1
+2022,02,2022-02,RTM,Mandurah Line,Unknown,4,1
+2022,02,2022-02,RTMBI,Mandurah Line,Bidirectional,1,1
+2022,02,2022-02,UNCLASSIFIED,Unclassified,Bidirectional,4,2
+2022,02,2022-02,UNCLASSIFIED,Unclassified,Down,15,6
+2022,02,2022-02,UNCLASSIFIED,Unclassified,Unknown,3,1
+2022,02,2022-02,UNCLASSIFIED,Unclassified,Up,7,5
+2022,03,2022-03,ATMDN,Armadale Line,Down,3,1
+2022,03,2022-03,ATMUP,Armadale Line,Up,3,1
+2022,03,2022-03,FTM,Fremantle Line,Unknown,3,1
+2022,03,2022-03,FTMBI,Fremantle Line,Bidirectional,3,1
+2022,03,2022-03,JTMBI,Joondalup Line,Bidirectional,3,1
+2022,03,2022-03,JTMDN,Joondalup Line,Down,3,1
+2022,03,2022-03,JTMUP,Joondalup Line,Up,9,2
+2022,03,2022-03,MTMDN,Midland Line,Down,3,1
+2022,03,2022-03,RTM,Mandurah Line,Unknown,3,1
+2022,03,2022-03,RTMBI,Mandurah Line,Bidirectional,2,1
+2022,03,2022-03,UNCLASSIFIED,Unclassified,Bidirectional,3,1
+2022,03,2022-03,UNCLASSIFIED,Unclassified,Down,9,3
+2022,03,2022-03,UNCLASSIFIED,Unclassified,Up,12,4
+2022,04,2022-04,ATMDN,Armadale Line,Down,1,1
+2022,04,2022-04,ATMUP,Armadale Line,Up,4,1
+2022,04,2022-04,FTM,Fremantle Line,Unknown,7,4
+2022,04,2022-04,FTMBI,Fremantle Line,Bidirectional,1,1
+2022,04,2022-04,JTMBI,Joondalup Line,Bidirectional,1,1
+2022,04,2022-04,JTMDN,Joondalup Line,Down,4,2
+2022,04,2022-04,JTMUP,Joondalup Line,Up,12,3
+2022,04,2022-04,MTMDN,Midland Line,Down,4,2
+2022,04,2022-04,RTM,Mandurah Line,Unknown,4,1
+2022,04,2022-04,TTMDN,Thornlie Line,Down,1,1
+2022,04,2022-04,UNCLASSIFIED,Unclassified,Bidirectional,6,2
+2022,04,2022-04,UNCLASSIFIED,Unclassified,Down,9,4
+2022,04,2022-04,UNCLASSIFIED,Unclassified,Up,14,6
+2022,05,2022-05,ATMDN,Armadale Line,Down,2,1
+2022,05,2022-05,ATMUP,Armadale Line,Up,3,1
+2022,05,2022-05,FTM,Fremantle Line,Unknown,5,3
+2022,05,2022-05,FTMBI,Fremantle Line,Bidirectional,1,1
+2022,05,2022-05,JTMDN,Joondalup Line,Down,3,1
+2022,05,2022-05,JTMUP,Joondalup Line,Up,9,2
+2022,05,2022-05,MTMDN,Midland Line,Down,3,1
+2022,05,2022-05,RTM,Mandurah Line,Unknown,3,2
+2022,05,2022-05,TTMDN,Thornlie Line,Down,1,1
+2022,05,2022-05,UNCLASSIFIED,Unclassified,Bidirectional,3,1
+2022,05,2022-05,UNCLASSIFIED,Unclassified,Down,6,2
+2022,05,2022-05,UNCLASSIFIED,Unclassified,Up,9,3
+2022,06,2022-06,ATMDN,Armadale Line,Down,1,1
+2022,06,2022-06,ATMUP,Armadale Line,Up,1,1
+2022,06,2022-06,FTM,Fremantle Line,Unknown,1,1
+2022,06,2022-06,FTMBI,Fremantle Line,Bidirectional,1,1
+2022,06,2022-06,JTMDN,Joondalup Line,Down,1,1
+2022,06,2022-06,JTMUP,Joondalup Line,Up,3,2
+2022,06,2022-06,MTMDN,Midland Line,Down,1,1
+2022,06,2022-06,RTM,Mandurah Line,Unknown,1,1
+2022,06,2022-06,UNCLASSIFIED,Unclassified,Bidirectional,1,1
+2022,06,2022-06,UNCLASSIFIED,Unclassified,Down,2,2
+2022,06,2022-06,UNCLASSIFIED,Unclassified,Up,3,3
+2022,07,2022-07,ATMDN,Armadale Line,Down,3,1
+2022,07,2022-07,ATMUP,Armadale Line,Up,3,1
+2022,07,2022-07,FTM,Fremantle Line,Unknown,3,1
+2022,07,2022-07,FTMBI,Fremantle Line,Bidirectional,3,1
+2022,07,2022-07,JTMDN,Joondalup Line,Down,3,1
+2022,07,2022-07,JTMUP,Joondalup Line,Up,9,2
+2022,07,2022-07,MTMDN,Midland Line,Down,3,1
+2022,07,2022-07,RTM,Mandurah Line,Unknown,3,1
+2022,07,2022-07,UNCLASSIFIED,Unclassified,Bidirectional,3,1
+2022,07,2022-07,UNCLASSIFIED,Unclassified,Down,6,2
+2022,07,2022-07,UNCLASSIFIED,Unclassified,Up,9,3
+2022,08,2022-08,ATMDN,Armadale Line,Down,4,1
+2022,08,2022-08,ATMUP,Armadale Line,Up,4,1
+2022,08,2022-08,FTM,Fremantle Line,Unknown,4,1
+2022,08,2022-08,FTMBI,Fremantle Line,Bidirectional,4,1
+2022,08,2022-08,JTMDN,Joondalup Line,Down,4,1
+2022,08,2022-08,JTMUP,Joondalup Line,Up,12,2
+2022,08,2022-08,MTMDN,Midland Line,Down,4,1
+2022,08,2022-08,RTM,Mandurah Line,Unknown,4,1
+2022,08,2022-08,UNCLASSIFIED,Unclassified,Bidirectional,4,1
+2022,08,2022-08,UNCLASSIFIED,Unclassified,Down,8,2
+2022,08,2022-08,UNCLASSIFIED,Unclassified,Up,12,3
+2022,09,2022-09,ATMDN,Armadale Line,Down,4,1
+2022,09,2022-09,ATMUP,Armadale Line,Up,4,1
+2022,09,2022-09,FTM,Fremantle Line,Unknown,4,1
+2022,09,2022-09,FTMBI,Fremantle Line,Bidirectional,4,1
+2022,09,2022-09,JTMDN,Joondalup Line,Down,4,1
+2022,09,2022-09,JTMUP,Joondalup Line,Up,12,2
+2022,09,2022-09,MTMDN,Midland Line,Down,4,1
+2022,09,2022-09,RTM,Mandurah Line,Unknown,4,1
+2022,09,2022-09,UNCLASSIFIED,Unclassified,Bidirectional,4,1
+2022,09,2022-09,UNCLASSIFIED,Unclassified,Down,8,2
+2022,09,2022-09,UNCLASSIFIED,Unclassified,Up,12,3
+2022,10,2022-10,ATM,Armadale Line,Unknown,12,4
+2022,10,2022-10,ATMBI,Armadale Line,Bidirectional,3,1
+2022,10,2022-10,ATMDN,Armadale Line,Down,1,1
+2022,10,2022-10,ATMUP,Armadale Line,Up,1,1
+2022,10,2022-10,FTM,Fremantle Line,Unknown,10,4
+2022,10,2022-10,FTMBI,Fremantle Line,Bidirectional,1,1
+2022,10,2022-10,FTMUP,Fremantle Line,Up,6,2
+2022,10,2022-10,JTM,Joondalup Line,Unknown,3,1
+2022,10,2022-10,JTMDN,Joondalup Line,Down,4,2
+2022,10,2022-10,JTMUP,Joondalup Line,Up,9,4
+2022,10,2022-10,MTMDN,Midland Line,Down,4,2
+2022,10,2022-10,MTMUP,Midland Line,Up,3,1
+2022,10,2022-10,RTM,Mandurah Line,Unknown,4,2
+2022,10,2022-10,UNCLASSIFIED,Unclassified,Bidirectional,1,1
+2022,10,2022-10,UNCLASSIFIED,Unclassified,Down,5,3
+2022,10,2022-10,UNCLASSIFIED,Unclassified,Unknown,6,2
+2022,10,2022-10,UNCLASSIFIED,Unclassified,Up,6,4
+2022,11,2022-11,ATM,Armadale Line,Unknown,16,4
+2022,11,2022-11,ATMBI,Armadale Line,Bidirectional,4,1
+2022,11,2022-11,FTM,Fremantle Line,Unknown,12,3
+2022,11,2022-11,FTMUP,Fremantle Line,Up,8,2
+2022,11,2022-11,JTM,Joondalup Line,Unknown,4,1
+2022,11,2022-11,JTMDN,Joondalup Line,Down,4,1
+2022,11,2022-11,JTMUP,Joondalup Line,Up,8,2
+2022,11,2022-11,MTMDN,Midland Line,Down,4,1
+2022,11,2022-11,MTMUP,Midland Line,Up,4,1
+2022,11,2022-11,RTM,Mandurah Line,Unknown,4,1
+2022,11,2022-11,UNCLASSIFIED,Unclassified,Down,4,1
+2022,11,2022-11,UNCLASSIFIED,Unclassified,Unknown,8,2
+2022,11,2022-11,UNCLASSIFIED,Unclassified,Up,4,1
+2022,12,2022-12,ATM,Armadale Line,Unknown,24,9
+2022,12,2022-12,ATMBI,Armadale Line,Bidirectional,3,1
+2022,12,2022-12,FTM,Fremantle Line,Unknown,17,6
+2022,12,2022-12,FTMUP,Fremantle Line,Up,6,2
+2022,12,2022-12,JTM,Joondalup Line,Unknown,9,4
+2022,12,2022-12,JTMDN,Joondalup Line,Down,3,1
+2022,12,2022-12,JTMUP,Joondalup Line,Up,6,2
+2022,12,2022-12,MTM,Midland Line,Unknown,10,5
+2022,12,2022-12,MTMDN,Midland Line,Down,3,1
+2022,12,2022-12,MTMUP,Midland Line,Up,3,1
+2022,12,2022-12,RTM,Mandurah Line,Unknown,5,2
+2022,12,2022-12,UNCLASSIFIED,Unclassified,Down,3,1
+2022,12,2022-12,UNCLASSIFIED,Unclassified,Unknown,8,3
+2022,12,2022-12,UNCLASSIFIED,Unclassified,Up,3,1
+2023,01,2023-01,ATM,Armadale Line,Unknown,22,6
+2023,01,2023-01,FTM,Fremantle Line,Unknown,17,4
+2023,01,2023-01,JTM,Joondalup Line,Unknown,12,3
+2023,01,2023-01,MTM,Midland Line,Unknown,20,6
+2023,01,2023-01,RTM,Mandurah Line,Unknown,4,1
+2023,01,2023-01,UNCLASSIFIED,Unclassified,Unknown,4,2
+2023,02,2023-02,ATM,Armadale Line,Unknown,16,4
+2023,02,2023-02,FTM,Fremantle Line,Unknown,20,4
+2023,02,2023-02,JTM,Joondalup Line,Unknown,12,3
+2023,02,2023-02,MTM,Midland Line,Unknown,20,5
+2023,02,2023-02,RTM,Mandurah Line,Unknown,4,1
+2023,02,2023-02,UNCLASSIFIED,Unclassified,Unknown,4,1
+2023,03,2023-03,ATM,Armadale Line,Unknown,16,5
+2023,03,2023-03,FTM,Fremantle Line,Unknown,17,5
+2023,03,2023-03,JTM,Joondalup Line,Unknown,12,3
+2023,03,2023-03,MTM,Midland Line,Unknown,19,5
+2023,03,2023-03,RTM,Mandurah Line,Unknown,4,1
+2023,03,2023-03,UNCLASSIFIED,Unclassified,Unknown,4,1
+2023,04,2023-04,ATM,Armadale Line,Unknown,23,6
+2023,04,2023-04,FTM,Fremantle Line,Unknown,20,3
+2023,04,2023-04,JTM,Joondalup Line,Unknown,15,4
+2023,04,2023-04,MTM,Midland Line,Unknown,30,6
+2023,04,2023-04,RTM,Mandurah Line,Unknown,5,1
+2023,04,2023-04,UNCLASSIFIED,Unclassified,Unknown,5,1
+2023,05,2023-05,ATM,Armadale Line,Unknown,16,4
+2023,05,2023-05,FTM,Fremantle Line,Unknown,16,3
+2023,05,2023-05,JTM,Joondalup Line,Unknown,12,3
+2023,05,2023-05,MTM,Midland Line,Unknown,30,9
+2023,05,2023-05,RTM,Mandurah Line,Unknown,4,1
+2023,05,2023-05,UNCLASSIFIED,Unclassified,Unknown,4,1
+2023,06,2023-06,ATM,Armadale Line,Unknown,16,4
+2023,06,2023-06,FTM,Fremantle Line,Unknown,16,3
+2023,06,2023-06,JTM,Joondalup Line,Unknown,12,3
+2023,06,2023-06,MTM,Midland Line,Unknown,32,8
+2023,06,2023-06,RTM,Mandurah Line,Unknown,1,1
+2023,06,2023-06,UNCLASSIFIED,Unclassified,Unknown,4,1
+2023,07,2023-07,ATM,Armadale Line,Unknown,20,4
+2023,07,2023-07,FTM,Fremantle Line,Unknown,20,3
+2023,07,2023-07,JTM,Joondalup Line,Unknown,15,3
+2023,07,2023-07,MTM,Midland Line,Unknown,40,8
+2023,07,2023-07,RTM,Mandurah Line,Unknown,5,1
+2023,07,2023-07,UNCLASSIFIED,Unclassified,Unknown,5,1
+2023,08,2023-08,ATM,Armadale Line,Unknown,16,4
+2023,08,2023-08,FTM,Fremantle Line,Unknown,19,4
+2023,08,2023-08,JTM,Joondalup Line,Unknown,12,3
+2023,08,2023-08,MTM,Midland Line,Unknown,29,8
+2023,08,2023-08,RTM,Mandurah Line,Unknown,4,1
+2023,08,2023-08,UNCLASSIFIED,Unclassified,Unknown,4,1
+2023,09,2023-09,ATM,Armadale Line,Unknown,16,4
+2023,09,2023-09,FTM,Fremantle Line,Unknown,16,3
+2023,09,2023-09,JTM,Joondalup Line,Unknown,12,3
+2023,09,2023-09,MDM,Mandurah Line,Unknown,4,1
+2023,09,2023-09,MTM,Midland Line,Unknown,28,7
+2023,09,2023-09,RTM,Mandurah Line,Unknown,4,1
+2023,09,2023-09,UNCLASSIFIED,Unclassified,Unknown,4,1
+2023,10,2023-10,ATM,Armadale Line,Unknown,18,5
+2023,10,2023-10,CP,City / Central Area,Unknown,2,2
+2023,10,2023-10,FTM,Fremantle Line,Unknown,22,4
+2023,10,2023-10,JTM,Joondalup Line,Unknown,15,3
+2023,10,2023-10,MDM,Mandurah Line,Unknown,3,1
+2023,10,2023-10,MTM,Midland Line,Unknown,29,9
+2023,10,2023-10,RTM,Mandurah Line,Unknown,5,1
+2023,10,2023-10,UNCLASSIFIED,Unclassified,Unknown,5,1
+2023,11,2023-11,ATM,Armadale Line,Unknown,13,10
+2023,11,2023-11,CP,City / Central Area,Unknown,1,1
+2023,11,2023-11,FTM,Fremantle Line,Unknown,26,11
+2023,11,2023-11,JTM,Joondalup Line,Unknown,15,8
+2023,11,2023-11,MTM,Midland Line,Unknown,24,13
+2023,11,2023-11,RTM,Mandurah Line,Unknown,1,1
+2023,11,2023-11,UNCLASSIFIED,Unclassified,Unknown,7,3
+2023,12,2023-12,ATM,Armadale Line,Unknown,10,6
+2023,12,2023-12,FTM,Fremantle Line,Unknown,40,7
+2023,12,2023-12,JTM,Joondalup Line,Unknown,20,4
+2023,12,2023-12,MTM,Midland Line,Unknown,30,6
+2023,12,2023-12,UNCLASSIFIED,Unclassified,Unknown,10,2
+2024,01,2024-01,ATM,Armadale Line,Unknown,5,3
+2024,01,2024-01,FTM,Fremantle Line,Unknown,34,18
+2024,01,2024-01,JTM,Joondalup Line,Unknown,13,4
+2024,01,2024-01,MTM,Midland Line,Unknown,24,8
+2024,01,2024-01,UNCLASSIFIED,Unclassified,Unknown,12,6
+2024,02,2024-02,FTM,Fremantle Line,Unknown,32,16
+2024,02,2024-02,JTM,Joondalup Line,Unknown,16,5
+2024,02,2024-02,MTM,Midland Line,Unknown,22,7
+2024,02,2024-02,UNCLASSIFIED,Unclassified,Unknown,18,8
+2024,03,2024-03,FTM,Fremantle Line,Unknown,42,15
+2024,03,2024-03,JTM,Joondalup Line,Unknown,22,5
+2024,03,2024-03,MTM,Midland Line,Unknown,30,6
+2024,03,2024-03,UNCLASSIFIED,Unclassified,Unknown,16,4
+2024,04,2024-04,FTM,Fremantle Line,Unknown,15,9
+2024,04,2024-04,JTM,Joondalup Line,Unknown,15,5
+2024,04,2024-04,MTM,Midland Line,Unknown,19,7
+2024,04,2024-04,UNCLASSIFIED,Unclassified,Unknown,16,7
+2024,05,2024-05,FTM,Fremantle Line,Unknown,7,4
+2024,05,2024-05,JTM,Joondalup Line,Unknown,16,4
+2024,05,2024-05,MTM,Midland Line,Unknown,19,6
+2024,05,2024-05,UNCLASSIFIED,Unclassified,Unknown,18,7
+2024,06,2024-06,FTM,Fremantle Line,Unknown,14,6
+2024,06,2024-06,JTM,Joondalup Line,Unknown,20,5
+2024,06,2024-06,MTM,Midland Line,Unknown,28,8
+2024,06,2024-06,UNCLASSIFIED,Unclassified,Unknown,28,12
+2024,07,2024-07,FTM,Fremantle Line,Unknown,16,5
+2024,07,2024-07,JTM,Joondalup Line,Unknown,16,4
+2024,07,2024-07,MTM,Midland Line,Unknown,20,5
+2024,07,2024-07,RTM,Mandurah Line,Unknown,4,2
+2024,07,2024-07,UNCLASSIFIED,Unclassified,Unknown,28,11
+2024,08,2024-08,FTM,Fremantle Line,Unknown,16,11
+2024,08,2024-08,JTM,Joondalup Line,Unknown,17,5
+2024,08,2024-08,MTM,Midland Line,Unknown,25,8
+2024,08,2024-08,UNCLASSIFIED,Unclassified,Unknown,22,7
+2024,09,2024-09,CTM,City / Central Area,Unknown,1,1
+2024,09,2024-09,FTM,Fremantle Line,Unknown,33,9
+2024,09,2024-09,JTM,Joondalup Line,Unknown,22,6
+2024,09,2024-09,MTM,Midland Line,Unknown,37,10
+2024,09,2024-09,UNCLASSIFIED,Unclassified,Unknown,24,5
+2024,10,2024-10,FTM,Fremantle Line,Unknown,14,7
+2024,10,2024-10,JTM,Joondalup Line,Unknown,10,5
+2024,10,2024-10,MTM,Midland Line,Unknown,14,7
+2024,10,2024-10,UNCLASSIFIED,Unclassified,Unknown,10,5
+2024,11,2024-11,FTM,Fremantle Line,Unknown,6,6
+2024,11,2024-11,JTM,Joondalup Line,Unknown,7,7
+2024,11,2024-11,MTM,Midland Line,Unknown,8,8
+2024,11,2024-11,UNCLASSIFIED,Unclassified,Unknown,3,3
+2024,12,2024-12,FTM,Fremantle Line,Unknown,30,6
+2024,12,2024-12,JTM,Joondalup Line,Unknown,35,7
+2024,12,2024-12,MTM,Midland Line,Unknown,40,8
+2024,12,2024-12,UNCLASSIFIED,Unclassified,Unknown,15,3
+2025,01,2025-01,FTM,Fremantle Line,Unknown,24,6
+2025,01,2025-01,JTM,Joondalup Line,Unknown,28,8
+2025,01,2025-01,MTM,Midland Line,Unknown,31,9
+2025,01,2025-01,RTM,Mandurah Line,Unknown,1,1
+2025,01,2025-01,UNCLASSIFIED,Unclassified,Unknown,12,3
+2025,02,2025-02,FTM,Fremantle Line,Unknown,24,9
+2025,02,2025-02,JTM,Joondalup Line,Unknown,28,7
+2025,02,2025-02,MTM,Midland Line,Unknown,28,10
+2025,02,2025-02,RTM,Mandurah Line,Unknown,4,3
+2025,02,2025-02,UNCLASSIFIED,Unclassified,Unknown,12,3
+2025,03,2025-03,FTM,Fremantle Line,Unknown,44,14
+2025,03,2025-03,JTM,Joondalup Line,Unknown,27,9
+2025,03,2025-03,MTM,Midland Line,Unknown,35,11
+2025,03,2025-03,RTM,Mandurah Line,Unknown,3,3
+2025,03,2025-03,UNCLASSIFIED,Unclassified,Unknown,10,4
+2025,04,2025-04,FTM,Fremantle Line,Unknown,16,4
+2025,04,2025-04,JTM,Joondalup Line,Unknown,32,8
+2025,04,2025-04,MTM,Midland Line,Unknown,28,7
+2025,04,2025-04,RTM,Mandurah Line,Unknown,8,2
+2025,04,2025-04,UNCLASSIFIED,Unclassified,Unknown,12,4
+2025,05,2025-05,FTM,Fremantle Line,Unknown,23,7
+2025,05,2025-05,JTM,Joondalup Line,Unknown,32,9
+2025,05,2025-05,MTM,Midland Line,Unknown,25,7
+2025,05,2025-05,RTM,Mandurah Line,Unknown,4,1
+2025,05,2025-05,UNCLASSIFIED,Unclassified,Unknown,12,4
+2025,06,2025-06,ATM,Armadale Line,Unknown,6,4
+2025,06,2025-06,FTM,Fremantle Line,Unknown,29,9
+2025,06,2025-06,JTM,Joondalup Line,Unknown,39,8
+2025,06,2025-06,MTM,Midland Line,Unknown,26,6
+2025,06,2025-06,RTM,Mandurah Line,Unknown,5,1
+2025,06,2025-06,TTM,Thornlie Line,Unknown,1,1
+2025,06,2025-06,UNCLASSIFIED,Unclassified,Unknown,15,3
+2025,07,2025-07,ATM,Armadale Line,Unknown,7,3
+2025,07,2025-07,FTM,Fremantle Line,Unknown,20,6
+2025,07,2025-07,JTM,Joondalup Line,Unknown,28,7
+2025,07,2025-07,MTM,Midland Line,Unknown,20,6
+2025,07,2025-07,RTM,Mandurah Line,Unknown,4,1
+2025,07,2025-07,TTM,Thornlie Line,Unknown,4,1
+2025,07,2025-07,UNCLASSIFIED,Unclassified,Unknown,11,3
+2025,08,2025-08,ATM,Armadale Line,Unknown,2,2
+2025,08,2025-08,CTM,City / Central Area,Unknown,5,2
+2025,08,2025-08,FTM,Fremantle Line,Unknown,24,6
+2025,08,2025-08,JTM,Joondalup Line,Unknown,35,7
+2025,08,2025-08,MTM,Midland Line,Unknown,27,6
+2025,08,2025-08,RTM,Mandurah Line,Unknown,5,1
+2025,08,2025-08,TTM,Thornlie Line,Unknown,5,1
+2025,08,2025-08,UNCLASSIFIED,Unclassified,Unknown,11,3
+2025,09,2025-09,CTM,City / Central Area,Unknown,4,2
+2025,09,2025-09,FTM,Fremantle Line,Unknown,21,8
+2025,09,2025-09,JTM,Joondalup Line,Unknown,25,7
+2025,09,2025-09,MTM,Midland Line,Unknown,27,10
+2025,09,2025-09,RTM,Mandurah Line,Unknown,4,1
+2025,09,2025-09,TTM,Thornlie Line,Unknown,3,1
+2025,09,2025-09,UNCLASSIFIED,Unclassified,Unknown,8,2
+2025,10,2025-10,CTM,City / Central Area,Unknown,4,2
+2025,10,2025-10,FTM,Fremantle Line,Unknown,21,6
+2025,10,2025-10,JTM,Joondalup Line,Unknown,28,7
+2025,10,2025-10,MTM,Midland Line,Unknown,35,11
+2025,10,2025-10,RTM,Mandurah Line,Unknown,2,1
+2025,10,2025-10,TTM,Thornlie Line,Unknown,4,1
+2025,10,2025-10,UNCLASSIFIED,Unclassified,Unknown,8,4
+2025,11,2025-11,ATM,Armadale Line,Unknown,1,1
+2025,11,2025-11,CTM,City / Central Area,Unknown,5,2
+2025,11,2025-11,FTM,Fremantle Line,Unknown,28,10
+2025,11,2025-11,JTM,Joondalup Line,Unknown,39,10
+2025,11,2025-11,MTM,Midland Line,Unknown,35,7
+2025,11,2025-11,TTM,Thornlie Line,Unknown,5,1
+2025,11,2025-11,UNCLASSIFIED,Unclassified,Unknown,10,2
+2025,12,2025-12,CTM,City / Central Area,Unknown,4,1
+2025,12,2025-12,FTM,Fremantle Line,Unknown,28,10
+2025,12,2025-12,JTM,Joondalup Line,Unknown,36,12
+2025,12,2025-12,MTM,Midland Line,Unknown,28,7
+2025,12,2025-12,TTM,Thornlie Line,Unknown,4,1
+2025,12,2025-12,UNCLASSIFIED,Unclassified,Unknown,8,2
+2026,01,2026-01,CTM,City / Central Area,Unknown,4,1
+2026,01,2026-01,FTM,Fremantle Line,Unknown,22,8
+2026,01,2026-01,JTM,Joondalup Line,Unknown,36,9
+2026,01,2026-01,MTM,Midland Line,Unknown,28,7
+2026,01,2026-01,TTM,Thornlie Line,Unknown,4,1
+2026,01,2026-01,UNCLASSIFIED,Unclassified,Unknown,8,2
+2026,02,2026-02,CTM,City / Central Area,Unknown,3,2
+2026,02,2026-02,FTM,Fremantle Line,Unknown,20,6
+2026,02,2026-02,JTM,Joondalup Line,Unknown,31,8
+2026,02,2026-02,MTM,Midland Line,Unknown,26,8
+2026,02,2026-02,RTM,Mandurah Line,Unknown,2,1
+2026,02,2026-02,TTM,Thornlie Line,Unknown,4,1
+2026,02,2026-02,UNCLASSIFIED,Unclassified,Unknown,8,3
+2026,03,2026-03,CTM,City / Central Area,Unknown,5,1
+2026,03,2026-03,FTM,Fremantle Line,Unknown,25,5
+2026,03,2026-03,JTM,Joondalup Line,Unknown,35,8
+2026,03,2026-03,MTM,Midland Line,Unknown,25,5
+2026,03,2026-03,RTM,Mandurah Line,Unknown,3,1
+2026,03,2026-03,TTM,Thornlie Line,Unknown,5,1
+2026,03,2026-03,UNCLASSIFIED,Unclassified,Unknown,11,3
+2026,04,2026-04,CTM,City / Central Area,Unknown,4,1
+2026,04,2026-04,FTM,Fremantle Line,Unknown,18,6
+2026,04,2026-04,JTM,Joondalup Line,Unknown,25,9
+2026,04,2026-04,MTM,Midland Line,Unknown,20,6
+2026,04,2026-04,TTM,Thornlie Line,Unknown,4,1
+2026,04,2026-04,UNCLASSIFIED,Unclassified,Unknown,8,2
+2026,05,2026-05,CTM,City / Central Area,Unknown,5,1
+2026,05,2026-05,FTM,Fremantle Line,Unknown,18,6
+2026,05,2026-05,JTM,Joondalup Line,Unknown,20,4
+2026,05,2026-05,MTM,Midland Line,Unknown,25,6
+2026,05,2026-05,TTM,Thornlie Line,Unknown,5,1
+2026,05,2026-05,UNCLASSIFIED,Unclassified,Unknown,10,2
+2026,06,2026-06,CTM,City / Central Area,Unknown,4,2
+2026,06,2026-06,FTM,Fremantle Line,Unknown,12,3
+2026,06,2026-06,JTM,Joondalup Line,Unknown,16,4
+2026,06,2026-06,MTM,Midland Line,Unknown,17,6
+2026,06,2026-06,TTM,Thornlie Line,Unknown,4,1
+2026,06,2026-06,UNCLASSIFIED,Unclassified,Unknown,8,2
