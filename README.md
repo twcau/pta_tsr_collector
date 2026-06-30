@@ -1,6 +1,6 @@
 # PTA TSR Collector
 
-A Python-based collection and analysis pipeline for extracting **Temporary Speed Restriction (TSR)** data from Public Transport Authority of Western Australia (PTA) Weekly Notices.
+A Python-based collection and analysis pipeline for extracting **Temporary Speed Restriction (TSR)** data from [Public Transport Authority of Western Australia (PTA)](https://pta.wa.gov.au/) [Weekly Notices](https://www.pta.wa.gov.au/about-us/working-with-the-pta/safety-resources).
 
 The project discovers PTA Weekly Notice PDFs, downloads them, extracts the **Current Temporary Speed Restrictions / Current Speed Restrictions** table from each notice, stores the results in a resumable SQLite database, assigns recurring restrictions to master TSR records, and exports analysis-ready CSV files.
 
@@ -20,7 +20,7 @@ The project discovers PTA Weekly Notice PDFs, downloads them, extracts the **Cur
 
 ## Table of contents
 
-- [Table of contents](#table-of-contents)
+- [But what is a Temporary Speed Restriction (TSR)?](#but-what-is-a-temporary-speed-restriction-tsr)
 - [Why this project exists](#why-this-project-exists)
 - [What the collector does](#what-the-collector-does)
 - [What changed in v2.4.2](#what-changed-in-v242)
@@ -96,11 +96,43 @@ The project discovers PTA Weekly Notice PDFs, downloads them, extracts the **Cur
 - [Licence and attribution](#licence-and-attribution)
 - [Acknowledgement](#acknowledgement)
 
+
+## But what is a Temporary Speed Restriction (TSR)?
+
+The [Australian Rail Industry Standards Organisation (ARISO)](https://www.pta.wa.gov.au/about-us/working-with-the-pta/safety-resources) explains the purpose and principal of Temporary Speed Restrictions in its publication [Australian Network Rules And Procedures (ANRP) 3025 - Temporary Speed Restrictions](https://www.ariso.org.au/products/anrp-3025-temporary-speed-restrictions/).
+
+However, good luck getting this document if you don't work for a member railway of ARISO.
+
+In short - Temporary speed restrictions are operationally important because they can indicate infrastructure condition, defect remediation timelines, operational constraints, renewal backlogs, or recurring maintenance pressure points across a rail network.
+
+Taking the description from ARC Infrastructure's [Network Safeworking Rules and Procedures - Temporary Speed Restructions (Rule 3025)](https://www.arcinfra.com/ARCInfrastructure/media/documents/NetworkSafeworking/3025-Temporary-Speed-Restrictions-Version-2-01.pdf):
+
+> The object of a TSR is to reduce the speed of Rail Traffic to ensure safe passage over a Section of Track when the Track is not safe for Normal Speeds.
+
+It continues:
+
+> A TSR may be applied due to:
+> - Infrastructure conditions;
+> - risks to workers; or
+> - weather conditions.
+
+Which might give you an insight into why the public who uses passenger rail might be interested in TSR's - as these can have some of the biggest impact on our commutes, by slowing down trains from their regular speeds.
+
+And, if you're a really inquisitive type - and have read Page 197 of the [PTA Safeworking Rules and Procedures](https://www.pta.wa.gov.au/Portals/15/AA_DOCUMENTS/About_us/Working%20with%20PTA/Safety%20resources/9100-000-007%20-%20Safeworking%20Rules%20and%20Procedures.pdf?ver=q5dj38RHzzU_VVV-lAX4gA%3d%3d&timestamp=1782829406298); you'll see that their Temporary Speed Restrictions rules (Rule 3025) is the exact same text as Rule 3025 found in ARC Infrastructure's Safeworking Rules and Procedures.
+
+So no need to be a paying member of ARISO to read what Rule 3025 is.
+
 ## Why this project exists
 
-Temporary speed restrictions are operationally important because they can indicate infrastructure condition, defect remediation timelines, operational constraints, renewal backlogs, or recurring maintenance pressure points across a rail network.
+> tl,dr: PTA TSR data isn't published in a format enabling analysis. Hence the script in this project is designed to extract and unlock the data from the PDF's, to then:
+> - answer questions about issues impacting railway performance,
+> - give visability to the data,
+> - create usable information for citizens to drive Governments and Ministers to keep on top of Transport agencies and railway maintenance, and
+> - help everyone have faster and smoother journeys with less delays (yes, it means you'll have less excuses for not being at work on time - but swings and roundabouts).
 
-The PTA publishes Weekly Notices containing safety and operational information. Embedded in those notices is a table of current speed restrictions. While each weekly notice is useful on its own, the real analytical value comes from collecting the table across many weeks and asking questions such as:
+The PTA publishes Weekly Notices containing safety and operational information. Embedded in those notices is a table of current speed restrictions.
+
+Whilst each weekly notice is useful on its own, the real analytical value comes from collecting the table across many weeks and asking questions such as:
 
 - Which TSRs have persisted the longest?
 - Which corridors, line sections, or directions see repeated TSRs?
@@ -108,8 +140,6 @@ The PTA publishes Weekly Notices containing safety and operational information. 
 - How often do restrictions become effectively permanent?
 - How long does it take for different classes of rail infrastructure restrictions to be removed?
 - Are some restriction types seasonal, recurring, or clustered?
-
-However, the data is not published in a format that enables ease of analysis. Hence this Python script.
 
 This script turns the temporary speed restrictions table contained within the weekly PDF notices into a longitudinal dataset that can support answering those kinds of questions.
 
