@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-r"""
-PTA TSR Collector v2.2
+"""
+PTA TSR Collector v2.1
 ======================
 
 Collects PTA Weekly Notice PDFs via the PTA DNN Document Viewer API, extracts
@@ -31,8 +31,8 @@ import textwrap
 import time
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Iterable, Optional, Sequence
-from urllib.parse import quote, unquote, urljoin, urlparse, urlsplit, urlunsplit
+from typing import Iterable, Optional
+from urllib.parse import unquote, urljoin, urlparse
 
 APP_NAME = "pta_tsr_collector"
 PTA_BASE_URL = "https://www.pta.wa.gov.au"
@@ -63,10 +63,6 @@ class PipelineError(Exception):
     """Expected pipeline error with a useful user-facing message."""
 
 
-class MissingPdfError(PipelineError):
-    """Raised when a PDF listed by the PTA document API cannot be downloaded."""
-
-
 @dataclass(frozen=True)
 class DiscoveredPdf:
     url: str
@@ -91,12 +87,10 @@ class ExtractedTsrRow:
 
 
 def ensure_dependencies(auto_install: bool = False) -> None:
-    """Ensure required packages are importable, optionally installing them."""
     missing = []
     for module_name, package_name in REQUIRED_PACKAGES.items():
         if importlib.util.find_spec(module_name) is None:
             missing.append(package_name)
-
     if not missing:
         return
 
@@ -118,7 +112,6 @@ def ensure_dependencies(auto_install: bool = False) -> None:
 
 
 def import_runtime_dependencies() -> None:
-    """Import third-party modules after dependency checks."""
     global requests, BeautifulSoup, pdfplumber
     import requests  # type: ignore
     from bs4 import BeautifulSoup  # type: ignore
@@ -126,17 +119,13 @@ def import_runtime_dependencies() -> None:
 
 
 def setup_dirs_and_logging(verbose: bool = False) -> None:
-    """Create required folders and configure file/console logging."""
     for path in (DATA_DIR, PDF_DIR, EXPORT_DIR, LOG_DIR, DIAGNOSTICS_DIR):
         path.mkdir(parents=True, exist_ok=True)
 
     logging.basicConfig(
         level=logging.DEBUG if verbose else logging.INFO,
         format="%(asctime)s %(levelname)s %(message)s",
-        handlers=[
-            logging.FileHandler(LOG_PATH, encoding="utf-8"),
-            logging.StreamHandler(sys.stdout),
-        ],
+        handlers=[logging.FileHandler(LOG_PATH, encoding="utf-8"), logging.StreamHandler(sys.stdout)],
     )
 
 
@@ -152,7 +141,6 @@ def connect_db() -> sqlite3.Connection:
 
 
 def init_db(conn: sqlite3.Connection) -> None:
-    """Initialise or migrate the local SQLite database."""
     conn.executescript(
         """
         CREATE TABLE IF NOT EXISTS source_pdf (
@@ -231,27 +219,18 @@ def normalise_key(value: str) -> str:
 
 
 def parse_loose_date(value: str) -> Optional[str]:
-    """Parse PTA date strings into YYYY-MM-DD where possible."""
-    text = normalise_space(value).strip(" -")
+    text = normalise_space(value)
     if not text:
         return None
     if text.upper() in {"TBA", "TBC", "TBD", "N/A", "INDEFINITE", "PERMANENT TSR"}:
         return None
 
-    # Normalise PTA filename irregularities observed in historical notices.
     text = re.sub(r"(?<=\d)(st|nd|rd|th)\b", "", text, flags=re.I)
-    text = text.replace("Febuary", "February").replace("Sept ", "Sep ")
-    text = re.sub(r"([A-Za-z])(?=\d{4}\b)", r"\1 ", text)
-    text = normalise_space(text)
+    text = text.replace("Sept ", "Sep ")
 
     patterns = [
-        "%d %B %Y",
-        "%d %b %Y",
-        "%d-%m-%Y",
-        "%d/%m/%Y",
-        "%Y-%m-%d",
-        "%B %Y",
-        "%b %Y",
+        "%d %B %Y", "%d %b %Y", "%d-%m-%Y", "%d/%m/%Y", "%Y-%m-%d",
+        "%B %Y", "%b %Y",
     ]
     for pattern in patterns:
         try:
@@ -272,20 +251,22 @@ def extract_notice_date_from_url(url: str) -> Optional[str]:
     filename = unquote(urlparse(url).path.rsplit("/", 1)[-1])
     stem = re.sub(r"\.pdf$", "", filename, flags=re.I)
 
+    # Current format: Week Commencing 28th June 2026.
     match = re.search(r"Week\s+Commencing\s+(.+)$", stem, flags=re.I)
     if match:
         parsed = parse_loose_date(match.group(1))
         if parsed:
             return parsed
 
-    match = re.search(r"Week\s+Ending\s*(?:Fri\s*)?[- ]*(.+)$", stem, flags=re.I)
+    # Older format: Week Ending 10 Nov 2018 / 8th Dec 2018 / 27th October 2018.
+    match = re.search(r"Week\s+Ending\s*(?:Fri\s*)?(.+)$", stem, flags=re.I)
     if match:
         parsed = parse_loose_date(match.group(1))
         if parsed:
             return parsed
 
     candidates = []
-    candidates.extend(re.findall(r"(\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+\s*\d{4})", stem, flags=re.I))
+    candidates.extend(re.findall(r"(\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+\s+\d{4})", stem, flags=re.I))
     candidates.extend(re.findall(r"(\d{1,2}[-_/]\d{1,2}[-_/]\d{4})", stem))
     candidates.extend(re.findall(r"(\d{4}[-_/]\d{1,2}[-_/]\d{1,2})", stem))
     for candidate in reversed(candidates):
@@ -336,7 +317,7 @@ def create_dnn_session(seed_url: str, module_id: str, tab_id: str):
     session = requests.Session()
     session.headers.update(
         {
-            "User-Agent": f"{APP_NAME}/2.2 (+local research script)",
+            "User-Agent": f"{APP_NAME}/2.1 (+local research script)",
             "Accept": "application/json, text/javascript, */*; q=0.01",
             "X-Requested-With": "XMLHttpRequest",
             "Referer": seed_url,
@@ -449,17 +430,12 @@ def discover_dnn_pdf_links(
             if not isinstance(item, dict):
                 continue
             if bool(item.get("IsFolder")):
-                child_id = item.get("ItemId")
-                if child_id is None:
-                    logging.debug("Skipping folder without ItemId: %r", item)
-                    continue
                 try:
-                    queue.append(int(child_id))
+                    queue.append(int(item.get("ItemId")))
                     child_folders += 1
                 except (TypeError, ValueError):
-                    logging.debug("Skipping folder with non-numeric ItemId: %r", item)
+                    logging.debug("Skipping folder without numeric ItemId: %r", item)
                 continue
-
             pdf = dnn_item_to_pdf(item)
             if pdf:
                 found[pdf.url] = pdf
@@ -479,7 +455,7 @@ def discover_dnn_pdf_links(
 
 def discover_html_pdf_links(seed_urls: list[str], max_depth: int = 2) -> list[DiscoveredPdf]:
     session = requests.Session()
-    session.headers.update({"User-Agent": f"{APP_NAME}/2.2"})
+    session.headers.update({"User-Agent": f"{APP_NAME}/2.1"})
     seen_pages: set[str] = set()
     queue: list[tuple[str, int]] = [(url, 0) for url in seed_urls]
     found: dict[str, DiscoveredPdf] = {}
@@ -529,81 +505,27 @@ def register_pdfs(conn: sqlite3.Connection, pdfs: Iterable[DiscoveredPdf]) -> in
     return count
 
 
-def build_download_candidates(url: str) -> list[str]:
-    """Build conservative alternate URLs for stale/odd PTA file records."""
-    split = urlsplit(url)
-    path = unquote(split.path)
-    path_variants = [path]
-
-    replacements = {
-        "Febuary": "February",
-        "Week Ending- ": "Week Ending - ",
-        "Week Ending-": "Week Ending -",
-    }
-    for old, new in replacements.items():
-        if old in path:
-            path_variants.append(path.replace(old, new))
-
-    candidates: list[str] = []
-    for path_variant in path_variants:
-        encoded_path = quote(path_variant, safe="/%")
-        candidates.append(urlunsplit((split.scheme, split.netloc, encoded_path, split.query, split.fragment)))
-        candidates.append(urlunsplit((split.scheme, split.netloc, encoded_path, "", split.fragment)))
-
-    unique_candidates = []
-    seen: set[str] = set()
-    for candidate in candidates:
-        if candidate not in seen:
-            unique_candidates.append(candidate)
-            seen.add(candidate)
-    return unique_candidates
-
-
 def download_source_pdf(conn: sqlite3.Connection, source: sqlite3.Row, force: bool = False) -> Path:
     local_path = PDF_DIR / source["filename"]
     if local_path.exists() and not force:
         return local_path
 
-    candidates = build_download_candidates(str(source["url"]))
-    last_error = ""
-    for index, candidate_url in enumerate(candidates, start=1):
-        logging.info("Downloading candidate %s/%s: %s", index, len(candidates), candidate_url)
-        try:
-            response = requests.get(candidate_url, timeout=120, allow_redirects=True)
-        except Exception as exc:
-            last_error = str(exc)
-            logging.debug("Download candidate failed before response: %s", exc)
-            continue
-
-        if response.status_code == 404:
-            last_error = f"404 Not Found: {candidate_url}"
-            logging.debug("Download candidate returned 404: %s", candidate_url)
-            continue
-
-        try:
-            response.raise_for_status()
-        except Exception as exc:
-            last_error = str(exc)
-            continue
-
-        if not response.content.startswith(b"%PDF"):
-            last_error = f"Downloaded content is not a PDF from {candidate_url}"
-            logging.debug(last_error)
-            continue
-
-        local_path.write_bytes(response.content)
-        conn.execute(
-            """
-            UPDATE source_pdf
-            SET local_path=?, file_sha256=?, downloaded_at=?, status='downloaded', last_error=NULL
-            WHERE source_pdf_id=?
-            """,
-            (str(local_path), sha256_bytes(response.content), now_iso(), source["source_pdf_id"]),
-        )
-        conn.commit()
-        return local_path
-
-    raise MissingPdfError(f"Unable to download PDF after {len(candidates)} candidate URL(s). Last error: {last_error}")
+    logging.info("Downloading %s", source["url"])
+    response = requests.get(source["url"], timeout=120)
+    response.raise_for_status()
+    if not response.content.startswith(b"%PDF"):
+        raise PipelineError("Downloaded content does not look like a PDF; URL may not be a direct file URL.")
+    local_path.write_bytes(response.content)
+    conn.execute(
+        """
+        UPDATE source_pdf
+        SET local_path=?, file_sha256=?, downloaded_at=?, status='downloaded', last_error=NULL
+        WHERE source_pdf_id=?
+        """,
+        (str(local_path), sha256_bytes(response.content), now_iso(), source["source_pdf_id"]),
+    )
+    conn.commit()
+    return local_path
 
 
 def split_location_distance(raw_location: str, fallback_distance: str = "") -> tuple[str, str]:
@@ -623,7 +545,7 @@ def clean_header(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", normalise_space(value).lower()).strip()
 
 
-def table_looks_like_tsr(table: Sequence[Sequence[Any]]) -> bool:
+def table_looks_like_tsr(table: list[list[object]]) -> bool:
     flat = " ".join(clean_header(str(cell)) for row in table[:3] for cell in row if cell is not None)
     return "speed" in flat and ("restriction" in flat or "railway" in flat or "location" in flat)
 
@@ -756,16 +678,9 @@ def master_fingerprint(row: ExtractedTsrRow) -> str:
 def row_fingerprint(row: ExtractedTsrRow) -> str:
     material = "|".join(
         [
-            normalise_key(row.location),
-            normalise_key(row.line_section),
-            normalise_key(row.distance_km),
-            normalise_key(row.stn_no),
-            normalise_key(row.max_speed),
-            normalise_date_key(row.date_imposed),
-            normalise_key(row.reason),
-            normalise_key(row.date_cancelled),
-            str(row.source_page),
-            str(row.source_row_number),
+            normalise_key(row.location), normalise_key(row.line_section), normalise_key(row.distance_km),
+            normalise_key(row.stn_no), normalise_key(row.max_speed), normalise_date_key(row.date_imposed),
+            normalise_key(row.reason), normalise_key(row.date_cancelled), str(row.source_page), str(row.source_row_number),
         ]
     )
     return hashlib.sha256(material.encode("utf-8")).hexdigest()
@@ -826,22 +741,9 @@ def process_source_pdf(conn: sqlite3.Connection, source: sqlite3.Row, force: boo
                 ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                 (
-                    master_id,
-                    source_pdf_id,
-                    row.notice_date,
-                    row.location,
-                    row.line_section,
-                    row.distance_km,
-                    row.stn_no,
-                    row.max_speed,
-                    row.date_imposed,
-                    row.reason,
-                    row.date_cancelled,
-                    row.source_page,
-                    row.source_row_number,
-                    row_fingerprint(row),
-                    row.raw_row_json,
-                    now_iso(),
+                    master_id, source_pdf_id, row.notice_date, row.location, row.line_section, row.distance_km,
+                    row.stn_no, row.max_speed, row.date_imposed, row.reason, row.date_cancelled,
+                    row.source_page, row.source_row_number, row_fingerprint(row), row.raw_row_json, now_iso(),
                 ),
             )
 
@@ -855,28 +757,11 @@ def process_source_pdf(conn: sqlite3.Connection, source: sqlite3.Row, force: boo
             (notice_date, now_iso(), page_count, table_count, len(extracted_rows), source_pdf_id),
         )
         conn.commit()
-        logging.info(
-            "Processed %s: pages=%s tables=%s rows=%s",
-            source["filename"],
-            page_count,
-            table_count,
-            len(extracted_rows),
-        )
-    except MissingPdfError as exc:
-        conn.rollback()
-        logging.warning("Source PDF unavailable: %s", source["filename"])
-        conn.execute(
-            "UPDATE source_pdf SET status='missing', last_error=? WHERE source_pdf_id=?",
-            (str(exc), source_pdf_id),
-        )
-        conn.commit()
+        logging.info("Processed %s: pages=%s tables=%s rows=%s", source["filename"], page_count, table_count, len(extracted_rows))
     except Exception as exc:
         conn.rollback()
         logging.exception("Failed processing %s", source["filename"])
-        conn.execute(
-            "UPDATE source_pdf SET status='failed', last_error=? WHERE source_pdf_id=?",
-            (str(exc), source_pdf_id),
-        )
+        conn.execute("UPDATE source_pdf SET status='failed', last_error=? WHERE source_pdf_id=?", (str(exc), source_pdf_id))
         conn.commit()
 
 
@@ -949,12 +834,10 @@ def print_status(conn: sqlite3.Connection) -> None:
     print(f"TSR masters: {totals['masters']}")
     print(f"TSR occurrences: {totals['occurrences']}")
 
-    failed = conn.execute(
-        "SELECT filename, last_error FROM source_pdf WHERE status IN ('failed', 'missing') ORDER BY status, filename LIMIT 20"
-    ).fetchall()
+    failed = conn.execute("SELECT filename, last_error FROM source_pdf WHERE status='failed' ORDER BY filename LIMIT 20").fetchall()
     if failed:
-        print("\nFailed or missing PDFs")
-        print("----------------------")
+        print("\nFailed PDFs")
+        print("-----------")
         for row in failed:
             print(f"- {row['filename']}: {row['last_error']}")
 
@@ -1015,7 +898,7 @@ def run_discovery(args: argparse.Namespace, conn: sqlite3.Connection) -> None:
 def run_processing(args: argparse.Namespace, conn: sqlite3.Connection) -> None:
     statuses = ["discovered", "downloaded"]
     if args.retry_failed:
-        statuses.extend(["failed", "missing"])
+        statuses.append("failed")
 
     if args.force:
         query = "SELECT * FROM source_pdf ORDER BY notice_date, filename"
@@ -1035,10 +918,10 @@ def run_processing(args: argparse.Namespace, conn: sqlite3.Connection) -> None:
 
 def main(argv: Optional[list[str]] = None) -> int:
     parser = argparse.ArgumentParser(
-        description="PTA Weekly Notices TSR extraction pipeline v2.2",
+        description="PTA Weekly Notices TSR extraction pipeline v2.1",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=textwrap.dedent(
-            r"""
+            """
             Common commands:
               py .\pta_tsr_collector.py run --install-deps
               py .\pta_tsr_collector.py discover --folder-id 5160
@@ -1058,7 +941,7 @@ def main(argv: Optional[list[str]] = None) -> int:
     parser.add_argument("--pdf-list", type=Path, help="Text file containing one PDF URL per line.")
     parser.add_argument("--max-depth", type=int, default=2, help="Fallback HTML crawl depth. Default: 2.")
     parser.add_argument("--limit", type=int, default=0, help="Limit number of PDFs to process this run. 0 means no limit.")
-    parser.add_argument("--retry-failed", action="store_true", help="Retry PDFs currently marked failed or missing.")
+    parser.add_argument("--retry-failed", action="store_true", help="Retry PDFs currently marked failed.")
     parser.add_argument("--force", action="store_true", help="Force reprocessing of already processed PDFs.")
     parser.add_argument("--install-deps", action="store_true", help="Install missing Python packages without prompting.")
     parser.add_argument("--verbose", action="store_true", help="Verbose logging.")

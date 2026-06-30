@@ -1,0 +1,35 @@
+{
+  "name": "PTA TSR Collector",
+  "dataColors": [
+    "#005EB8",
+    "#009639",
+    "#F2A900",
+    "#E4002B",
+    "#7C878E",
+    "#6F263D",
+    "#00A3E0",
+    "#78BE20"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#005EB8",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold",
+            "color": { "solid": { "color": "#252423" } }
+          }
+        ],
+        "labels": [
+          {
+            "fontSize": 10,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}

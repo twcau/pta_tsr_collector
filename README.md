@@ -4,9 +4,12 @@ A Python-based collection and analysis pipeline for extracting **Temporary Speed
 
 The project discovers PTA Weekly Notice PDFs, downloads them, extracts the **Current Temporary Speed Restrictions / Current Speed Restrictions** table from each notice, stores the results in a resumable SQLite database, assigns recurring restrictions to master TSR records, and exports analysis-ready CSV files.
 
+> [!TIP] > **Eventual project goal**
+> A PowerBI view that includes a map overlay of Perth's rail network, to see repeat hotspots for speed restrictions and maintenance issues.
+
 > [!NOTE]
 >
-> **Project status**: Early operational / exploratory. The collector has successfully discovered a non-zero corpus of PTA Weekly Notice PDFs via the PTA DNN Document Viewer API and has begun processing real historical PDF notices into a CSV file. Expect further tuning as historical PDF layout edge cases are found
+> **Project status**: Early operational / exploratory. The collector has successfully discovered a non-zero corpus of PTA Weekly Notice PDFs via the PTA DNN Document Viewer API, and has begun processing real historical PDF notices into a CSV file. Further tuning of the data extracted to ensure consistent and clean information is underway, before making a PowerBI view available to start exploring the data set.
 
 ## Table of contents
 

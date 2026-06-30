@@ -62,15 +62,15 @@ git push
 Use **Get data > Web** and load these raw GitHub URLs:
 
 ```text
-https://raw.githubusercontent.com/twcau/pta_tsr_collector/main/pta_tsr_data/exports/pta_tsr_occurrences.csv
-https://raw.githubusercontent.com/twcau/pta_tsr_collector/main/pta_tsr_data/exports/pta_tsr_masters.csv
-https://raw.githubusercontent.com/twcau/pta_tsr_collector/main/pta_tsr_data/exports/pta_tsr_source_pdfs.csv
-https://raw.githubusercontent.com/twcau/pta_tsr_collector/main/pta_tsr_data/analytics/pta_tsr_line_month_summary.csv
-https://raw.githubusercontent.com/twcau/pta_tsr_collector/main/pta_tsr_data/analytics/pta_tsr_reason_summary.csv
-https://raw.githubusercontent.com/twcau/pta_tsr_collector/main/pta_tsr_data/analytics/pta_tsr_segment_summary.csv
-https://raw.githubusercontent.com/twcau/pta_tsr_collector/main/pta_tsr_data/analytics/pta_tsr_active_by_notice.csv
-https://raw.githubusercontent.com/twcau/pta_tsr_collector/main/pta_tsr_data/analytics/pta_tsr_duration_buckets.csv
-https://raw.githubusercontent.com/twcau/pta_tsr_collector/main/pta_tsr_data/analytics/pta_tsr_data_quality_summary.csv
+https://raw.githubusercontent.com/twcau/pta_tsr_collector/refs/heads/main/pta_tsr_data/exports/pta_tsr_occurrences.csv
+https://raw.githubusercontent.com/twcau/pta_tsr_collector/refs/heads/main/pta_tsr_data/exports/pta_tsr_masters.csv
+https://raw.githubusercontent.com/twcau/pta_tsr_collector/refs/heads/main/pta_tsr_data/exports/pta_tsr_source_pdfs.csv
+https://raw.githubusercontent.com/twcau/pta_tsr_collector/refs/heads/main/pta_tsr_data/analytics/pta_tsr_line_month_summary.csv
+https://raw.githubusercontent.com/twcau/pta_tsr_collector/refs/heads/main/pta_tsr_data/analytics/pta_tsr_reason_summary.csv
+https://raw.githubusercontent.com/twcau/pta_tsr_collector/refs/heads/main/pta_tsr_data/analytics/pta_tsr_segment_summary.csv
+https://raw.githubusercontent.com/twcau/pta_tsr_collector/refs/heads/main/pta_tsr_data/analytics/pta_tsr_active_by_notice.csv
+https://raw.githubusercontent.com/twcau/pta_tsr_collector/refs/heads/main/pta_tsr_data/analytics/pta_tsr_duration_buckets.csv
+https://raw.githubusercontent.com/twcau/pta_tsr_collector/refs/heads/main/pta_tsr_data/analytics/pta_tsr_data_quality_summary.csv
 ```
 
 ## Step 4 - Report pages to create

@@ -3,6 +3,7 @@
 #Ignore vscode workspace files
 pta_tsr_collector.code-workspace
 #Ignore logs, diagnostics, and PDF files
-pta_tsr_data/logs/
 pta_tsr_data/diagnostics/
+pta_tsr_data/logs/
 pta_tsr_data/pdfs/
+db_archives/
